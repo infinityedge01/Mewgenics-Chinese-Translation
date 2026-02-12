@@ -5,12 +5,11 @@ ABILITY_BLOCK2_DESC,Gain +5 [img:shield].,,Obtiene +5 [img:shield].,[img:shield]
 ABILITY_REST_NAME,Rest,,Descanso,Repos,Schläfchen,Riposo,Descanso,休息
 ABILITY_REST_DESC,"Heal some HP, then fall asleep.",,Recupera algunos PS y luego se duerme.,Vous regagnez un peu de PV avant de vous endormir.,Stelle ein paar LP wieder her und schlafe anschließend ein.,"Rigeneri alcuni PS, poi ti addormenti.","Cure um pouco de saúde, e então adormeça.",恢复一些生命值，然后睡着。
 ABILITY_REST2_DESC,"Heal a lot of HP, then fall asleep.",,Recupera muchos PS y luego se duerme.,Vous regagnez beaucoup de PV avant de vous endormir.,Stelle viel LP wieder her und schlafe anschließend ein.,"Rigeneri molti PS, poi ti addormenti.","Cure muita saúde, e então adormeça.",大量恢复生命值，然后睡着。
-ABLITY_BRACE_NAME,Brace,,Refuerzo,Garde,Wappnen,Guardia,Preparação,蓄势待发
-ABLITY_BRACE_DESC,Gain +1 temporary Brace until your next turn.,,Obtiene +1 de refuerzo temporal hasta el próximo turno.,Garde temporaire&nbsp;+1&nbsp;jusqu'à votre prochain tour.,Erhalte bis zu deinem nächsten Zug +1 vorübergehendes Wappnen.,Ottieni +1 Guardia temporanea fino al tuo prossimo turno.,Obtenha +1 de preparação temporária até seu próximo turno.,"直到你的下一个回合，
-获得 +1 临时蓄势待发。"
-ABLITY_BRACE2_DESC,Gain +1 temporary Brace and +1 temporary Thorns until your next turn.,,Obtiene +1 de refuerzo temporal y +1 de espinas temporal hasta el próximo turno.,Garde temporaire&nbsp;+1&nbsp;et Épines temporaires&nbsp;+1&nbsp;jusqu'à votre prochain tour.,Erhalte bis zu deinem nächsten Zug +1 vorübergehendes Wappnen und +1 vorübergehende Dornen.,Ottieni +1 Guardia temporanea e +1 Spine temporanee fino al tuo prossimo turno.,Obtenha +1 de preparação temporária e +1 de espinhos temporários até seu próximo turno.,"直到你的下一个回合，
-获得 +1 临时蓄势待发和 +1 临时荆棘。
-"
+ABLITY_BRACE_NAME,Brace,,Refuerzo,Garde,Wappnen,Guardia,Preparação,整装待发
+ABLITY_BRACE_DESC,Gain +1 temporary Brace until your next turn.,,Obtiene +1 de refuerzo temporal hasta el próximo turno.,Garde temporaire&nbsp;+1&nbsp;jusqu'à votre prochain tour.,Erhalte bis zu deinem nächsten Zug +1 vorübergehendes Wappnen.,Ottieni +1 Guardia temporanea fino al tuo prossimo turno.,Obtenha +1 de preparação temporária até seu próximo turno.,"直到你的下一个回合，  
+获得 +1 临时护甲。"
+ABLITY_BRACE2_DESC,Gain +1 temporary Brace and +1 temporary Thorns until your next turn.,,Obtiene +1 de refuerzo temporal y +1 de espinas temporal hasta el próximo turno.,Garde temporaire&nbsp;+1&nbsp;et Épines temporaires&nbsp;+1&nbsp;jusqu'à votre prochain tour.,Erhalte bis zu deinem nächsten Zug +1 vorübergehendes Wappnen und +1 vorübergehende Dornen.,Ottieni +1 Guardia temporanea e +1 Spine temporanee fino al tuo prossimo turno.,Obtenha +1 de preparação temporária e +1 de espinhos temporários até seu próximo turno.,"直到你的下一个回合，  
+获得 +1 临时护甲和 +1 临时荆棘。"
 ABILITY_GROOM_NAME,Groom,,Acicalamiento,Toilettage,Schlecken,Toelettatura,Enfeitar,梳理
 ABILITY_GROOM_DESC,Remove all of the debuffs on yourself or an adjacent unit.,,Se elimina todas las desventajas de sí misma o de una adyacente.,Retire tous les malus sur vous ou une unité adjacente.,"Entferne alle Schwächungen, von denen du oder eine benachbarte Einheit betroffen ist.",Rimuove tutti i malus da te o da un'unità adiacente,Remova todos os enfraquecimentos de si e de uma unidade adjacente.,"移除自己或相邻单位所有负面状态。
 "
@@ -83,13 +82,13 @@ ABILITY_BRAINSTORM_DESC,Reduce the costs of your other spells by 1 mana.,,Reduce
 ABILITY_BRAINSTORM2_DESC,Reduce the cost of ALL of your spells by 1 mana.,,Reduce en 1 de maná el coste de todos sus demás hechizos.,Réduit le coût de tous vos sorts de 1&nbsp;mana.,Reduziert die Kosten ALL deiner Zauber um 1&nbsp;Mana.,Riduci il costo di TUTTI i tuoi altri incantesimi di 1 mana.,Reduza os custos de todos os seus encantamentos em 1 de mana.,"所有技能的法力消耗减少 1 点。
 "
 ABILITY_CLAWSOUT_NAME,Claws Out,,Zarpazo,Toutes griffes dehors,Krallen zücken,Graffio Aguzzo,Garras Expostas,利爪张开
-ABILITY_CLAWSOUT_DESC,Gain +1 Thorns.,,Obtiene +1 de espinas.,Épines&nbsp;+1.,Erhalte +1&nbsp;Dornen.,Ottieni +1 Spine.,Obtenha +1 de espinhos.,获得 +1 刺甲。
+ABILITY_CLAWSOUT_DESC,Gain +1 Thorns.,,Obtiene +1 de espinas.,Épines&nbsp;+1.,Erhalte +1&nbsp;Dornen.,Ottieni +1 Spine.,Obtenha +1 de espinhos.,获得 +1 荆棘。
 ABILITY_CLAWSOUT2_DESC,"Gain +1 Thorns.
 [s:.7](This spell costs less.)[/s]",,"Obtiene +1 de espinas.
 [s:.7](Este hechizo cuesta menos).[/s]",Épines&nbsp;+1. [s:.7](Coût réduit.)[/s],"Erhalte +1&nbsp;Dornen.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Ottieni +1 Spine.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Obtenha +1 de espinhos.
-[s:.7](Este encantamento custa menos.)[/s]","获得 +1 刺甲。
+[s:.7](Este encantamento custa menos.)[/s]","获得 +1 荆棘。
 [s:.7](此法术消耗减少。)[/s]"
 ABILITY_PREPARETOJUMP_NAME,Hop,,Brinco,Et hop&nbsp;!,Hüpfen,Saltello,Pulo,跳跃
 ABILITY_PREPARETOJUMP_DESC,Hop up to 2 tiles away.,,Salta hasta a 2 casillas de distancia.,Sautez jusqu'à 2&nbsp;cases plus loin.,Hüpfe bis zu 2&nbsp;Felder weit.,Salta fino a 2 caselle di distanza.,Pule para até 2 espaços de distância.,跳跃至最多 2 格范围内。
@@ -130,18 +129,17 @@ ABILITY_HUNT_DESC,A ranged attack that turns anything it kills into meat.,,Un at
 ABILITY_HUNT2_DESC,A stronger ranged attack that turns anything it kills into meat.,,Un ataque a distancia más fuerte que convierte en carne a todo lo que mata.,"Si vous tuez une unité avec cette puissante attaque à distance, elle devient de la viande.","Ein stärkerer Fernangriff, der Einheiten, die er tötet, in Fleisch verwandelt.",Un attacco a distanza più potente che trasforma in carne tutto ciò che uccide.,Um ataque à distância mais forte que transforma tudo que mata em carne.,"更强的远程攻击，
 所杀敌人变为肉。"
 ABILITY_FLEX_NAME,Flex,,Demostración,Flex,Muskelprotz,Contrazione,Flexão,灵活
-ABILITY_FLEX_DESC,Gain +1 temporary Brace until your next turn and deal 1 knockback to each adjacent unit.,,Obtiene +1 de refuerzo temporal hasta el próximo turno e inflige 1 de retroceso a cada unidad adyacente.,Garde temporaire&nbsp;+1&nbsp;jusqu'à votre prochain tour et Recul&nbsp;+1&nbsp;à chaque unité adjacente.,Erhalte bis zu deinem nächsten Zug +1 vorübergehendes Wappnen und verursache bei jeder benachbarten Einheit 1&nbsp;Rückstoß.,Ottieni +1 Guardia temporanea fino al tuo turno successivo e infliggi 1 Contraccolpo a ogni unità adiacente.,Obtenha +1 de preparação temporária e cause 1 de empurrão a cada unidade adjacente.,"获得 +1 临时防护，
-直到你的下一回合，
-并对每个相邻单位造成1点击退。
-"
+ABILITY_FLEX_DESC,Gain +1 temporary Brace until your next turn and deal 1 knockback to each adjacent unit.,,Obtiene +1 de refuerzo temporal hasta el próximo turno e inflige 1 de retroceso a cada unidad adyacente.,Garde temporaire&nbsp;+1&nbsp;jusqu'à votre prochain tour et Recul&nbsp;+1&nbsp;à chaque unité adjacente.,Erhalte bis zu deinem nächsten Zug +1 vorübergehendes Wappnen und verursache bei jeder benachbarten Einheit 1&nbsp;Rückstoß.,Ottieni +1 Guardia temporanea fino al tuo turno successivo e infliggi 1 Contraccolpo a ogni unità adiacente.,Obtenha +1 de preparação temporária e cause 1 de empurrão a cada unidade adjacente.,"获得 +1 临时护甲，  
+直到你的下一回合，  
+并对每个相邻单位造成1击退。"
 ABILITY_FLEX2_DESC,"Gain +1 temporary Brace until your next turn and deal 3 knockback to each adjacent unit.
 [s:.7](This spell costs less.)[/s]",,"Obtiene +1 de refuerzo temporal hasta el próximo turno e inflige 3 de retroceso a cada unidad adyacente.
 [s:.7](Este hechizo cuesta menos).[/s]",Garde temporaire&nbsp;+1&nbsp;jusqu'à votre prochain tour et Recul&nbsp;+3&nbsp;à chaque unité adjacente. [s:.7](Coût réduit.)[/s],"Erhalte bis zu deinem nächsten Zug +1 vorübergehendes Wappnen und verursache bei jeder benachbarten Einheit 3&nbsp;Rückstoß.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Ottieni +1 Guardia temporanea fino al tuo turno successivo e infliggi 3 Contraccolpo a ogni unità adiacente.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Obtenha +1 de preparação temporária e cause 3 de empurrão a cada unidade adjacente.
-[s:.7](Este encantamento custa menos.)[/s]","获得 +1 临时防护，
-直到你的下一回合，
-并对每个相邻单位造成3点击退。
+[s:.7](Este encantamento custa menos.)[/s]","获得 +1 临时护甲，  
+直到你的下一回合，  
+并对每个相邻单位造成3击退。  
 
 [s:.7](该法术消耗更少。)[/s]"
 ABILITY_DART_NAME,Dart,,Dardo,Clou perçant,Wurfpfeil,Dardo,Dardo,飞镖
@@ -384,8 +382,7 @@ ABILITY_FINDAROCK2_DESC,"Dig up a small rock.
 [s:.7](这法术消耗更少。)[/s]"
 ABILITY_GASSYASSBLAST_NAME,Ass Blast,,Explosión del culo,Lâcher un vent,Riesenfurz,Sfuriata Posteriore,Golpe de traseiro,屁股爆破
 ABILITY_GASSYASSBLAST_DESC,Knock back all adjacent units.,,Hace retroceder a todas las unidades adyacentes.,Repousse toutes les unités adjacentes.,Stoße alle benachbarten Einheiten zurück.,Respingi tutte le unità adiacenti.,Empurre para trás todas as unidades adjacentes.,击退所有相邻单位。
-ABILITY_GASSYASSBLAST2_DESC,Knock back all adjacent units 3 tiles and inflict Poison 1.,,Hace retroceder 3 casillas a todas las unidades adyacentes y les inflige +1 de veneno.,Repousse toutes les unités adjacentes de 3&nbsp;cases et inflige Poison&nbsp;+1.,Stoße alle benachbarten Einheiten um 3&nbsp;Felder zurück und verursache Gift&nbsp;1.,Respingi tutte le unità adiacenti di 3 caselle e infliggi Veleno 1.,Empurre todas as unidades adjacentes 3 espaços para trás e aplique veneno 1.,"击退所有相邻单位3格并造成毒害1。
-"
+ABILITY_GASSYASSBLAST2_DESC,Knock back all adjacent units 3 tiles and inflict Poison 1.,,Hace retroceder 3 casillas a todas las unidades adyacentes y les inflige +1 de veneno.,Repousse toutes les unités adjacentes de 3&nbsp;cases et inflige Poison&nbsp;+1.,Stoße alle benachbarten Einheiten um 3&nbsp;Felder zurück und verursache Gift&nbsp;1.,Respingi tutte le unità adiacenti di 3 caselle e infliggi Veleno 1.,Empurre todas as unidades adjacentes 3 espaços para trás e aplique veneno 1.,击退所有相邻单位3格并造成中毒1。
 ABILITY_BURGEONINGBLAST_NAME,Burgeoning Blast,,Explosión creciente,Explosion bourgeonnante,Wachsender Knall,Esplosione Crescente,Explosão Expansiva,蓬勃爆破
 ABILITY_BURGEONINGBLAST_DESC,"A spell that deals {v0} damage. Increase this spell's damage by 2 at the end of each turn.
 [s:.7](Castable once per battle.)[/s]",,"Un hechizo que inflige {v0} de daño. Aumenta en 2 el daño de este hechizo al final de cada turno.
@@ -1110,17 +1107,16 @@ ABILITY_HOLYLIGHT2_DESC,"Heal allies and damage enemies in an area. This spell h
 此法术在中心以外效果减半。
 [s:.7](此法术消耗更低。)[/s]"
 ABILITY_ETHEREAL_NAME,Ethereal,,Etéreo,Céleste,Ätherisch,Etereo,Etéreo,虚无
-ABILITY_ETHEREAL_DESC,"Gain 4 [img:divineshield], 3 [img:shield], heal 2 HP, and Brace 1.",,"Obtiene 4 [img:divineshield], 3 [img:shield], 1 de refuerzo y recupera 2 PS.","[img:divineshield]&nbsp;+4, [img:shield]&nbsp;+3, soigne 2&nbsp;PV et Garde&nbsp;+1.","Erhalte 4&nbsp;[img:divineshield], 3&nbsp;[img:shield], Wappnen&nbsp;1 und heile 2&nbsp;LP.","Ottieni 4 allo [img:divineshield], 3 allo [img:shield], rigeneri 2 PS e ottieni Guardia 1.","Obtenha 4 de [img:divineshield], 3 de [img:shield], preparação 1 e cure 2 PV.","获得4个[img:divineshield]，3个[img:shield]，
-治疗2点生命值，
-并获得1层紧握。"
+ABILITY_ETHEREAL_DESC,"Gain 4 [img:divineshield], 3 [img:shield], heal 2 HP, and Brace 1.",,"Obtiene 4 [img:divineshield], 3 [img:shield], 1 de refuerzo y recupera 2 PS.","[img:divineshield]&nbsp;+4, [img:shield]&nbsp;+3, soigne 2&nbsp;PV et Garde&nbsp;+1.","Erhalte 4&nbsp;[img:divineshield], 3&nbsp;[img:shield], Wappnen&nbsp;1 und heile 2&nbsp;LP.","Ottieni 4 allo [img:divineshield], 3 allo [img:shield], rigeneri 2 PS e ottieni Guardia 1.","Obtenha 4 de [img:divineshield], 3 de [img:shield], preparação 1 e cure 2 PV.","获得4个[img:divineshield]，3个[img:shield]，  
+治疗2点生命值，  
+并获得1层护甲。"
 ABILITY_ETHEREAL2_DESC,"Gain Thorns 6, Reflect 5, 4 [img:divineshield],
 3 [img:shield], heal 2 HP and Brace 1.",,"Obtiene 6 de espinas, 5 de devolución, 4 [img:divineshield],
 3 [img:shield], 1 de refuerzo y recupera 2 PS.","Épines&nbsp;+6, Renvoi+5, [img:divineshield]&nbsp;+4, [img:shield]&nbsp;+3, soigne 2&nbsp;PV et Garde&nbsp;+1.","Erhalte Dornen&nbsp;6, Reflektieren&nbsp;5, 4&nbsp;[img:divineshield],
 3&nbsp;[img:shield], Wappnen&nbsp;1 und heile 2&nbsp;LP.","Ottieni Spine 6, Riflessione 5, 4 allo [img:divineshield],
-3 allo [img:shield], rigeneri 2 PS e ottieni Guardia 1.","Obtenha espinhos 6, reflexão 5, 4 de [img:divineshield], 3 de [img:shield], preparação 1 e cure 2 PV.","获得6层荆棘，5层反射，
-4个[img:divineshield]，3个[img:shield]，
-治疗2点生命值并获得1层紧握。
-"
+3 allo [img:shield], rigeneri 2 PS e ottieni Guardia 1.","Obtenha espinhos 6, reflexão 5, 4 de [img:divineshield], 3 de [img:shield], preparação 1 e cure 2 PV.","获得6层荆棘，5层反射，  
+4个[img:divineshield]，3个[img:shield]，  
+治疗2点生命值并获得1层护甲。"
 ABILITY_BORNAGAIN_NAME,Born Again,,Renacido,Nouvelle vie,Auferstehung,Rinascita,Renascimento,重生
 ABILITY_BORNAGAIN_DESC,"Revive a body to 100% HP and give it All Stats Up, then you fall asleep.",,"Resucita un cadáver con el 100 % de PS y le otorga aumento total. Luego, se duerme.","Réanime un cadavre avec 100&nbsp;% de ses PV et lui confère Hausse de stats, puis vous vous endormez.",Belebe eine Einheit mit 100&nbsp;% LP wieder und verleihe ihr einen Bonus auf alle Attribute. Schlafe anschließend ein.,Riporti un corpo al 100% di PS e gli fornisci Aumento delle Statistiche. Poi ti addormenti.,"Reviva um corpo com 100% de saúde e conceda todos os atributos aumentados, e então adormeça.","复活一个身体至100%生命值
 并给予全属性提升，
@@ -1474,17 +1470,16 @@ ABILITY_HIPTOSS2_DESC,"Throw a random adjacent unit two tiles away, dealing dama
 造成伤害。
 如果掷到另一单位身上，伤害加倍。
 "
-ABILITY_BRUISE_NAME,Bruise,,Moratón,Contusion,Beule,Livido,Contusão,淤伤
+ABILITY_BRUISE_NAME,Bruise,,Moratón,Contusion,Beule,Livido,Contusão,挫伤
 ABILITY_BRUISE_DESC,"Your basic attack inflicts Bruise until the end of the turn.
 [s:.7](Castable once per turn.)[/s]",,"El ataque básico inflige moratón hasta el final del turno.
 [s:.7](Se puede lanzar una vez por turno).[/s]",Votre attaque de base inflige Contusion jusqu'à la fin du tour. [s:.7](Une fois par tour.)[/s],"Dein Grundangriff verursacht bis zum Ende des Zuges Beulen.
 [s:.7](Einmal pro Zug verwendbar.)[/s]","Il tuo attacco base infligge Livido fino alla fine del turno.
 [s:.7](Lanciabile una volta per turno.)[/s]","Seu ataque básico aplica contusão até o final do turno.
-[s:.7](Um lançamento por turno.)[/s]","你的普通攻击在回合结束前造成淤伤。
+[s:.7](Um lançamento por turno.)[/s]","你的普通攻击在回合结束前造成挫伤。
 
 [s:.7](每回合只能施放一次。)[/s]"
-ABILITY_BRUISE2_DESC,Your basic attack inflicts Bruise until the end of the turn.,,El ataque básico inflige moratón hasta el final del turno.,Votre attaque de base inflige Contusion jusqu'à la fin du tour.,Dein Grundangriff verursacht bis zum Ende des Zuges Beulen.,Il tuo attacco base infligge Livido fino alla fine del turno.,Seu ataque básico aplica contusão até o final do turno.,"你的普通攻击在回合结束前造成淤伤。
-"
+ABILITY_BRUISE2_DESC,Your basic attack inflicts Bruise until the end of the turn.,,El ataque básico inflige moratón hasta el final del turno.,Votre attaque de base inflige Contusion jusqu'à la fin du tour.,Dein Grundangriff verursacht bis zum Ende des Zuges Beulen.,Il tuo attacco base infligge Livido fino alla fine del turno.,Seu ataque básico aplica contusão até o final do turno.,你的普通攻击在回合结束前造成挫伤。
 ABILITY_SLAPBACK_NAME,Slapback,,Tortazo,Grosse gifle,Rückschlag,Schiaffone,Contratapa,回击
 ABILITY_SLAPBACK_DESC,"A melee attack with a high critical hit chance.
 RELOAD: Take damage.",,"Un ataque cuerpo a cuerpo con una alta probabilidad de golpe crítico.
@@ -1594,14 +1589,12 @@ ABILITY_WAYOFTHEMANTIS2_DESC,"For the rest of the battle, you can attack an extr
 你每回合可以额外攻击一次。
 [s:.7](该法术消耗更少。)[/s]"
 ABILITY_PORCUPINE_NAME,Porcupine,,Puercoespín,Porc-épic,Stachelschwein,Porcospino,Porco Espinho,豪猪
-ABILITY_PORCUPINE_DESC,Gain +2 temporary Brace and +2 temporary Thorns until your next turn.,,Obtiene +2 de refuerzo temporal y +2 de espinas temporal hasta el próximo turno.,Garde temporaire&nbsp;+2&nbsp;et Épines temporaires&nbsp;+2&nbsp;jusqu'à votre prochain tour.,Erhalte bis zu deinem nächsten Zug +2 vorübergehendes Wappnen and +2 vorübergehende Dornen.,Ottieni +2 Guardia temporanea e +2 Spine temporanee fino al tuo prossimo turno.,Obtenha +2 de preparação temporária e +2 de espinhos temporários até o seu próximo turno.,"直到下回合，
-获得+2临时护体和+2临时荆棘。
-"
-ABILITY_PORCUPINE2_DESC,Gain +2 temporary Brace and +2 temporary Thorns until your next turn. Also reflect the next projectile you're hit by.,,Obtiene +2 de refuerzo temporal y +2 de espinas temporal hasta el próximo turno. También devuelve el siguiente proyectil que golpee.,Garde temporaire&nbsp;+2&nbsp;et Épines temporaires&nbsp;+2&nbsp;jusqu'à votre prochain tour. Renvoie le prochain projectile qui vous vise.,"Erhalte bis zu deinem nächsten Zug +2 vorübergehendes Wappnen and +2 vorübergehende Dornen. Reflektiere außerdem das nächste Geschoss, das dich treffen würde.","Ottieni +2 Guardia temporanea e +2 Spine temporanee fino al tuo prossimo turno. Inoltre, riflette il prossimo proiettile che ti colpisce.",Obtenha +2 de preparação temporária e +2 de espinhos temporários até o seu próximo turno. Reflita projéteis que acertem você.,"直到下回合，
-获得+2临时护体和+2临时荆棘。
+ABILITY_PORCUPINE_DESC,Gain +2 temporary Brace and +2 temporary Thorns until your next turn.,,Obtiene +2 de refuerzo temporal y +2 de espinas temporal hasta el próximo turno.,Garde temporaire&nbsp;+2&nbsp;et Épines temporaires&nbsp;+2&nbsp;jusqu'à votre prochain tour.,Erhalte bis zu deinem nächsten Zug +2 vorübergehendes Wappnen and +2 vorübergehende Dornen.,Ottieni +2 Guardia temporanea e +2 Spine temporanee fino al tuo prossimo turno.,Obtenha +2 de preparação temporária e +2 de espinhos temporários até o seu próximo turno.,"直到下回合，  
+获得+2临时护甲和+2临时荆棘。"
+ABILITY_PORCUPINE2_DESC,Gain +2 temporary Brace and +2 temporary Thorns until your next turn. Also reflect the next projectile you're hit by.,,Obtiene +2 de refuerzo temporal y +2 de espinas temporal hasta el próximo turno. También devuelve el siguiente proyectil que golpee.,Garde temporaire&nbsp;+2&nbsp;et Épines temporaires&nbsp;+2&nbsp;jusqu'à votre prochain tour. Renvoie le prochain projectile qui vous vise.,"Erhalte bis zu deinem nächsten Zug +2 vorübergehendes Wappnen and +2 vorübergehende Dornen. Reflektiere außerdem das nächste Geschoss, das dich treffen würde.","Ottieni +2 Guardia temporanea e +2 Spine temporanee fino al tuo prossimo turno. Inoltre, riflette il prossimo proiettile che ti colpisce.",Obtenha +2 de preparação temporária e +2 de espinhos temporários até o seu próximo turno. Reflita projéteis que acertem você.,"直到下回合，  
+获得+2临时护甲和+2临时荆棘。  
 
-还可反弹下一次被击中的投射物。
-"
+还可反弹下一次被击中的投射物。"
 ABILITY_ANNEAL_NAME,Anneal,,Recocimiento,Recuit,Glühen,Tempra,Temperar,退火
 ABILITY_ANNEAL_DESC,Gain +1 [img:shield]. This spell costs 0 mana the first time you cast it each turn.,,Obtiene +1 [img:shield]. Este hechizo cuesta 0 de maná la primera vez que se lanza cada turno.,[img:shield]&nbsp;+1. Coûte 0&nbsp;mana au premier lancer de chaque tour.,Erhalte +1&nbsp;[img:shield]. Dieser Zauber kostet das erste Mal pro Zug 0&nbsp;Mana.,Ottieni +1 allo [img:shield]. Quest'incantesimo costa 0 mana la prima volta che lo lanci in ogni turno.,Obtenha +1 de [img:shield]. Este encantamento custa 0 de mana na primeira vez em que é lançado a cada turno.,"获得+1 [img:shield]。该法术每回合首
 次施放时消耗0法力值。"
@@ -1757,9 +1750,9 @@ ABILITY_FLYINGFIST2_DESC,A melee attack with knockback that hits two tiles away 
 ABILITY_100HANDSLAP_NAME,Hundred Hand Slap,,Golpe de cien manos,Gifle de cent mains,Hundert Hände,Schiaffo delle Cento Mani,Tapa de Cem Mãos,百手掌
 ABILITY_100HANDSLAP_DESC,A ten-hit multi-strike melee attack with Knockback 10 at the end of the combo.,,Un ataque cuerpo a cuerpo multigolpe de 10 golpes que inflige 10 de retroceso al final del combo.,Une attaque au corps-à-corps à dix coups avec Recul&nbsp;+10&nbsp;à la fin du combo.,"Ein Nahkampfangriff, der zehn Mal trifft und am Ende der Kombo Rückstoß&nbsp;10 verursacht.",Un attacco corpo a corpo multiplo da dieci colpi con Contraccolpo 10 alla fine della combo.,Um ataque corpo-a-corpo multigolpes de 10 golpes com empurrão 10 no final do combo.,"一个十连击的多段近战攻击，
 连击结束时具有击退10。"
-ABILITY_100HANDSLAP2_DESC,A ten-hit multi-strike melee attack with Knockback 10 at the end of the combo. Each hit has a 10% chance to inflict Bruise. The final hit deals extra damage.,,Un ataque cuerpo a cuerpo multigolpe de 10 golpes que inflige 10 de retroceso al final del combo. Cada golpe tiene un 10 % de probabilidad de infligir moratón. El golpe final inflige daño extra.,Une attaque au corps-à-corps à dix coups avec Recul&nbsp;+10&nbsp;à la fin du combo. Chaque coup a 10&nbsp;% de chances d'infliger Contusion. Le dernier coup inflige plus de dégâts.,"Ein Nahkampfangriff, der zehn Mal trifft und am Ende der Kombo Rückstoß&nbsp;10 verursacht. Jeder Treffer hat eine Wahrscheinlichkeit von 10&nbsp;%, Beulen zu verursachen. Der letzte Treffer verursacht zusätzlichen Schaden.",Un attacco corpo a corpo multiplo da dieci colpi con Contraccolpo 10 alla fine della combo. Ogni colpo ha un 10% di probabilità di infliggere Livido. Il colpo finale infligge danno aggiuntivo.,Um ataque corpo-a-corpo multigolpes de 10 golpes com empurrão 10 no final do combo. Cada golpe possui 10% de chance de aplicar contusão. O golpe final causa dano extra.,"一个十连击的多段近战攻击，
-连击结束时具有击退10。
-每次攻击有10%的几率造成瘀伤。
+ABILITY_100HANDSLAP2_DESC,A ten-hit multi-strike melee attack with Knockback 10 at the end of the combo. Each hit has a 10% chance to inflict Bruise. The final hit deals extra damage.,,Un ataque cuerpo a cuerpo multigolpe de 10 golpes que inflige 10 de retroceso al final del combo. Cada golpe tiene un 10 % de probabilidad de infligir moratón. El golpe final inflige daño extra.,Une attaque au corps-à-corps à dix coups avec Recul&nbsp;+10&nbsp;à la fin du combo. Chaque coup a 10&nbsp;% de chances d'infliger Contusion. Le dernier coup inflige plus de dégâts.,"Ein Nahkampfangriff, der zehn Mal trifft und am Ende der Kombo Rückstoß&nbsp;10 verursacht. Jeder Treffer hat eine Wahrscheinlichkeit von 10&nbsp;%, Beulen zu verursachen. Der letzte Treffer verursacht zusätzlichen Schaden.",Un attacco corpo a corpo multiplo da dieci colpi con Contraccolpo 10 alla fine della combo. Ogni colpo ha un 10% di probabilità di infliggere Livido. Il colpo finale infligge danno aggiuntivo.,Um ataque corpo-a-corpo multigolpes de 10 golpes com empurrão 10 no final do combo. Cada golpe possui 10% de chance de aplicar contusão. O golpe final causa dano extra.,"一个十连击的多段近战攻击，  
+连击结束时具有击退10。  
+每次攻击有10%的几率造成挫伤。  
 最后一击造成额外伤害。"
 ABILITY_OCULARPATDOWN_NAME,Ocular Pat Down,,Palpación ocular,,Beäugung,Controllo Oculare,Exame Ocular,眼部检查
 ABILITY_OCULARPATDOWN_DESC,Inflict Marked and Magic Weakness 1 on a unit.,,Inflige punto de mira y 1 de debilidad mágica a una unidad.,Inflige Marquage et Vulnérabilité magique&nbsp;+1&nbsp;à une unité.,Verursache Markiert und Magieschwäche&nbsp;1 bei einer Einheit.,Infliggi Marchio e Debolezza Magica 1 a un'unità.,Aplique marcação e fraqueza contra magia 1 em uma unidade.,对单位造成标记和魔法虚弱1。
@@ -2659,15 +2652,14 @@ ABILITY_FORMOFTHETURTLE2_DESC,"Enter Turtle Form, getting +2 [img:con], +10 [img
 你的基础攻击变为撞头击，
 且该技能变为硬化壳体+。"
 ABILITY_HARDENSHELL_NAME,Harden Shell,,Endurecimiento de caparazón,Carapace,Harte Schale,Guscio Indurito,Casca Dura,硬化壳体
-ABILITY_HARDENSHELL_DESC,"Gain +1 [img:shield], +1 Thorns, and +1 temporary Brace.",,"Obtiene +1 [img:shield], +1 de espinas y +1 de refuerzo temporal.","[img:shield]&nbsp;+1, Épines&nbsp;+1&nbsp;et Garde temporaire&nbsp;+1.","Erhalte +1&nbsp;[img:shield], +1&nbsp;Dornen und +1&nbsp;vorübergehendes Wappnen.","Ottieni +1 allo [img:shield], +1 Spine e +1 Guardia temporanea.","Obtenha +1 de [img:shield], +1 de espinhos e +1 de preparação temporária.","获得 +1 [img:shield]，+1 荆棘，
-和 +1 临时撑住。"
+ABILITY_HARDENSHELL_DESC,"Gain +1 [img:shield], +1 Thorns, and +1 temporary Brace.",,"Obtiene +1 [img:shield], +1 de espinas y +1 de refuerzo temporal.","[img:shield]&nbsp;+1, Épines&nbsp;+1&nbsp;et Garde temporaire&nbsp;+1.","Erhalte +1&nbsp;[img:shield], +1&nbsp;Dornen und +1&nbsp;vorübergehendes Wappnen.","Ottieni +1 allo [img:shield], +1 Spine e +1 Guardia temporanea.","Obtenha +1 de [img:shield], +1 de espinhos e +1 de preparação temporária.","获得 +1 [img:shield]，+1 荆棘，  
+和 +1 临时护甲。"
 ABILITY_HARDENSHELL2_DESC,"Gain +1 [img:shield], +1 Thorns, and +1 temporary Brace.
 [s:.7](This spell costs less.)[/s]",,"Obtiene +1 [img:shield], +1 de espinas y +1 de refuerzo temporal.
 [s:.7](Este hechizo cuesta menos).[/s]","[img:shield]&nbsp;+1, Épines&nbsp;+1&nbsp;et Garde temporaire&nbsp;+1. [s:.7](Coût réduit.)[/s]","Erhalte +1 [img:shield], +1 Dornen und +1&nbsp;vorübergehendes Wappnen.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Ottieni +1 allo [img:shield], +1 Spine e +1 Guardia temporanea.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Obtenha +1 de [img:shield], +1 de espinhos e +1 de preparação temporária.
-[s:.7](Este encantamento custa menos.)[/s]","获得 +1 [img:shield]，+1 荆棘，
-和 +1 临时撑住。
+[s:.7](Este encantamento custa menos.)[/s]","获得 +1 [img:shield]，+1 荆棘，和 +1 临时护甲。  
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_HEADBASH_NAME,Head Bash,,Golpe con la cabeza,Coup de tête,Kopfnuss,Testata,Cabeçada,撞头击
 ABILITY_HEADBASH_DESC,"Dash forward one tile, then attack. This attack deals Knockback and has a chance to inflict Stun.",,Se lanza hacia delante una casilla y luego ataca; inflige retroceso y tiene una probabilidad de aturdir.,Foncez en avant d'une case et attaquez. Inflige Recul et a une chance d'infliger Étourdissement.,Stürme ein Feld vorwärts und greife an. Dieser Angriff verursacht Rückstoß und kann Betäubung verursachen.,"Scatti in avanti di una casella, poi attacchi. Questo attacco infligge Contraccolpo e ha una probabilità di infliggere Stordimento.","Dê um impulso de 1 espaço para frente, e então ataque. Este ataque possui empurrão e uma chance de aplicar atordoamento.","向前冲刺一个格子，然后攻击。
@@ -2751,14 +2743,14 @@ ABILITY_WEWILLROCKYOU2_DESC,Inflict Petrify on a familiar and give it +6 [img:sh
 [img:shield] 和 +2 荆棘。"
 ABILITY_FORMOFTHETREE_NAME,Form of the Tree,,Forma del árbol,Forme de l'arbre,Baumgestalt,Sembianze dell'Albero,Forma da Árvore,树之形态
 ABILITY_FORMOFTHETREE_DESC,"Enter Tree Form, gaining -2 [img:int], +5 [img:shield], and Brace 2. You become immobile and immune to Knockback. Your basic attack becomes Timber and this becomes Synthesize.",,"Adopta la forma de árbol y obtiene -2 [img:int], +5 [img:shield] y 2 de refuerzo. Se queda inmóvil y es inmune al retroceso. El ataque básico se convierte en Leña y este se convierte en Sintetizador.","Prenez la forme de l'arbre&nbsp;: [img:int]&nbsp;-2, [img:shield]&nbsp;+5&nbsp;et Garde&nbsp;+2. Vous devenez immobile et les effets de Recul ne vous affectent plus. Votre attaque de base devient Poutrage et ce sort devient Photosynthèse.","Nimm Baumgestalt an und erhalte -2&nbsp;[img:int], +5&nbsp;[img:shield] und Wappnen&nbsp;2. Du wirst unbeweglich und bist immun gegen Rückstoß. Dein Grundangriff wird zu Baum fällt und diese Fähigkeit wird zu Synthese.","Assumi le Sembianze dell'Albero, ottenendo -2 all'[img:int], +5 allo [img:shield] e Guardia 2. Diventi immobile e immune al Contraccolpo. Il tuo attacco base diventa Legno e quest'abilità diventa Sintetizzazione.","Entre na forma de árvore, obtendo -2 de [img:int], +5 de [img:shield] e preparação 2. Você se torna imóvel e imune contra empurrões. Seu ataque básico se torna Madeeeira e isto se torna Sintetização.","进入树之形态，获得 -2 [img:int]，
-+5 [img:shield]，以及准备 2。
++5 [img:shield]，以及护甲 2。
 你变得无法移动且免疫击退。
 你的普通攻击变为木材斩，
 此技能变为合成。"
-ABILITY_FORMOFTHETREE2_DESC,"Enter Tree Form, gaining -2 [img:int], +5 [img:shield], and Brace 4. You become immobile and immune to Knockback. Your basic attack becomes Timber and this becomes Synthesize+.",,"Adopta la forma de árbol y obtiene -2 [img:int], +5 [img:shield] y 4 de refuerzo. Se queda inmóvil y es inmune al retroceso. El ataque básico se convierte en Madera y este se convierte en Sintetizador+.","Prenez la forme de l'arbre&nbsp;: [img:int]&nbsp;-2, [img:shield]&nbsp;+5&nbsp;et Garde&nbsp;+4. Vous devenez immobile et les effets de Recul ne vous affectent plus. Votre attaque de base devient Poutrage et ce sort devient Photosynthèse+.","Nimm Baumgestalt an und erhalte -2&nbsp;[img:int], +5&nbsp;[img:shield] und Wappnen&nbsp;4. Du wirst unbeweglich und bist immun gegen Rückstoß. Dein Grundangriff wird zu Baum fällt und diese Fähigkeit wird zu Synthese+.","Assumi le Sembianze dell'Albero, ottenendo -2 all'[img:int], +5 allo [img:shield] e Guardia 4. Diventi immobile e immune al Contraccolpo. Il tuo attacco base diventa Legno e quest'abilità diventa Sintetizzazione+.","Entre na forma de árvore, obtendo -2 de [img:int], +5 de [img:shield] e preparação 4. Você se torna imóvel e imune contra empurrões. Seu ataque básico se torna Madeeeira e isto se torna Sintetização+.","进入树之形态，获得 -2 [img:int]，
-+5 [img:shield]，以及准备 4。
-你变得无法移动且免疫击退。
-你的普通攻击变为木材斩，
+ABILITY_FORMOFTHETREE2_DESC,"Enter Tree Form, gaining -2 [img:int], +5 [img:shield], and Brace 4. You become immobile and immune to Knockback. Your basic attack becomes Timber and this becomes Synthesize+.",,"Adopta la forma de árbol y obtiene -2 [img:int], +5 [img:shield] y 4 de refuerzo. Se queda inmóvil y es inmune al retroceso. El ataque básico se convierte en Madera y este se convierte en Sintetizador+.","Prenez la forme de l'arbre&nbsp;: [img:int]&nbsp;-2, [img:shield]&nbsp;+5&nbsp;et Garde&nbsp;+4. Vous devenez immobile et les effets de Recul ne vous affectent plus. Votre attaque de base devient Poutrage et ce sort devient Photosynthèse+.","Nimm Baumgestalt an und erhalte -2&nbsp;[img:int], +5&nbsp;[img:shield] und Wappnen&nbsp;4. Du wirst unbeweglich und bist immun gegen Rückstoß. Dein Grundangriff wird zu Baum fällt und diese Fähigkeit wird zu Synthese+.","Assumi le Sembianze dell'Albero, ottenendo -2 all'[img:int], +5 allo [img:shield] e Guardia 4. Diventi immobile e immune al Contraccolpo. Il tuo attacco base diventa Legno e quest'abilità diventa Sintetizzazione+.","Entre na forma de árvore, obtendo -2 de [img:int], +5 de [img:shield] e preparação 4. Você se torna imóvel e imune contra empurrões. Seu ataque básico se torna Madeeeira e isto se torna Sintetização+.","进入树之形态，获得 -2 [img:int]，  
++5 [img:shield]，以及护甲 4。  
+你变得无法移动且免疫击退。  
+你的普通攻击变为木材斩，  
 此技能变为合成+。"
 ABILITY_TIMBER_NAME,Timber,,Leña,Poutrage,Baum fällt,Legno,Madeeeira,木材斩
 ABILITY_TIMBER_DESC,"Fall into an adjacent tile, dealing massive damage to units you displace.",,Cae sobre una casilla adyacente e inflige muchísimo daño a las unidades que desplaza.,"Tombe sur une case adjacente, infligeant des dégâts massifs aux unités déplacées.","Falle auf ein benachbartes Feld und verursache großen Schaden bei Einheiten, die du wegstößt.","Cadi in una casella adiacente, infliggendo un danno ingente alle unità che sposti.","Caia em um espaço adjacente, causando dano pesado a unidades que você deslocar.","坠落到相邻的格子，
@@ -2781,7 +2773,7 @@ ABILITY_CONTROLPLANTS_DESC,"Create a tall grass tile, then all enemies on grass 
 "
 ABILITY_CONTROLPLANTS2_DESC,"Create a tall grass tile, then all enemies on grass element tiles take 1 damage and gain Poison 1.",,"Crea una casilla de hierba alta. Luego, todos los enemigos en casillas de hierba sufren 1 de daño y 1 de veneno.",Crée une case de hautes herbes. Les ennemis sur des cases d'herbe subissent 1&nbsp;point de dégâts et Poison&nbsp;+1.,Erschaffe ein hohes Grasfeld. Alle Gegner auf Grasfeldern erleiden 1&nbsp;Schaden und Gift&nbsp;1.,"Crei una casella di erba alta, poi tutti i nemici sulle caselle con l'elemento erba subiscono 1 di danno e Veleno 1.","Crie um espaço de grama alta, e então todos os inimigos em espaços de grama sofrem 1 de dano e obtêm veneno 1.","创建一块高草瓦片，
 然后所有在草元素瓦片上的敌人
-受到1点伤害并获得毒素1。"
+受到1点伤害并获得中毒1。"
 ABILITY_CONTROLWATER_NAME,Control Water,,Control de agua,Contrôle aquatique,Wasserkontrolle,Controllo dell'Acqua,Controlar Água,控制水
 ABILITY_CONTROLWATER_DESC,"Create a water tile, then all allies on water element tiles heal 2 HP.",,"Crea una casilla de agua. Luego, todos los aliados en casillas de agua recuperan 2 PS.","Crée une case d'eau, puis tous les alliés sur des cases d'eau récupèrent 2&nbsp;PV.",Erschaffe ein Wasserfeld. Alle Verbündeten auf Wasserfeldern heilen 2&nbsp;LP.,"Crei una casella d'acqua, poi tutti gli alleati sulle caselle con l'elemento acqua guariscono di 2 PS.","Crie um espaço de água, e então todos os inimigos em espaços de água curam 2 PV.","创建一个水元素瓦片，
 然后所有在水元素瓦片上的友军恢复2点生命值。
@@ -2972,14 +2964,9 @@ Seu ataque básico se torna Chifrada+ e isto se torna Trotar+.","进入麋鹿形
 你的基础攻击变为角击+，
 此技能变为跃步+。"
 ABILITY_ANTLERSWIPE_NAME,Antler Swipe,,Golpe con asta,Coup de ramure,Geweihschlag,Colpo di Corna,Chifrada,角击
-ABILITY_ANTLERSWIPE_DESC,Toss a unit up to four tiles away. Inflict Bruise on it and any unit it lands on.,,Lanza una unidad hasta a 4 casillas de distancia. Le inflige moratón a esa unidad y a cualquier unidad sobre la que aterrice.,Projetez une unité jusqu'à 4&nbsp;cases plus loin. Inflige Contusion à cette unité et à l'unité sur laquelle elle atterrit.,"Wirf eine Einheit bis zu vier Felder. Verursache Beulen bei ihr und der Einheit, auf der sie landet.",Lanci un'unità fino a quattro caselle di distanza. Infligge Livido a quell'unità e a tutte quelle su cui atterra.,Lance uma unidade para até quatro espaços de distância. Aplique contusão nessa unidade e em qualquer unidade sobre a qual ela cair.,"将一个单位投掷至最多四格之外。
-
-对其及其落地点上的任意单位施加淤伤。
-"
-ABILITY_ANTLERSWIPE2_DESC,Toss a unit up to four tiles away. Deal damage to and inflict Bruise on it and any unit it lands on.,,Lanza una unidad hasta a 4 casillas de distancia. Le inflige daño y moratón a esa unidad y a cualquier unidad sobre la que aterrice.,Projetez une unité jusqu'à 4&nbsp;cases plus loin. Inflige des dégâts et Contusion à cette unité et à l'unité sur laquelle elle atterrit.,"Wirf eine Einheit bis zu vier Felder. Verursache Schaden und Beulen bei ihr und der Einheit, auf der sie landet.",Lanci un'unità fino a quattro caselle di distanza. Infligge danno e Livido a quell'unità e a tutte quelle su cui atterra.,Lance uma unidade para até quatro espaços de distância. Cause dano e aplique contusão nessa unidade e em qualquer unidade sobre a qual ela cair.,"将一个单位投掷至最多四格之外。
-
-对其及其落地点上的任意单位造
-成伤害并施加淤伤。"
+ABILITY_ANTLERSWIPE_DESC,Toss a unit up to four tiles away. Inflict Bruise on it and any unit it lands on.,,Lanza una unidad hasta a 4 casillas de distancia. Le inflige moratón a esa unidad y a cualquier unidad sobre la que aterrice.,Projetez une unité jusqu'à 4&nbsp;cases plus loin. Inflige Contusion à cette unité et à l'unité sur laquelle elle atterrit.,"Wirf eine Einheit bis zu vier Felder. Verursache Beulen bei ihr und der Einheit, auf der sie landet.",Lanci un'unità fino a quattro caselle di distanza. Infligge Livido a quell'unità e a tutte quelle su cui atterra.,Lance uma unidade para até quatro espaços de distância. Aplique contusão nessa unidade e em qualquer unidade sobre a qual ela cair.,将一个单位投掷至最多四格之外。对其及其落地点上的任意单位施加挫伤。
+ABILITY_ANTLERSWIPE2_DESC,Toss a unit up to four tiles away. Deal damage to and inflict Bruise on it and any unit it lands on.,,Lanza una unidad hasta a 4 casillas de distancia. Le inflige daño y moratón a esa unidad y a cualquier unidad sobre la que aterrice.,Projetez une unité jusqu'à 4&nbsp;cases plus loin. Inflige des dégâts et Contusion à cette unité et à l'unité sur laquelle elle atterrit.,"Wirf eine Einheit bis zu vier Felder. Verursache Schaden und Beulen bei ihr und der Einheit, auf der sie landet.",Lanci un'unità fino a quattro caselle di distanza. Infligge danno e Livido a quell'unità e a tutte quelle su cui atterra.,Lance uma unidade para até quatro espaços de distância. Cause dano e aplique contusão nessa unidade e em qualquer unidade sobre a qual ela cair.,"将一个单位投掷至最多四格之外。对其及其落地点上的任意单位造
+成伤害并施加挫伤。"
 ABILITY_PRANCE_NAME,Prance,,Cabriola,Caracole,Tänzeln,Guizzo,Trotar,跃步
 ABILITY_PRANCE_DESC,Refresh your movement action.,,Se restaura la acción de movimiento.,Recharge votre action de déplacement.,Frische deine Bewegungsaktion auf.,Ricarichi la tua azione di movimento.,Reinicie sua ação de movimento.,刷新你的移动动作。
 ABILITY_PRANCE2_DESC,"Refresh your movement action.
@@ -3387,9 +3374,9 @@ ABILITY_LODGEHOOK2_DESC,"Inflict Bleed 10, Immobilize 2, and Bruise 2 on an adja
 [s:.7](Se puede lanzar una vez por combate).[/s]","Saignement&nbsp;+10, Immobilisation&nbsp;+2&nbsp;et Contusion&nbsp;+2&nbsp;à une unité adjacente. Impossible d'utiliser votre arme pendant le reste du combat. [s:.7](Une fois par combat.)[/s]","Verursache bei einer benachbarten Einheit Blutung&nbsp;10, Bewegungsunfähig&nbsp;2 und Beulen&nbsp;2. Du kannst deine Waffe für den Rest des Kampfes nicht benutzen.
 [s:.7](Einmal pro Kampf verwendbar.)[/s]","Infliggi Sanguinamento 10, Immobilizzazione 2 e Livido 2 a un'unità adiacente. Non puoi usare la tua arma per il resto della battaglia.
 [s:.7](Lanciabile una volta per battaglia.)[/s]","Aplique sangramento 10, imobilização 2 e contusão 2 em uma unidade adjacente. Você não pode mais usar sua arma pelo resto da batalha.
-[s:.7](Um lançamento por batalha.)[/s]","对相邻单位造成10点流血，
-2点定身和2点瘀伤效果。
-你不能在战斗剩余时间内使用武器。
+[s:.7](Um lançamento por batalha.)[/s]","对相邻单位造成10点流血，  
+2点定身和2点挫伤效果。  
+你不能在战斗剩余时间内使用武器。  
 
 [s:.7](每场战斗只能施放一次。)[/s]"
 ABILITY_BUTCHER_NAME,Butcher,,Descuartizamiento,Boucherie,Schlachter,Macellaio,Açougueiro,屠夫
@@ -3417,7 +3404,7 @@ ABILITY_BOWL_DESC,"Roll the bowling ball cat. If it hits something, deal 10 dama
 在大锥形范围内造成10点伤害并击退。
 "
 ABILITY_BOWL2_DESC,"Roll the bowling ball cat. If it hits something, deal 15 damage and inflict Bruise in a large cone with knockback.",,"Lanza un gato bola de bolos. Si golpea algo, inflige 15 de daño y moratón en un área cónica con retroceso.","Vous lancez le chat boule de bowling. S'il percute quelque chose, Dégâts&nbsp;+15&nbsp;et Contusion en large cône et Recul.","Wirf die Bowlingkugel-Katze. Wenn sie etwas trifft, verursacht sie 15&nbsp;Schaden in einem großen kegelförmigen Bereich, Beulen und stößt Einheiten zurück.","Lanci il gatto-palla da bowling. Se colpisce qualcosa, infliggi 15 di danno e Livido in un ampio cono con contraccolpo.","Lance o gato bola de boliche. Se ele acertar algo, cause 15 de dano e aplique contusão em um cone grande com empurrão.","滚动保龄球猫。如果碰到东西，
-在大锥形范围内造成15点伤害并附加瘀伤效果，
+在大锥形范围内造成15点伤害并附加挫伤效果，
 
 同时击退。"
 ABILITY_TAINTEDOFFERING_NAME,Tainted Offering,,Oferta corrompida,Offrande corrompue,Verdorbenes Opfer,Offerta Contaminata,Oferenda Contaminada,污秽的贡品
@@ -3462,8 +3449,8 @@ ABILITY_TRYPTOPHAN2_DESC,You and adjacent units fall asleep. You gain all stats 
 "
 ABILITY_HOOKBIND_NAME,Hook Bind,,Vínculo de gancho,Crochet entravant,Hakenfessel,Legatura Uncinata,Corda de Gancho,钩锁束缚
 ABILITY_HOOKBIND_DESC,Melee attack that immobilizes.,,Un ataque cuerpo a cuerpo que inmoviliza.,Attaque au corps-à-corps qui immobilise.,"Ein Nahkampfangriff, der bewegungsunfähig macht.",Un attacco corpo a corpo che immobilizza.,Um ataque corpo-a-corpo que imobiliza.,近战攻击，造成定身效果。
-ABILITY_HOOKBIND2_DESC,Melee attack that immobilizes and inflicts Bleed 2.,,Un ataque cuerpo a cuerpo que inmoviliza e inflige 2 de hemorragia.,Attaque au corps-à-corps qui immobilise et inflige Saignement&nbsp;+2.,"Ein Nahkampfangriff, der bewegungsunfähig macht und Blutung&nbsp;2 verursacht.",Un attacco corpo a corpo che immobilizza e infligge Sanguinamento 2.,Um ataque corpo-a-corpo que imobiliza e aplica sangramento 2.,"近战攻击，
-造成眩晕并附加流血 2。"
+ABILITY_HOOKBIND2_DESC,Melee attack that immobilizes and inflicts Bleed 2.,,Un ataque cuerpo a cuerpo que inmoviliza e inflige 2 de hemorragia.,Attaque au corps-à-corps qui immobilise et inflige Saignement&nbsp;+2.,"Ein Nahkampfangriff, der bewegungsunfähig macht und Blutung&nbsp;2 verursacht.",Un attacco corpo a corpo che immobilizza e infligge Sanguinamento 2.,Um ataque corpo-a-corpo que imobiliza e aplica sangramento 2.,"近战攻击，  
+造成定身并附加流血 2。"
 //psychic,,,,,,,,
 ABILITY_TELEKINESIS_NAME,Telekinesis,,Telequinesis,Télékinésie,Telekinese,Telecinesi,Telecinese,念动力
 ABILITY_TELEKINESIS_DESC,Push a unit within your line of sight away from you 10 tiles.,,Empuja 10 casillas a una unidad en su campo visual.,Vous repoussez une unité dans votre ligne de mire sur 10&nbsp;cases.,Stoße eine Einheit in deiner Sichtlinie 10&nbsp;Felder von dir weg.,Allontani da te di 10 caselle un'unità che si trova nel tuo campo visivo.,Empurre uma unidade dentro do seu campo de visão para afastá-la por 10 espaços.,"将视线范围内的单位击退 10 格。
@@ -3875,13 +3862,11 @@ ABILITY_INCREASEGRAVITY_NAME,Increase Gravity,,Aumento de gravedad,Gravité croi
 ABILITY_INCREASEGRAVITY_DESC,"Inflict Slow 1 on a unit within your line of sight. If you cast this from full mana, instead inflict Immobilize 1 and deal 6 damage.",,"Inflige 1 de ralentización a una unidad en su campo visual. Si lanza este hechizo con el maná al máximo, inflige 1 de inmovilización y 6 de daño en su lugar.","Lenteur&nbsp;+1&nbsp;à une unité dans votre ligne de mire. Si vous lancez ce sort lorsque vous avez tout votre mana, Immobilisation&nbsp;+1&nbsp;et Dégâts&nbsp;+6&nbsp;à la place.","Verursache Verlangsamung&nbsp;1 bei einer Einheit in deiner Sichtlinie. Wenn dein Mana voll ist, bevor du diesen Zauber wirkst, verursachst du stattdessen Bewegungsunfähig&nbsp;1 und 6&nbsp;Schaden.","Infliggi Rallentamento 1 a un'unità all'interno del tuo campo visivo. Se lanci quest'abilità con tutto il mana a disposizione, invece, infliggi Immobilizzazione 1 e 6 di danno.","Aplique lentidão 1 em uma unidade dentro do seu campo de visão. Se você lançar isto com mana completa, aplique imobilidade 1 e cause 6 de dano.","对你视线内的单位施加迟缓 1。
 
 如果从满法力值施放，
-改为施加无法移动 1 并造成6点伤害。
-"
-ABILITY_INCREASEGRAVITY2_DESC,"Inflict Slow 1 on each unit in an area around a tile within your line of sight. If you cast this from full mana, instead inflict Immobilize 1 and deal 6 damage.",,"Inflige 1 de ralentización a cada unidad en un área en torno a una casilla en su campo visual. Si lanza este hechizo con el maná al máximo, inflige 1 de inmovilización y 6 de daño en su lugar.","Lenteur&nbsp;+1&nbsp;à toutes les unités dans une zone autour d'une case de votre ligne de mire. Si vous lancez ce sort lorsque vous avez tout votre mana, Immobilisation&nbsp;+1&nbsp;et Dégâts&nbsp;+6&nbsp;à la place.","Verursache Verlangsamung&nbsp;1 in einem Bereich um ein Feld in deiner Sichtlinie. Wenn dein Mana voll ist, bevor du diesen Zauber wirkst, verursachst du stattdessen Bewegungsunfähig&nbsp;1 und 6&nbsp;Schaden.","Infliggi Rallentamento 1 a ogni unità di un'area all'interno del tuo campo visivo. Se lanci quest'abilità con tutto il mana a disposizione, invece, infliggi Immobilizzazione 1 e 6 di danno.","Aplique lentidão 1 em cada unidade em uma área ao redor de um espaço dentro do seu campo de visão. Se você lançar isto com mana completa, aplique imobilidade 1 e cause 6 de dano.","对你视线内某格周围区域的每个
-单位施加迟缓 1。
-如果从满法力值施放，
-改为施加无法移动 1 并造成6点伤害。
-"
+改为施加定身 1 并造成6点伤害。"
+ABILITY_INCREASEGRAVITY2_DESC,"Inflict Slow 1 on each unit in an area around a tile within your line of sight. If you cast this from full mana, instead inflict Immobilize 1 and deal 6 damage.",,"Inflige 1 de ralentización a cada unidad en un área en torno a una casilla en su campo visual. Si lanza este hechizo con el maná al máximo, inflige 1 de inmovilización y 6 de daño en su lugar.","Lenteur&nbsp;+1&nbsp;à toutes les unités dans une zone autour d'une case de votre ligne de mire. Si vous lancez ce sort lorsque vous avez tout votre mana, Immobilisation&nbsp;+1&nbsp;et Dégâts&nbsp;+6&nbsp;à la place.","Verursache Verlangsamung&nbsp;1 in einem Bereich um ein Feld in deiner Sichtlinie. Wenn dein Mana voll ist, bevor du diesen Zauber wirkst, verursachst du stattdessen Bewegungsunfähig&nbsp;1 und 6&nbsp;Schaden.","Infliggi Rallentamento 1 a ogni unità di un'area all'interno del tuo campo visivo. Se lanci quest'abilità con tutto il mana a disposizione, invece, infliggi Immobilizzazione 1 e 6 di danno.","Aplique lentidão 1 em cada unidade em uma área ao redor de um espaço dentro do seu campo de visão. Se você lançar isto com mana completa, aplique imobilidade 1 e cause 6 de dano.","对你视线内某格周围区域的每个  
+单位施加迟缓 1。  
+如果从满法力值施放，  
+改为施加定身 1 并造成6点伤害。"
 ABILITY_MANIFEST_NAME,Manifest,,Manifestación,Manifeste,Manifestieren,Manifestazione,Manifestar,显现
 ABILITY_MANIFEST_DESC,Teleport in a straight line into a unit within your line of sight. Deal damage and displace it.,,Se teletransporta en línea recta sobre una unidad en su campo visual. Le inflige daño y la desplaza.,Vous vous téléportez en ligne droite sur une unité dans votre ligne de mire. Vous lui infligez des dégâts et la déplacez.,Teleportiere dich in einer geraden Linie in eine Einheit in deiner Sichtlinie. Füge ihr Schaden zu und dränge sie weg.,Ti teletrasporti in linea retta verso un'unità all'interno del tuo campo visivo. Le infliggi danno e la sposti.,Teletransporte-se em linha reta até uma unidade dentro do seu campo de visão. Cause dano e a desloque.,"沿直线瞬移到你视线内的一个单位，
 
@@ -3977,10 +3962,8 @@ ABILITY_BATTERUP_NAME,Batter Up,,Apaleamiento,Hasta la vista,Homerun,Battitore,Z
 ABILITY_BATTERUP_DESC,Knock a unit back 10 tiles.,,Hace retroceder una unidad 10 casillas.,Vous faites reculer une unité de 10&nbsp;cases.,Stoße eine Einheit 10&nbsp;Felder zurück.,Spingi indietro un'unità di 10 caselle.,Empurre uma unidade 10 espaços para trás.,将一个单位击退10格。
 ABILITY_BATTERUP2_DESC,Knock a unit back 10 tiles with Chain Knockback.,,Hace retroceder una unidad 10 casillas con retroceso encadenado.,Vous faites reculer une unité de 10&nbsp;cases avec Recul en chaîne.,Stoße eine Einheit 10&nbsp;Felder mit Kettenrückstoß zurück.,Spingi indietro un'unità di 10 caselle con Contraccolpo a Catena.,Empurre uma unidade 10 espaços para trás com empurrão encadeado.,用连锁击退将单位击退10格。
 ABILITY_BACKBREAKER_NAME,Backbreaker,,Rompecrismas,Briseur de dos,Kreuzbrecher,Spezzaschiena,Cama de Gato,折腰毒打
-ABILITY_BACKBREAKER_DESC,A melee attack that Immobilizes.,,Un ataque cuerpo a cuerpo que inmoviliza.,Attaque au corps-à-corps qui immobilise.,"Ein Nahkampfangriff, der bewegungsunfähig macht.",Un attacco corpo a corpo che infligge Immobilizzazione.,Um ataque corpo-a-corpo que imobiliza.,"一次使敌人无法行动的近战攻击。
-"
-ABILITY_BACKBREAKER2_DESC,A melee attack that Immobilizes and gives -2 [img:spd].,,Un ataque cuerpo a cuerpo que inmoviliza y otorga -2 [img:spd].,Attaque au corps-à-corps qui immobilise et inflige [img:spd]&nbsp;-2.,"Ein Nahkampfangriff, der bewegungsunfähig macht und -2&nbsp;[img:spd] verursacht.",Un attacco corpo a corpo che infligge Immobilizzazione e causa -2 alla [img:spd].,Um ataque corpo-a-corpo que imobiliza e aplica -2 de [img:spd].,"一次使敌人无法行动并减少 -2 [img:spd] 的
-近战攻击。"
+ABILITY_BACKBREAKER_DESC,A melee attack that Immobilizes.,,Un ataque cuerpo a cuerpo que inmoviliza.,Attaque au corps-à-corps qui immobilise.,"Ein Nahkampfangriff, der bewegungsunfähig macht.",Un attacco corpo a corpo che infligge Immobilizzazione.,Um ataque corpo-a-corpo que imobiliza.,一次使敌人定身的近战攻击。
+ABILITY_BACKBREAKER2_DESC,A melee attack that Immobilizes and gives -2 [img:spd].,,Un ataque cuerpo a cuerpo que inmoviliza y otorga -2 [img:spd].,Attaque au corps-à-corps qui immobilise et inflige [img:spd]&nbsp;-2.,"Ein Nahkampfangriff, der bewegungsunfähig macht und -2&nbsp;[img:spd] verursacht.",Un attacco corpo a corpo che infligge Immobilizzazione e causa -2 alla [img:spd].,Um ataque corpo-a-corpo que imobiliza e aplica -2 de [img:spd].,一次使敌人定身并减少 -2 [img:spd] 的近战攻击。
 ABILITY_INTIMIDATE_NAME,Intimidate,,Coacción,Intimidation,Einschüchtern,Intimidazione,Intimidação,威吓
 ABILITY_INTIMIDATE_DESC,Inflict Fear on an adjacent unit.,,Inflige miedo a una unidad adyacente.,Peur sur une unité adjacente.,Verursache bei einer benachbarten Einheit Angst.,Infliggi Paura a un'unità adiacente.,Aplique medo em uma unidade adjacente.,对相邻单位附加恐惧效果。
 ABILITY_INTIMIDATE2_DESC,Inflict Fear on a unit up to five tiles away.,,Inflige miedo a una unidad hasta a 5 casillas de distancia.,Peur sur une unité dans un rayon de 5&nbsp;cases.,Verursache bei einer Einheit in bis zu fünf Feldern Entfernung Angst.,Infliggi Paura a un'unità distante fino a cinque caselle.,Aplique medo em uma unidade dentro de 5 espaços de distância.,"对最多五格之外的单位附加恐惧效果。
@@ -4132,12 +4115,10 @@ ABILITY_BODYGUARD2_DESC,"The next time an ally is targeted by an enemy, switch p
 与该盟友交换位置并获得+4 [img:shield]。
 "
 ABILITY_GORE_NAME,Gore,,Gore,Gore,Bohrer,Incornata,Gore,冲锋
-ABILITY_GORE_DESC,"Dash 3 tiles, damage, inflict Bruise and throw what you hit towards your original tile.",,"Se lanza hacia delante 3 casillas, inflige daño y moratón y lanza lo que golpea hacia la casilla original.","Vous foncez sur 3&nbsp;cases, infligez des dégâts, Contusion, et lancez ce que vous avez percuté vers votre case d'origine.","Stürme 3&nbsp;Felder vorwärts, verursache Schaden und Beulen und wirf die Einheit, die du triffst, zu deinem ursprünglichen Feld.","Scatti di 3 caselle, infliggi danno, Livido e spedisci ciò che colpisci verso la tua casella d'origine.","Dê um impulso de 3 espaços, cause dano, aplique contusão e lance o que você acertar na direção do espaço em que você estava antes.","冲刺3格，造成伤害，
-施加淤伤并将击中的目标向起始格子投掷。
-"
-ABILITY_GORE2_DESC,"Dash 10 tiles, damage, inflict Bruise and throw what you hit towards your original tile.",,"Se lanza hacia delante 10 casillas, inflige daño y moratón y lanza lo que golpea hacia la casilla original.","Vous foncez sur 10&nbsp;cases, infligez des dégâts, Contusion, et lancez ce que vous avez percuté vers votre case d'origine.","Stürme 10&nbsp;Felder vorwärts, verursache Schaden und Beulen und wirf die Einheit, die du triffst, zu deinem ursprünglichen Feld.","Scatti di 10 caselle, infliggi danno, Livido e spedisci ciò che colpisci verso la tua casella d'origine.","Dê um impulso de 10 espaços, cause dano, aplique contusão e lance o que você acertar na direção do espaço em que você estava antes.","冲刺10格，造成伤害，
-施加淤伤并将击中的目标向起始格子投掷。
-"
+ABILITY_GORE_DESC,"Dash 3 tiles, damage, inflict Bruise and throw what you hit towards your original tile.",,"Se lanza hacia delante 3 casillas, inflige daño y moratón y lanza lo que golpea hacia la casilla original.","Vous foncez sur 3&nbsp;cases, infligez des dégâts, Contusion, et lancez ce que vous avez percuté vers votre case d'origine.","Stürme 3&nbsp;Felder vorwärts, verursache Schaden und Beulen und wirf die Einheit, die du triffst, zu deinem ursprünglichen Feld.","Scatti di 3 caselle, infliggi danno, Livido e spedisci ciò che colpisci verso la tua casella d'origine.","Dê um impulso de 3 espaços, cause dano, aplique contusão e lance o que você acertar na direção do espaço em que você estava antes.","冲刺3格，造成伤害，  
+施加挫伤并将击中的目标向起始格子投掷。"
+ABILITY_GORE2_DESC,"Dash 10 tiles, damage, inflict Bruise and throw what you hit towards your original tile.",,"Se lanza hacia delante 10 casillas, inflige daño y moratón y lanza lo que golpea hacia la casilla original.","Vous foncez sur 10&nbsp;cases, infligez des dégâts, Contusion, et lancez ce que vous avez percuté vers votre case d'origine.","Stürme 10&nbsp;Felder vorwärts, verursache Schaden und Beulen und wirf die Einheit, die du triffst, zu deinem ursprünglichen Feld.","Scatti di 10 caselle, infliggi danno, Livido e spedisci ciò che colpisci verso la tua casella d'origine.","Dê um impulso de 10 espaços, cause dano, aplique contusão e lance o que você acertar na direção do espaço em que você estava antes.","冲刺10格，造成伤害，  
+施加挫伤并将击中的目标向起始格子投掷。"
 ABILITY_ROCKBLAST_NAME,Rock Blast,,Explosión de rocas,Explosion de pierre,Steinknall,Esplosione Rocciosa,Explosão Rochosa,岩石爆裂
 ABILITY_ROCKBLAST_DESC,Shoot a rock forward.,,Lanza una roca hacia delante.,Vous lancez une pierre vers l'avant.,Verschieße einen Stein.,Spari una roccia in avanti.,Dispare uma pedra para frente.,向前射出一块岩石。
 ABILITY_ROCKBLAST2_DESC,"Shoot a rock forward with Chain Knockback.
@@ -4269,14 +4250,13 @@ ABILITY_MEDUSA2_DESC,"Inflict Petrify on all units in your line of sight.
 [s:.7](Este encantamento custa menos.)[/s]","使你视线内的所有单位石化。
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_ANCHOR_NAME,Anchor,,Ancla,Ancrage,Anker,Ancora,Âncora,锚点
-ABILITY_ANCHOR_DESC,Gain +4 Brace until the next time you move.,,Obtiene +4 de refuerzo hasta la próxima vez que se mueva.,Garde&nbsp;+4&nbsp;jusqu'à votre prochain déplacement.,Erhalte bis zu deiner nächsten Bewegung +4&nbsp;Wappnen.,Ottieni +4 a Guardia fino al prossimo movimento.,Obtenha +4 de preparação até a próxima vez em que você se mover.,"获得 +4 防御直到下次移动。
-"
+ABILITY_ANCHOR_DESC,Gain +4 Brace until the next time you move.,,Obtiene +4 de refuerzo hasta la próxima vez que se mueva.,Garde&nbsp;+4&nbsp;jusqu'à votre prochain déplacement.,Erhalte bis zu deiner nächsten Bewegung +4&nbsp;Wappnen.,Ottieni +4 a Guardia fino al prossimo movimento.,Obtenha +4 de preparação até a próxima vez em que você se mover.,获得 +4 护甲直到下次移动。
 ABILITY_ANCHOR2_DESC,"Gain +4 Brace until the next time you move.
 Bonus Passive: Knockback immunity.",,"Obtiene +4 de refuerzo hasta la próxima vez que se mueva.
 Pasiva de bonificación: Inmunidad al retroceso.",Garde&nbsp;+4&nbsp;jusqu'à votre prochain déplacement. Compétence passive bonus&nbsp;: résistance à Recul.,"Erhalte bis zu deiner nächsten Bewegung +4&nbsp;Wappnen.
 Bonuspassiveffekt: Rückstoßimmunität.","Ottieni +4 a Guardia fino al prossimo movimento.
 Bonus Passivo: Immunità a Contraccolpo.","Obtenha +4 de preparação até a próxima vez em que você se mover.
-Bônus passivo: imunidade contra empurrões.","获得 +4 防御直到下次移动。
+Bônus passivo: imunidade contra empurrões.","获得 +4 护甲直到下次移动。
 
 额外被动：免疫击退。"
 ABILITY_EATROCK_NAME,Eat Rock,,Comepiedras,Pierre comestible,Stein fressen,Mangiaroccia,Comer Pedra,吃石头
@@ -4329,9 +4309,9 @@ ABILITY_GANGUP_DESC,"Toss a unit to an empty tile within 3 tiles of you, then yo
 
 然后你的盟友若能攻击该单位，
 则进行攻击。"
-ABILITY_GANGUP2_DESC,"Toss a unit to an empty tile within 6 tiles of you and inflict Bruise, then your allies attack it if they can.",,"Lanza una unidad a una casilla vacía a 6 casillas de distancia y le inflige moratón. Luego, sus aliados la atacan si pueden.","Vous projetez une unité sur une case vide dans un rayon de 6&nbsp;cases et infligez Contusion, puis les unités alliées attaquent si elles le peuvent.","Wirf eine Einheit auf ein leeres Feld innerhalb von 6&nbsp;Feldern und verursache Beulen. Dann greifen deine Verbündeten sie an, wenn sie können.","Lanci un'unità su una casella vuota entro 6 caselle da te, infliggendole Livido. Poi i tuoi alleati la attaccheranno se ne hanno la possibilità.","Lance uma unidade em espaço vazio a até 6 espaços de distância de você e aplique contusão, e então seus aliados a atacam se puderem.","将一个单位掷到你附近6格内的
-空格上并造成擦伤，
-然后你的盟友如果能攻击它，
+ABILITY_GANGUP2_DESC,"Toss a unit to an empty tile within 6 tiles of you and inflict Bruise, then your allies attack it if they can.",,"Lanza una unidad a una casilla vacía a 6 casillas de distancia y le inflige moratón. Luego, sus aliados la atacan si pueden.","Vous projetez une unité sur une case vide dans un rayon de 6&nbsp;cases et infligez Contusion, puis les unités alliées attaquent si elles le peuvent.","Wirf eine Einheit auf ein leeres Feld innerhalb von 6&nbsp;Feldern und verursache Beulen. Dann greifen deine Verbündeten sie an, wenn sie können.","Lanci un'unità su una casella vuota entro 6 caselle da te, infliggendole Livido. Poi i tuoi alleati la attaccheranno se ne hanno la possibilità.","Lance uma unidade em espaço vazio a até 6 espaços de distância de você e aplique contusão, e então seus aliados a atacam se puderem.","将一个单位掷到你附近6格内的  
+空格上并造成挫伤，  
+然后你的盟友如果能攻击它，  
 就攻击它。"
 ABILITY_AFTERSHOCK_NAME,Aftershock,,Réplica,Contrecoup,Nachbeben,Assestamento,Réplica,余震
 ABILITY_AFTERSHOCK_DESC,All units on dirt tiles get tossed to random nearby tiles and take damage when they land.,,Todas las unidades en casillas de tierra son lanzadas a casillas cercanas al azar y sufren daño cuando aterrizan.,Toutes les unités sur les cases de terre sont projetées sur des cases environnantes au hasard et subissent des dégâts en atterrissant.,"Alle Einheiten auf Dreckfeldern werden auf zufällige Felder in der Nähe geworfen und erleiden Schaden, wenn sie landen.",Tutte le unità su delle caselle di terra vengono scagliate su caselle casuali vicine e subiscono danno quando atterrano.,Todas as unidades em espaços de terra são lançadas em espaços próximos aleatórios e sofrem dano ao cair.,"所有位于泥地格上的单位被掷到随机附近格子，
@@ -4348,14 +4328,12 @@ Bônus passivo: todos os seus encantamentos são do elemento terra.","所有位�
 奖励被动：你所有的法术都具有土元素。
 "
 ABILITY_STEELSKIN_NAME,Steelskin,,Piel de acero,Peau d'acier,Stahlhaut,Pelle d'Acciaio,Pele de Aço,钢铁之肤
-ABILITY_STEELSKIN_DESC,"Gain +99 Brace until your next turn, then disable this spell until you take a total of 25 damage.",,"Obtiene +99 de refuerzo hasta el próximo turno. Luego, este hechizo se deshabilita hasta que sufre un total de 25 de daño.","Garde&nbsp;+99&nbsp;jusqu'à votre prochain tour, puis ce sort est inactif jusqu'à ce que vous subissiez 25&nbsp;points de dégâts.","Erhalte bis zu deinem nächsten Zug +99&nbsp;Wappnen. Deaktiviere diesen Zauber, bis du insgesamt 25&nbsp;Schaden erleidest.","Ottieni +99 a Guardia fino al tuo prossimo turno, poi disattivi quest'incantesimo finché non subisci un totale di 25 di danno.","Obtenha +99 de preparação até seu próximo turno, e então desabilite este encantamento até que você sofra 25 de dano.","获得+99 护盾直到你的下一回合，
+ABILITY_STEELSKIN_DESC,"Gain +99 Brace until your next turn, then disable this spell until you take a total of 25 damage.",,"Obtiene +99 de refuerzo hasta el próximo turno. Luego, este hechizo se deshabilita hasta que sufre un total de 25 de daño.","Garde&nbsp;+99&nbsp;jusqu'à votre prochain tour, puis ce sort est inactif jusqu'à ce que vous subissiez 25&nbsp;points de dégâts.","Erhalte bis zu deinem nächsten Zug +99&nbsp;Wappnen. Deaktiviere diesen Zauber, bis du insgesamt 25&nbsp;Schaden erleidest.","Ottieni +99 a Guardia fino al tuo prossimo turno, poi disattivi quest'incantesimo finché non subisci un totale di 25 di danno.","Obtenha +99 de preparação até seu próximo turno, e então desabilite este encantamento até que você sofra 25 de dano.","获得+99 护甲直到你的下一回合，
 
-然后在你承受累计25点伤害前禁用此法术。
-"
-ABILITY_STEELSKIN2_DESC,"Gain +99 Brace until your next turn, then disable this spell until you take a total of 15 damage.",,"Obtiene +99 de refuerzo hasta el próximo turno. Luego, este hechizo se deshabilita hasta que sufre un total de 15 de daño.","Garde&nbsp;+99&nbsp;jusqu'à votre prochain tour, puis ce sort est inactif jusqu'à ce que vous subissiez 15&nbsp;points de dégâts.","Erhalte bis zu deinem nächsten Zug +99&nbsp;Wappnen. Deaktiviere diesen Zauber, bis du insgesamt 15&nbsp;Schaden erleidest.","Ottieni +99 a Guardia fino al tuo prossimo turno, poi disattivi quest'incantesimo finché non subisci un totale di 15 di danno.","Obtenha +99 de preparação até seu próximo turno, e então desabilite este encantamento até que você sofra 15 de dano.","获得+99 护盾直到你的下一回合，
+然后在你承受累计25点伤害前禁用此法术。"
+ABILITY_STEELSKIN2_DESC,"Gain +99 Brace until your next turn, then disable this spell until you take a total of 15 damage.",,"Obtiene +99 de refuerzo hasta el próximo turno. Luego, este hechizo se deshabilita hasta que sufre un total de 15 de daño.","Garde&nbsp;+99&nbsp;jusqu'à votre prochain tour, puis ce sort est inactif jusqu'à ce que vous subissiez 15&nbsp;points de dégâts.","Erhalte bis zu deinem nächsten Zug +99&nbsp;Wappnen. Deaktiviere diesen Zauber, bis du insgesamt 15&nbsp;Schaden erleidest.","Ottieni +99 a Guardia fino al tuo prossimo turno, poi disattivi quest'incantesimo finché non subisci un totale di 15 di danno.","Obtenha +99 de preparação até seu próximo turno, e então desabilite este encantamento até que você sofra 15 de dano.","获得+99 护甲直到你的下一回合，
 
-然后在你承受累计15点伤害前禁用此法术。
-"
+然后在你承受累计15点伤害前禁用此法术。"
 ABILITY_FAULTLINE_NAME,Fault Line,,Falla geológica,Ligne fautive,Verwerfungslinie,Linea di Faglia,Linha de Falha,断层线
 ABILITY_FAULTLINE_DESC,Fling all units in a straight line onto nearby tiles.,,Lanza a todas las unidades en línea recta a casillas cercanas.,Toutes les unités sur une ligne droite sont propulsées sur des cases environnantes.,Schleudere alle Einheiten in einer geraden Linie auf Felder in der Nähe.,Scagli tutte le unità in linea retta sulle caselle vicine.,Lance todas as unidades em uma linha reta para espaços próximos.,"将一条直线上的所有单位掷到附近格子。
 "
@@ -4387,24 +4365,23 @@ Isto não conta como uma ação de movimento.","被掷到一个格子并对你�
 ABILITY_PUSHTHROUGH_NAME,Push Through,,Irrupción,Détermination,Durchboxen,Sfondamento,Forçar Passagem,强行穿越
 ABILITY_PUSHTHROUGH_DESC,Trample over 2 tiles in a straight line destroying any inanimate objects.,,Pisotea 2 casillas en línea recta y destruye cualquier objeto inanimado.,Piétinement sur 2&nbsp;cases en ligne droite sur laquelle vous détruisez les objets inanimés.,Trampel über 2&nbsp;Felder in einer geraden Linie und zerstöre dabei nicht lebendige Objekte.,"Calpesta 2 caselle in linea retta, distruggendo tutti gli oggetti inanimati.","Atropele por 2 espaços em uma linha reta, destruindo qualquer objeto inanimado.","直线践踏2格，
 摧毁任何无生命物体。"
-ABILITY_PUSHTHROUGH2_DESC,Trample over 4 tiles in a straight line destroying any inanimate objects and inflicting Bruise 1 on units you trample.,,"Pisotea 4 casillas en línea recta, destruye cualquier objeto inanimado e inflige 1 de moratón a las unidades que pisotea.",Piétinement sur 4&nbsp;cases en ligne droite sur laquelle vous détruisez les objets inanimés et infligez Contusion&nbsp;+1&nbsp;aux unités percutées.,"Trampel über 2&nbsp;Felder in einer geraden Linie, zerstöre dabei nicht lebendige Objekte und verursache Beulen&nbsp;1 bei Einheiten, über die du trampelst.","Calpesta 4 caselle in linea retta, distruggendo tutti gli oggetti inanimati e infliggendo Livido 1 alle unità che travolgi.","Atropele por 2 espaços em uma linha reta, destruindo qualquer objeto inanimado e aplicando contusão 1 em unidades que você atropela.","直线践踏4格，
-摧毁任何无生命物体，
-并对你践踏的单位造成1点擦伤。
-"
+ABILITY_PUSHTHROUGH2_DESC,Trample over 4 tiles in a straight line destroying any inanimate objects and inflicting Bruise 1 on units you trample.,,"Pisotea 4 casillas en línea recta, destruye cualquier objeto inanimado e inflige 1 de moratón a las unidades que pisotea.",Piétinement sur 4&nbsp;cases en ligne droite sur laquelle vous détruisez les objets inanimés et infligez Contusion&nbsp;+1&nbsp;aux unités percutées.,"Trampel über 2&nbsp;Felder in einer geraden Linie, zerstöre dabei nicht lebendige Objekte und verursache Beulen&nbsp;1 bei Einheiten, über die du trampelst.","Calpesta 4 caselle in linea retta, distruggendo tutti gli oggetti inanimati e infliggendo Livido 1 alle unità che travolgi.","Atropele por 2 espaços em uma linha reta, destruindo qualquer objeto inanimado e aplicando contusão 1 em unidades que você atropela.","直线践踏4格，  
+摧毁任何无生命物体，  
+并对你践踏的单位造成1点挫伤。"
 ABILITY_PINCUSHION_NAME,Pincushion,,Alfiletero,Pelote à épingles,Nadelkissen,Puntaspilli,Almofada de Alfinetes,针垫
 ABILITY_PINCUSHION_DESC,"Gain +3 Thorns. 
 This spell uses up your movement action.",,"Obtiene +3 de espinas.
 Este hechizo gasta la acción de movimiento.",Épines&nbsp;+3. Consomme votre action de déplacement.,"Erhalte +3&nbsp;Dornen. 
 Dieser Zauber verbraucht deine Bewegungsaktion.","Ottieni +3 Spine. 
 Quest'incantesimo consuma la tua azione di movimento.","Obtenha +3 de espinhos.
-Este encantamento conta como uma ação de movimento.","获得 +3 刺甲。
+Este encantamento conta como uma ação de movimento.","获得 +3 荆棘。  
 该法术消耗你的移动行动。"
 ABILITY_PINCUSHION2_DESC,"Gain +3 Thorns and +1 Brace.
 This spell uses up your movement action.",,"Obtiene +3 de espinas y +1 de refuerzo.
 Este hechizo gasta la acción de movimiento.",Épines&nbsp;+3&nbsp;et Garde&nbsp;+1. Consomme votre action de déplacement.,"Erhalte +3&nbsp;Dornen and +1&nbsp;Wappnen.
 Dieser Zauber verbraucht deine Bewegungsaktion.","Ottieni +3 Spine e +1 a Guardia. 
 Quest'incantesimo consuma la tua azione di movimento.","Obtenha +3 de espinhos e +1 de preparação.
-Este encantamento conta como uma ação de movimento.","获得 +3 刺甲和 +1 防御姿态。
+Este encantamento conta como uma ação de movimento.","获得 +3 荆棘和 +1 护甲。
 
 该法术消耗你的移动行动。"
 ABILITY_SUPPER_NAME,Supper,,Cena,Souper,Abendessen,Cena,Ceia,晚餐
@@ -4507,14 +4484,13 @@ ABILITY_FURYSWIPES2_DESC,A melee attack that has a chance to hit multiple times.
 ABILITY_SIDESLASH_NAME,Side Slash,,Tajo lateral,Demi-entaille,Seitenhieb,Taglio Laterale,Ataque Lateral,侧劈
 ABILITY_SIDESLASH_DESC,An attack that hits a half circle around you.,,Un ataque que golpea en un medio círculo alrededor de la unidad.,Attaque qui cible un demi-cercle autour de vous.,"Ein Angriff, der einen Halbkreis um dich herum trifft.",Un attacco che colpisce un semicerchio attorno a te.,Um ataque que golpeia um semi-círculo ao seu redor.,"一次攻击，
 击中你周围半圆范围内的目标。"
-ABILITY_SIDESLASH2_DESC,An attack that hits a half circle around you and inflicts Bruise.,,Un ataque que golpea en un medio círculo alrededor de la unidad e inflige moratón.,Attaque qui cible un demi-cercle autour de vous et inflige Contusion.,"Ein Angriff, der einen Halbkreis um dich herum trifft und Beulen verursacht.",Un attacco che colpisce un semicerchio attorno a te e infligge Livido.,Um ataque que golpeia um semi-círculo ao seu redor e aplica contusão.,"一次攻击，击中你周围半圆
-范围内的目标并造成瘀伤。"
+ABILITY_SIDESLASH2_DESC,An attack that hits a half circle around you and inflicts Bruise.,,Un ataque que golpea en un medio círculo alrededor de la unidad e inflige moratón.,Attaque qui cible un demi-cercle autour de vous et inflige Contusion.,"Ein Angriff, der einen Halbkreis um dich herum trifft und Beulen verursacht.",Un attacco che colpisce un semicerchio attorno a te e infligge Livido.,Um ataque que golpeia um semi-círculo ao seu redor e aplica contusão.,"一次攻击，击中你周围半圆  
+范围内的目标并造成挫伤。"
 ABILITY_LEAP_NAME,Leap,,Bote,Cabriole,Sprung,Capriola,Salto,跳跃
 ABILITY_LEAP_DESC,"Jump to an open tile within range, then inflict Bruise on all adjacent units.",,Salta a una casilla vacía dentro de su radio de alcance e inflige moratón a todas las unidades adyacentes.,"Vous sautez sur une case libre à portée, puis infligez Contusion à toutes les unités adjacentes.",Spring auf ein freies Feld in Reichweite und verursache Beulen bei allen benachbarten Einheiten.,"Salti su una casella libera entro il raggio d'azione, poi infliggi Livido a tutte le unità adiacenti.","Pule até um espaço aberto dentro do alcance, e então aplique contusão em todas as unidades adjacentes.","跳到范围内的一个空格，
-然后对所有相邻单位造成瘀伤。"
+然后对所有相邻单位造成挫伤。"
 ABILITY_LEAP2_DESC,"Jump to an open tile within range, then damage and inflict Bruise on all adjacent units.",,Salta a una casilla vacía dentro de su radio de alcance e inflige daño y moratón a todas las unidades adyacentes.,"Vous sautez sur une case libre à portée, puis infligez des dégâts et Contusion à toutes les unités adjacentes.",Spring auf ein freies Feld in Reichweite und verursache Schaden und Beulen bei allen benachbarten Einheiten.,"Salti su una casella libera entro il raggio d'azione, poi infliggi danno e Livido a tutte le unità adiacenti.","Pule até um espaço aberto dentro do alcance, e então cause dano e aplique contusão em todas as unidades adjacentes.","跳到范围内的一个空格，
-然后对所有相邻单位造成伤害并造成瘀伤。
-"
+然后对所有相邻单位造成伤害并造成挫伤。"
 ABILITY_UPPERCUT_NAME,Uppercut,,Gancho,Uppercut,Kinnhaken,Montante,Upper,上钩拳
 ABILITY_UPPERCUT_DESC,"Punch a unit into the air, lobbing it back 3 tiles.",,Lanza a una unidad por los aires y hace que retroceda 3 casillas.,Vous envoyez dans les airs une unité qui retombe 3&nbsp;cases en arrière.,Schlag eine Einheit in die Luft und wirf sie 3&nbsp;Felder zurück.,"Lanci in aria un'unità con un pugno, scagliandola indietro di 3 caselle.",Soque uma unidade para jogá-la ao ar em arco por 3 espaços para trás.,将单位击飞，抛向后方3格。
 ABILITY_UPPERCUT2_DESC,"Punch a unit into the air, lobbing it back 3 tiles.
@@ -4542,9 +4518,8 @@ ABILITY_POKE2_DESC,"A melee attack that deals 1 damage.
 [s:.7](Este encantamento custa menos.)[/s]","造成1点伤害的近战攻击。
 [s:.7](该法术消耗更少。)[/s]"
 ABILITY_NIP_NAME,Nip,,Bocadito,Mordillement,Zwicken,Pizzico,Beliscão,啃咬
-ABILITY_NIP_DESC,Inflict Bruise on a unit.,,Inflige moratón a una unidad.,Contusion à une unité.,Verursache Beulen bei einer Einheit.,Infliggi Livido a un'unità.,Aplique contusão em uma unidade.,使单位出现瘀伤。
-ABILITY_NIP2_DESC,Deal 1 damage and inflict Bruise on a unit.,,Inflige 1 de daño y moratón a una unidad.,Dégâts&nbsp;+1&nbsp;et Contusion à une unité.,Verursache 1&nbsp;Schaden und Beulen bei einer Einheit.,Infliggi 1 di danno e Livido a un'unità.,Cause 1 de dano e aplique contusão em uma unidade.,"造成1点伤害并使单位出现瘀伤。
-"
+ABILITY_NIP_DESC,Inflict Bruise on a unit.,,Inflige moratón a una unidad.,Contusion à une unité.,Verursache Beulen bei einer Einheit.,Infliggi Livido a un'unità.,Aplique contusão em uma unidade.,使单位出现挫伤。
+ABILITY_NIP2_DESC,Deal 1 damage and inflict Bruise on a unit.,,Inflige 1 de daño y moratón a una unidad.,Dégâts&nbsp;+1&nbsp;et Contusion à une unité.,Verursache 1&nbsp;Schaden und Beulen bei einer Einheit.,Infliggi 1 di danno e Livido a un'unità.,Cause 1 de dano e aplique contusão em uma unidade.,造成1点伤害并使单位出现挫伤。
 ABILITY_PUSH_NAME,Push,,Empellón,Poussée,Schubser,Spinta,Empurrão,推开
 ABILITY_PUSH_DESC,Knockback a unit 2 tiles.,,Hace retroceder una unidad 2 casillas.,Recul à une unité sur 2&nbsp;cases.,Stoße eine Einheit 2&nbsp;Felder zurück.,Respingi indietro un'unità di 2 caselle.,Empurre uma unidade 2 espaços para trás.,将单位击退2格。
 ABILITY_PUSH2_DESC,Turn an adjacent unit around and knock it back 2 tiles.,,Le da la vuelta a una unidad adyacente y la hace retroceder 2 casillas.,Vous faites faire demi-tour à une unité adjacente et lui infligez Recul sur 2&nbsp;cases.,Dreh eine benachbarte Einheit um und stoße sie 2&nbsp;Felder zurück.,Fai girare un'unità adiacente e la fai arretrare di 2 caselle.,Vire uma unidade adjacente e a empurre por 2 espaços para trás.,将相邻单位转向并击退2格。
@@ -4662,9 +4637,9 @@ ABILITY_GRAVITYSLAM2_DESC,"Jump to a tile and pull enemies toward you when you l
 落地时将敌人拉向你。
 [s:.7](这个法术消耗更少。)[/s]"
 ABILITY_BERSERK_NAME,Berserk,,Frenesí,Berserk,Berserker,Berserk,Berserk,狂暴
-ABILITY_BERSERK_DESC,Gain +5 [img:str] and Bruise 5. This ability becomes Berserker Dash.,,Obtiene +5 [img:str] y 5 de moratón. Esta habilidad se convierte en Carrera con frenesí.,"[img:str]&nbsp;+5, et Contusion&nbsp;+5. Cette compétence devient Élan de Berserk.",Erhalte +5&nbsp;[img:str] und Beulen&nbsp;5. Diese Fähigkeit wird zu Berserkeransturm.,Ottieni +5 alla [img:str] e Livido 5. Quest'abilità diventa Scatto del Berserker.,Obtenha +5 de [img:str] e contusão 5. Esta habilidade se torna Impulso Perseguidor.,"获得+5 [img:str] 并造成5点瘀伤。
+ABILITY_BERSERK_DESC,Gain +5 [img:str] and Bruise 5. This ability becomes Berserker Dash.,,Obtiene +5 [img:str] y 5 de moratón. Esta habilidad se convierte en Carrera con frenesí.,"[img:str]&nbsp;+5, et Contusion&nbsp;+5. Cette compétence devient Élan de Berserk.",Erhalte +5&nbsp;[img:str] und Beulen&nbsp;5. Diese Fähigkeit wird zu Berserkeransturm.,Ottieni +5 alla [img:str] e Livido 5. Quest'abilità diventa Scatto del Berserker.,Obtenha +5 de [img:str] e contusão 5. Esta habilidade se torna Impulso Perseguidor.,"获得+5 [img:str] 并造成5点挫伤。  
 此技能变为狂战士冲刺。"
-ABILITY_BERSERK2_DESC,Gain +7 [img:str] and Bruise 3. This ability becomes Berserker Dash+.,,Obtiene +7 [img:str] y 3 de moratón. Esta habilidad se convierte en Carrera con frenesí.,[img:str]&nbsp;+7&nbsp;et Contusion&nbsp;+3. Cette compétence devient Élan de Berserk+.,Erhalte +7&nbsp;[img:str] und Beulen&nbsp;3. Diese Fähigkeit wird zu Berserkeransturm+.,Ottieni +7 alla [img:str] e Livido 3. Quest'abilità diventa Scatto del Berserker+.,Obtenha +7 de [img:str] e contusão 3. Esta habilidade se torna Impulso Perseguidor.,"获得+7 [img:str] 并造成3点瘀伤。
+ABILITY_BERSERK2_DESC,Gain +7 [img:str] and Bruise 3. This ability becomes Berserker Dash+.,,Obtiene +7 [img:str] y 3 de moratón. Esta habilidad se convierte en Carrera con frenesí.,[img:str]&nbsp;+7&nbsp;et Contusion&nbsp;+3. Cette compétence devient Élan de Berserk+.,Erhalte +7&nbsp;[img:str] und Beulen&nbsp;3. Diese Fähigkeit wird zu Berserkeransturm+.,Ottieni +7 alla [img:str] e Livido 3. Quest'abilità diventa Scatto del Berserker+.,Obtenha +7 de [img:str] e contusão 3. Esta habilidade se torna Impulso Perseguidor.,"获得+7 [img:str] 并造成3点挫伤。  
 此技能变为狂战士冲刺+。"
 ABILITY_BERSERKERDASH_NAME,Berserker Dash,,Carrera con frenesí,Élan de Berserk,Berserkeransturm,Scatto del Berserker,Impulso Perseguidor,狂战士冲刺
 ABILITY_BERSERKERDASH_DESC,A short range dash attack.,,Un ataque relámpago de corto alcance.,Attaque impulsée de courte portée.,Ein Ansturmangriff mit geringer Reichweite.,Un attacco in scatto a breve distanza.,Um ataque de impulso de curto alcance.,近距离冲刺攻击。
@@ -4726,18 +4701,16 @@ ABILITY_MOREANGRIER2_DESC,"Lose all of your mana and gain that much [img:str], [
 持续到回合结束。"
 ABILITY_SLEEPERHOLD_NAME,Sleeper Hold,,Llave durmiente,Cellule dormante,Schlafgriff,Stretta del Sonno,Dormência,睡眠束缚
 ABILITY_SLEEPERHOLD_DESC,Inflict Sleep on an adjacent unit.,,Inflige sueño a una unidad adyacente.,Sommeil à une unité adjacente.,Verursache Schlaf bei einer benachbarten Einheit.,Infliggi Sonno a un'unità adiacente.,Aplique sono em uma unidade adjacente.,对一个相邻单位施加睡眠效果。
-ABILITY_SLEEPERHOLD2_DESC,Inflict Sleep and Bruise on an adjacent unit.,,Inflige sueño y moratón a una unidad adyacente.,Sommeil et Contusion à une unité adjacente.,Verursache Schlaf und Beulen bei einer benachbarten Einheit.,Infliggi Sonno e Livido a un'unità adiacente.,Aplique sono e contusão em uma unidade adjacente.,"对一个相邻单位施加睡眠和淤青效果。
-"
+ABILITY_SLEEPERHOLD2_DESC,Inflict Sleep and Bruise on an adjacent unit.,,Inflige sueño y moratón a una unidad adyacente.,Sommeil et Contusion à une unité adjacente.,Verursache Schlaf und Beulen bei einer benachbarten Einheit.,Infliggi Sonno e Livido a un'unità adiacente.,Aplique sono e contusão em uma unidade adjacente.,对一个相邻单位施加睡眠和挫伤效果。
 ABILITY_GRAPPLE_NAME,Grapple,,Sujeción,Baston,Zupacken,Avvinghiamento,Agarrão,锁喉
-ABILITY_GRAPPLE_DESC,Immobilize an adjacent unit for as long as you remain adjacent.,,Inmoviliza a una unidad adyacente durante todo el tiempo que permanece adyacente.,Vous immobilisez une unité adjacente tant qu'elle est adjacente.,"Mach eine benachbarte Einheit bewegungsunfähig, bis sie nicht mehr benachbart ist.",Immobilizzi un'unità adiacente finché rimani adiacente.,Imobilize uma unidade adjacente enquanto você permanecer adjacente a ela.,"使一个相邻单位无法移动，
+ABILITY_GRAPPLE_DESC,Immobilize an adjacent unit for as long as you remain adjacent.,,Inmoviliza a una unidad adyacente durante todo el tiempo que permanece adyacente.,Vous immobilisez une unité adjacente tant qu'elle est adjacente.,"Mach eine benachbarte Einheit bewegungsunfähig, bis sie nicht mehr benachbart ist.",Immobilizzi un'unità adiacente finché rimani adiacente.,Imobilize uma unidade adjacente enquanto você permanecer adjacente a ela.,"使一个相邻单位定身，  
 只要你保持相邻状态。"
 ABILITY_GRAPPLE2_DESC,"Immobilize an adjacent unit for as long as you remain adjacent.
 [s:.7](This spell costs less.)[/s]",,"Inmoviliza a una unidad adyacente durante todo el tiempo que permanece adyacente.
 [s:.7](Este hechizo cuesta menos).[/s]",Vous immobilisez une unité adjacente tant qu'elle est adjacente. [s:.7](Coût réduit.)[/s],"Mach eine benachbarte Einheit bewegungsunfähig, bis sie nicht mehr benachbart ist.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Immobilizza un'unità adiacente finché rimani adiacente.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Imobilize uma unidade adjacente enquanto você permanecer adjacente a ela.
-[s:.7](Este encantamento custa menos.)[/s]","使一个相邻单位无法移动，
-只要你保持相邻状态。
+[s:.7](Este encantamento custa menos.)[/s]","使一个相邻单位定身，只要你保持相邻状态。  
 [s:.7](该法术消耗更低。)[/s]"
 ABILITY_THINKTOOHARD_NAME,Think Too Hard,,Sobrepensamiento,Intelligence douloureuse,Zu hart nachdenken,Pensiero Intrusivo,Pensando Demais,思考过度
 ABILITY_THINKTOOHARD_DESC,"Take damage equal to your [img:int].
@@ -4900,7 +4873,7 @@ ABILITY_MUSCLEMEMORY2_DESC,"A melee attack that deals 8 damage and inflicts Brui
 [s:.7](El daño de este hechizo se reduce en 1 y su coste de maná se reduce en 2 cada vez que se lanza).[/s]",Attaque au corps-à-corps qui inflige Dégâts&nbsp;+8&nbsp;et Contusion. [s:.7](Dégâts réduits de 1&nbsp;et coût en mana de 2&nbsp;à chaque lancement.)[/s],"Ein Nahkampfangriff, der 8&nbsp;Schaden und Beulen verursacht.
 [s:.7](Jedes Mal, wenn dieser Zauber gewirkt wird, verringert sich sein Schaden um 1 und seine Manakosten um 2.)[/s]","Un attacco corpo a corpo che infligge 8 di danno e Livido.
 [s:.7](Il danno di quest'incantesimo è ridotto di 1 e il costo in mana è ridotto di 2 ogni volta che viene lanciato.)[/s]","Um ataque corpo-a-corpo que causa 8 de dano e aplica contusão.
-[s:.7](Este encantamento tem seu dano reduzido em 1 e o custo de mana reduzido em 2 a cada vez que é lançado.)[/s]","一次造成 8 点伤害并施加 淤伤 的
+[s:.7](Este encantamento tem seu dano reduzido em 1 e o custo de mana reduzido em 2 a cada vez que é lançado.)[/s]","一次造成 8 点伤害并施加 挫伤 的
 
 近战攻击。
 [s:.7](该法术每次施放伤害减少 1，法力值消耗减少 2。)[/s]"
@@ -4910,10 +4883,10 @@ ABILITY_INHALE_DESC,Suck all units in a straight line 1 tile toward you.,,Atrae 
 ABILITY_INHALE2_DESC,Suck all units in a straight line 3 tiles toward you.,,Atrae hacia sí 3 casillas a todas las unidades en línea recta.,Vous rapprochez de vous toutes les unités sur une ligne droite de 3&nbsp;cases en aspirant.,Ziehe alle Einheiten in einer geraden Linie 3&nbsp;Felder an dich heran.,Risucchia tutte le unità in linea retta di 3 caselle verso di te.,Sugue todas as unidades em uma linha por 3 espaços na sua direção.,"将一条直线上的所有单位向你方向吸引3 格。
 "
 ABILITY_ONETWOPUNCH_NAME,One-Two Punch,,Golpe uno-dos,Double coup,1-2-Kombo,Uno-Due,Soco Um-Dois,一二连击
-ABILITY_ONETWOPUNCH_DESC,A melee attack that hits twice. Each punch inflicts Bruise 1.,,Un ataque cuerpo a cuerpo que golpea 2 veces. Cada puñetazo inflige 1 de moratón.,Attaque au corps-à-corps qui frappe 2&nbsp;fois. Chaque coup inflige Contusion&nbsp;+1.,"Ein Nahkampfangriff, der zweimal trifft. Jeder Schlag verursacht Beulen&nbsp;1.",Un attacco corpo a corpo che colpisce due volte. Ogni pugno infligge Livido 1.,Um golpe corpo-a-corpo que golpeia duas vezes. Cada soco aplica contusão 1.,"一次近战攻击，命中两次。
-每次拳击造成瘀伤 1。"
+ABILITY_ONETWOPUNCH_DESC,A melee attack that hits twice. Each punch inflicts Bruise 1.,,Un ataque cuerpo a cuerpo que golpea 2 veces. Cada puñetazo inflige 1 de moratón.,Attaque au corps-à-corps qui frappe 2&nbsp;fois. Chaque coup inflige Contusion&nbsp;+1.,"Ein Nahkampfangriff, der zweimal trifft. Jeder Schlag verursacht Beulen&nbsp;1.",Un attacco corpo a corpo che colpisce due volte. Ogni pugno infligge Livido 1.,Um golpe corpo-a-corpo que golpeia duas vezes. Cada soco aplica contusão 1.,"一次近战攻击，命中两次。  
+每次拳击造成挫伤 1。"
 ABILITY_ONETWOPUNCH2_DESC,A melee attack that hits thrice! Each punch inflicts Bruise 1.,,Un ataque cuerpo a cuerpo que golpea 3 veces. Cada puñetazo inflige 1 de moratón.,Attaque au corps-à-corps qui frappe 3&nbsp;fois. Chaque coup inflige Contusion&nbsp;+1.,"Ein Nahkampfangriff, der dreimal trifft! Jeder Schlag verursacht Beulen&nbsp;1.",Un attacco corpo a corpo che colpisce tre volte! Ogni pugno infligge Livido 1.,Um golpe corpo-a-corpo que golpeia três vezes. Cada soco aplica contusão 1.,"一次近战攻击，命中三次！
-每次拳击造成瘀伤 1。"
+每次拳击造成挫伤 1。"
 ABILITY_SYNCHROSPIN_NAME,Synchro Spin,,Giro sincronizado,Tourbillon synchro,Synchronwirbel,Rotazione Sincronizzata,Giro Sincronizado,同步旋转
 ABILITY_SYNCHROSPIN_DESC,You and each allied cat do a spin attack at the same time.,,Esta unidad y cada aliado realizan un ataque giratorio a la vez.,Vous et chaque chat allié effectuez une attaque tournoyante en même temps.,Du und alle verbündeten Katzen führen gleichzeitig einen Wirbelangriff aus.,Tu e ogni gatto alleato eseguite un attacco rotante contemporaneamente.,Você e cada gato aliado realizam um ataque giratório ao mesmo tempo.,"你和每个友方猫同时进行旋转攻击。
 "
@@ -4928,8 +4901,8 @@ ABILITY_SYNCHROSPIN2_DESC,"You and each allied cat do a spin attack at the same 
 ABILITY_FLEXOFF_NAME,Flex Off,,Alarde,Contraction,Muskelshow,Difesa Respingente,Flexão,放松
 ABILITY_FLEXOFF_DESC,You and each allied cat gain +2 [img:shield] and knockback adjacent units 2 tiles.,,Esta unidad y cada aliado obtienen +2 [img:shield] e infligen retroceso de 2 casillas a las unidades adyacentes.,[img:shield]&nbsp;+2&nbsp;pour vous et chaque chat allié. Recul de 2&nbsp;cases pour les unités adjacentes.,Du und alle verbündeten Katzen erhalten +2&nbsp;[img:shield] und stoßen benachbarte Einheiten 2&nbsp;Felder zurück.,"Tu e ogni gatto alleato ottenete +2 allo [img:shield], e respingete le unità adiacenti di 2 caselle.",Você e cada gato aliado obtêm +2 de [img:shield] e empurram unidades adjacentes por 2 espaços.,"你和每个友方猫获得 +2 [img:shield]
 并将相邻单位击退 2 格。"
-ABILITY_FLEXOFF2_DESC,"You and each allied cat gain +2 [img:shield], +2 temporary Brace, and knockback adjacent units 2 tiles.",,"Esta unidad y cada aliado obtienen +2 [img:shield], +2 de refuerzo temporal e infligen retroceso de 2 casillas a las unidades adyacentes.",[img:shield]&nbsp;+2&nbsp;et Garde temporaire&nbsp;+2&nbsp;pour vous et chaque chat allié. Recul de 2&nbsp;cases pour les unités adjacentes.,"Du und alle verbündeten Katzen erhalten +2&nbsp;[img:shield], +2 vorübergehendes Wappnen und stoßen benachbarte Einheiten 2&nbsp;Felder zurück.","Tu e ogni gatto alleato ottenete +2 allo [img:shield], +2 a Guardia temporanea e respingete le unità adiacenti di 2 caselle.","Você e cada gato aliado obtêm +2 de [img:shield], +2 de preparação temporária e empurram unidades adjacentes por 2 espaços.","你和每个友方猫获得 +2 [img:shield]，
-+2 临时防御，
+ABILITY_FLEXOFF2_DESC,"You and each allied cat gain +2 [img:shield], +2 temporary Brace, and knockback adjacent units 2 tiles.",,"Esta unidad y cada aliado obtienen +2 [img:shield], +2 de refuerzo temporal e infligen retroceso de 2 casillas a las unidades adyacentes.",[img:shield]&nbsp;+2&nbsp;et Garde temporaire&nbsp;+2&nbsp;pour vous et chaque chat allié. Recul de 2&nbsp;cases pour les unités adjacentes.,"Du und alle verbündeten Katzen erhalten +2&nbsp;[img:shield], +2 vorübergehendes Wappnen und stoßen benachbarte Einheiten 2&nbsp;Felder zurück.","Tu e ogni gatto alleato ottenete +2 allo [img:shield], +2 a Guardia temporanea e respingete le unità adiacenti di 2 caselle.","Você e cada gato aliado obtêm +2 de [img:shield], +2 de preparação temporária e empurram unidades adjacentes por 2 espaços.","你和每个友方猫获得 +2 [img:shield]，  
++2 临时护甲，  
 并将相邻单位击退 2 格。"
 ABILITY_HUDDLE_NAME,Huddle,,Piña,Petit comité,Kuscheln,Gruppo,Amontoado,聚集
 ABILITY_HUDDLE_DESC,You and each allied cat give adjacent units +1 Damage and +2 [img:spd].,,Esta unidad y cada aliado otorgan a las unidades adyacentes +1 de daño y +2 [img:spd].,Vous et chaque chat allié octroyez Dégâts&nbsp;+1&nbsp;et [img:spd]&nbsp;+2&nbsp;aux unités adjacentes.,Du und alle verbündeten Katzen verleihen benachbarten Einheiten +1&nbsp;Schaden und +2&nbsp;[img:spd].,Tu e ogni gatto alleato causate alle unità adiacenti +1 al Danno e +2 alla [img:spd].,Você e cada gato aliado concedem a unidades adjacentes +1 de dano e +2 de [img:spd].,"你和每个友方猫给予相邻单位+
@@ -4990,14 +4963,12 @@ ABILITY_ASSERTDOMINANCE_NAME,Assert Dominance,,Reivindicación de dominación,Do
 ABILITY_ASSERTDOMINANCE_DESC,"A weak melee attack. If this kills anything, you become the Alpha. If you are the Alpha, this spell deals 5 additional damage and inflicts Bruise.",,"Un ataque cuerpo a cuerpo débil. Si mata algo, esta unidad se convierte en alfa. Si es alfa, el hechizo inflige 5 de daño extra y moratón.","Faible attaque au corps-à-corps. Si elle tue quelque chose, vous obtenez le statut d'Alpha. En tant qu'Alpha, le sort inflige Dégâts&nbsp;+5&nbsp;et Contusion.","Ein schwacher Nahkampfangriff. Wenn er etwas tötet, wirst du zum Alpha. Wenn du der Alpha bist, verursacht dieser Zauber zusätzlich 5&nbsp;Schaden und Beulen.","Un debole attacco in mischia. Se uccide qualcosa, diventi l'Alfa. Se sei l'Alfa, quest'incantesimo infligge 5 di danno aggiuntivo e Livido.","Um ataque corpo-a-corpo fraco. Se isto matar algo, você obtém o status de alfa. Se você já tiver obtido o status de alfa, este encantamento causa 5 de dano adicional e aplica contusão.","一次弱近战攻击。
 如果此攻击击杀任何目标，
 你成为首领。如果你是首领，
-此法术额外造成 5 点伤害并造成瘀伤。
-"
-ABILITY_ASSERTDOMINANCE2_DESC,"A weak melee attack. If this kills anything, you become the Alpha and gain +2 [img:str]. If you are the Alpha, this spell deals 5 additional damage and inflicts Bruise.",,"Un ataque cuerpo a cuerpo débil. Si mata algo, esta unidad se convierte en alfa y obtiene +2 [img:str]. Si es alfa, el hechizo inflige 5 de daño extra y moratón.","Faible attaque au corps-à-corps. Si elle tue quelque chose, vous obtenez le statut d'Alpha et [img:str]&nbsp;2. En tant qu'Alpha, le sort inflige Dégâts&nbsp;+5&nbsp;et Contusion.","Ein schwacher Nahkampfangriff. Wenn er etwas tötet, wirst du zum Alpha und erhältst +2&nbsp;[img:str]. Wenn du der Alpha bist, verursacht dieser Zauber zusätzlich 5&nbsp;Schaden und Beulen.","Un debole attacco in mischia. Se uccide qualcosa, diventi l'Alfa e ottieni +2 alla [img:str]. Se sei l'Alfa, quest'incantesimo infligge 5 di danno aggiuntivo e Livido.","Um ataque corpo-a-corpo fraco. Se isto matar algo, você obtém o status de alfa e obtém +2 de [img:str]. Se você já tiver obtido o status de alfa, este encantamento causa 5 de dano adicional e aplica contusão.","一次弱近战攻击。
-如果此攻击击杀任何目标，
-你成为首领并获得 +2 [img:str]。
-如果你是首领，
-此法术额外造成 5 点伤害并造成瘀伤。
-"
+此法术额外造成 5 点伤害并造成挫伤。"
+ABILITY_ASSERTDOMINANCE2_DESC,"A weak melee attack. If this kills anything, you become the Alpha and gain +2 [img:str]. If you are the Alpha, this spell deals 5 additional damage and inflicts Bruise.",,"Un ataque cuerpo a cuerpo débil. Si mata algo, esta unidad se convierte en alfa y obtiene +2 [img:str]. Si es alfa, el hechizo inflige 5 de daño extra y moratón.","Faible attaque au corps-à-corps. Si elle tue quelque chose, vous obtenez le statut d'Alpha et [img:str]&nbsp;2. En tant qu'Alpha, le sort inflige Dégâts&nbsp;+5&nbsp;et Contusion.","Ein schwacher Nahkampfangriff. Wenn er etwas tötet, wirst du zum Alpha und erhältst +2&nbsp;[img:str]. Wenn du der Alpha bist, verursacht dieser Zauber zusätzlich 5&nbsp;Schaden und Beulen.","Un debole attacco in mischia. Se uccide qualcosa, diventi l'Alfa e ottieni +2 alla [img:str]. Se sei l'Alfa, quest'incantesimo infligge 5 di danno aggiuntivo e Livido.","Um ataque corpo-a-corpo fraco. Se isto matar algo, você obtém o status de alfa e obtém +2 de [img:str]. Se você já tiver obtido o status de alfa, este encantamento causa 5 de dano adicional e aplica contusão.","一次弱近战攻击。  
+如果此攻击击杀任何目标，  
+你成为首领并获得 +2 [img:str]。  
+如果你是首领，  
+此法术额外造成 5 点伤害并造成挫伤。"
 ABILITY_DUMBMOVE_NAME,1D Chess,,Ajedrez 1D,Échecs en 1D,1D-Schach,Scacchi 1D,Xadrez 1D,傻瓜棋
 ABILITY_DUMBMOVE_DESC,"Move toward the closest enemy. The dumber you are, the farther you move.",,"Se mueve hacia el objetivo más cercano. Cuanta menos inteligencia tenga esta unidad, más lejos se mueve.","Vous vous déplacez vers l'ennemi le plus proche. Plus vous êtes stupide, plus vous vous déplacez loin.","Bewege dich auf den nächsten Gegner zu. Je dümmer du bist, desto weiter bewegst du dich.","Ti avvicini al nemico più vicino. Più sei idiota, più lontano ti muovi.","Mova-se na direção do inimigo mais próximo. Quanto menor for sua inteligência, mais longe você se move.","向最近的敌人移动。你越傻，
 移动得越远。"
@@ -5017,10 +4988,10 @@ Bonus Passive: While it's not your turn, your basic attack inflicts Bruise 2.",,
 Pasiva de bonificación: Mientras no sea el turno de esta unidad, su ataque básico inflige 2 de moratón.","La prochaine fois qu'un ennemi traverse une case adjacente, son déplacement est annulé et vous l'attaquez. Compétence passive bonus&nbsp;: lorsque ce n'est pas votre tour, votre attaque de base inflige Contusion&nbsp;+2.","Das nächste Mal, wenn sich ein Gegner über ein benachbartes Feld bewegt, hältst du ihn auf und greifst ihn an.
 Bonuspassiveffekt: Außerhalb deines Zuges verursacht dein Grundangriff Beulen&nbsp;2.","La prossima volta che un nemico attraversa una casella adiacente, annulli il suo movimento e lo attacchi.
 Bonus Passivo: Finché non è il tuo turno, il tuo attacco base infligge Livido 2.","Na próxima vez em que um inimigo se mover por um espaço adjacente, cancele seu movimento e o ataque.
-Bônus passivo: Fora do seu turno, seu ataque básico aplica contusão 2.","下一次敌人经过相邻格子时，
-取消其移动并攻击它。
-奖励被动：当不是你的回合时，
-你的普通攻击会造成2级瘀伤。"
+Bônus passivo: Fora do seu turno, seu ataque básico aplica contusão 2.","下一次敌人经过相邻格子时，  
+取消其移动并攻击它。  
+奖励被动：当不是你的回合时，  
+你的普通攻击会造成2级挫伤。"
 ABILITY_STICK_NAME,Stick!,,¡Palo!,Bâton&nbsp;!,Stock!,Bastone!,Graveto!,粘住！
 ABILITY_STICK_DESC,"Equip a temporary Stick!
 [s:.7](Your weapon slot must be empty.)[/s]",,"Se equipa con un palo temporal.
@@ -5075,9 +5046,8 @@ ABILITY_PAWBREAKER_DESC,A huge punch that breaks your paw... (You get -1 [img:st
 打断你的
 爪子……（你永久获得-1
 [img:str]。）"
-ABILITY_PAWBREAKER2_DESC,"A huge punch that inflicts Bruise and Stun, and breaks your paw... (You get -1 [img:str] permanently.)",,"Un gran puñetazo que inflige moratón y aturde. Además, le rompe la pata a esta unidad. (Obtiene -1 [img:str] para siempre).","Un énorme coup qui inflige Contusion et Étourdissement, et brise votre patte...([img:str]&nbsp;-1&nbsp;de façon permanente.)","Ein extrem starker Schlag, der Beulen und Betäubung verursacht und bei dem du dir deine Pfote brichst&nbsp;… (Du erleidest dauerhaft -1&nbsp;[img:str].)",Un pugno poderoso che infligge Livido e Stordimento e ti rompe la zampa... (Subisci -1 alla [img:str] in modo permanente.),Um soco enorme que aplica contusão e atordoamento e quebra sua pata... (Você obtém -1 de [img:str] permanentemente.),"一次巨拳，造成瘀伤和眩晕，
-并打断你的爪子……（你永久获得-1 [img:str]。
-
+ABILITY_PAWBREAKER2_DESC,"A huge punch that inflicts Bruise and Stun, and breaks your paw... (You get -1 [img:str] permanently.)",,"Un gran puñetazo que inflige moratón y aturde. Además, le rompe la pata a esta unidad. (Obtiene -1 [img:str] para siempre).","Un énorme coup qui inflige Contusion et Étourdissement, et brise votre patte...([img:str]&nbsp;-1&nbsp;de façon permanente.)","Ein extrem starker Schlag, der Beulen und Betäubung verursacht und bei dem du dir deine Pfote brichst&nbsp;… (Du erleidest dauerhaft -1&nbsp;[img:str].)",Un pugno poderoso che infligge Livido e Stordimento e ti rompe la zampa... (Subisci -1 alla [img:str] in modo permanente.),Um soco enorme que aplica contusão e atordoamento e quebra sua pata... (Você obtém -1 de [img:str] permanentemente.),"一次巨拳，造成挫伤和眩晕，  
+并打断你的爪子……（你永久获得-1 [img:str]。  
 ）"
 ABILITY_RAM_NAME,Ram,,Ariete,Bélier,Rammbock,Ariete,Carneirinho,猛撞
 ABILITY_RAM_DESC,"Knock back a unit 4 tiles, then dash forward and attack it.",,"Hace retroceder 4 casillas a una unidad, luego se lanza hacia delante y la ataca.","Vous repoussez une unité sur 4&nbsp;cases, puis vous foncez en avant pour l'attaquer.","Stoße eine Einheit 4&nbsp;Felder zurück, stürme vorwärts und greif sie an.","Respingi un'unità di 4 caselle, poi scatti in avanti e la attacchi.","Empurre uma unidade 4 espaços para trás, e então dê um impulso para frente e ataque-a.","击退一个单位4格，
@@ -5108,12 +5078,12 @@ ABILITY_BOOSTBACKSTAB2_DESC,"Until end of turn, your backstabs do +75% more dama
 
 无视护盾，并造成流血和中毒效果。
 "
-ABILITY_POISONGAS_NAME,Poison Gas,,Gas venenoso,Gaz empoisonné,Giftgas,Gas Velenoso,Nuvem de Veneno,毒气
+ABILITY_POISONGAS_NAME,Poison Gas,,Gas venenoso,Gaz empoisonné,Giftgas,Gas Velenoso,Nuvem de Veneno,中毒气
 ABILITY_POISONGAS_DESC,Inflict Poison 1 on all units adjacent to you.,,Inflige 1 de veneno a todas las unidades adyacentes.,Poison&nbsp;+1&nbsp;à toutes les unités adjacentes.,Verursache bei allen benachbarten Einheiten Gift&nbsp;1.,Infliggi Veleno 1 a tutte le unità adiacenti a te.,Aplique veneno 1 em todas as unidades adjacentes a você.,"对所有与你相邻的单位施加中毒1。
 "
 ABILITY_POISONGAS2_DESC,Inflict Poison 2 on all units adjacent to you (even diagonally).,,Inflige 2 de veneno a todas las unidades adyacentes (incluso en diagonal).,Poison&nbsp;+2&nbsp;à toutes les unités adjacentes (même en diagonale).,Verursache bei allen benachbarten Einheiten Gift&nbsp;2 (auch diagonal).,Infliggi Veleno 2 a tutte le unità adiacenti a te (anche in diagonale).,Aplique veneno 2 em todas as unidades adjacentes a você (mesmo diagonalmente).,"对所有与你相邻（包括对角线）
 的单位施加中毒2。"
-ABILITY_POISONNAIL_NAME,Poison Nail,,Clavo venenoso,Clou empoisonné,Giftnagel,Chiodo Avvelenato,Prego Envenenado,毒钉
+ABILITY_POISONNAIL_NAME,Poison Nail,,Clavo venenoso,Clou empoisonné,Giftnagel,Chiodo Avvelenato,Prego Envenenado,中毒钉
 ABILITY_POISONNAIL_DESC,Throw a nail that inflicts Poison and ignores shield.,,Lanza 1 clavo que inflige veneno e ignora el escudo.,Vous lancez 1&nbsp;clou qui inflige Poison et ignore la défense.,"Wirf einen Nagel, der Gift verursacht und Schilde ignoriert.",Lanci un chiodo che infligge Veleno e ignora lo scudo.,Lance um prego que aplica veneno e ignora escudos.,"投掷一根钉子，
 造成中毒且无视护盾。"
 ABILITY_POISONNAIL2_DESC,Throw 2 nails that inflict Poison and ignore shield.,,Lanza 2 clavos que infligen veneno e ignoran el escudo.,Vous lancez 2&nbsp;clous qui inflige Poison et ignore la défense.,"Wirf zwei Nägel, die Gift verursachen und Schilde ignorieren.",Lanci 2 chiodi che infliggono Veleno e ignorano lo scudo.,Lance 2 pregos que aplicam veneno e ignoram escudos.,"投掷两根钉子，
@@ -5350,13 +5320,13 @@ ABILITY_POCKETSAND_DESC,Inflict Blind on all units in a small cone.,,Inflige ceg
 ABILITY_POCKETSAND2_DESC,Inflict Blind 2 on all units in a larger cone.,,Inflige 2 de ceguera a todas las unidades en un área cónica más amplia.,Cécité&nbsp;+2&nbsp;à toutes les unités en large cône.,Verursache Blindheit&nbsp;2 bei allen Einheiten in einem größeren kegelförmigen Bereich.,Infliggi Accecamento 2 a tutte le unità in un cono più grande.,Aplique cegueira em todas as unidades em um cone maior.,"对较大锥形范围内所有单位造成失明2效果。
 "
 ABILITY_NIGHTSHADE_NAME,Nightshade,,Belladona,Belladone,Nachtschatten,Belladonna,Beladona,夜影草
-ABILITY_NIGHTSHADE_DESC,Inflict Poison 4 on an adjacent unit.,,Inflige 4 de veneno a una unidad adyacente.,Poison&nbsp;+4&nbsp;à une unité adjacente.,Verursache Gift&nbsp;4 bei einer benachbarten Einheit.,Infliggi Veleno 4 a un'unità adiacente.,Aplique veneno 4 em uma unidade adjacente.,对一个相邻单位造成毒伤4。
+ABILITY_NIGHTSHADE_DESC,Inflict Poison 4 on an adjacent unit.,,Inflige 4 de veneno a una unidad adyacente.,Poison&nbsp;+4&nbsp;à une unité adjacente.,Verursache Gift&nbsp;4 bei einer benachbarten Einheit.,Infliggi Veleno 4 a un'unità adiacente.,Aplique veneno 4 em uma unidade adjacente.,对一个相邻单位造成中毒4。
 ABILITY_NIGHTSHADE2_DESC,"Inflict Poison 4 on an adjacent unit.
 [s:.7](This spell costs less.)[/s]",,"Inflige 4 de veneno a una unidad adyacente.
 [s:.7](Este hechizo cuesta menos).[/s]",Poison&nbsp;+4&nbsp;à une unité adjacente. [s:.7](Coût réduit.)[/s],"Verursache Gift&nbsp;4 bei einer benachbarten Einheit.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Infliggi Veleno 4 a un'unità adiacente.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Aplique veneno 4 em uma unidade adjacente.
-[s:.7](Este encantamento custa menos.)[/s]","对一个相邻单位造成毒伤4。
+[s:.7](Este encantamento custa menos.)[/s]","对一个相邻单位造成中毒4。  
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_SHADOWSHIFT_NAME,Shadow Shift,,Giro sombrío,Pas sombre,Schattenwandel,Ombra Persistente,Mudança Sombria,影子转移
 ABILITY_SHADOWSHIFT_DESC,"Teleport exactly 2 tiles away, leaving behind a shadow that mimics your basic attack.
@@ -5489,11 +5459,10 @@ ABILITY_STEALKIDNEY_DESC,"A melee attack with increased critical hit chance. If 
 如果造成暴击且饰品栏为空，
 获得一个肾脏，然后造成流血1。
 "
-ABILITY_STEALKIDNEY2_DESC,"A melee attack with increased critical hit chance that inflicts Bleed and Bruise 1. If this crits and your trinket slot is empty, gain a kidney, then inflict Bleed 1.",,"Un ataque cuerpo a cuerpo con probabilidad de golpe crítico aumentada que inflige hemorragia y 1 de moratón. Si es un golpe crítico y el espacio de baratijas está vacío, obtiene un riñón e inflige 1 de hemorragia.","Attaque au corps-à-corps avec plus de chances de coup critique, et qui inflige Saignement et Contusion&nbsp;+1. Si elle inflige un coup critique et que votre emplacement d'accessoire est vide, vous récupérez un rein, puis infligez Saignement&nbsp;+1.","Ein Nahkampfangriff mit erhöhter kritischer Trefferchance, der Blutung und Beulen&nbsp;1 verursacht. Wenn er kritisch trifft und du kein Zubehör ausgerüstet hast, erhältst du eine Niere und verursachst Blutung&nbsp;1.","Un attacco corpo a corpo con probabilità di colpo critico aumentata che infligge Sanguinamento e Livido 1. Se questo colpo è critico e il tuo slot per il ciondolo è vuoto, ottieni un rene, poi infliggi Sanguinamento 1.","Um ataque corpo-a-corpo com maior chance de crítico que aplica sangramento e contusão 1. Caso seja crítico e seu espaço de acessório esteja vazio, obtenha um rim e aplique sangramento 1.","一次提升暴击概率的近战攻击，
-造成流血和瘀伤1。
-如果造成暴击且饰品栏为空，
-获得一个肾脏，然后造成流血1。
-"
+ABILITY_STEALKIDNEY2_DESC,"A melee attack with increased critical hit chance that inflicts Bleed and Bruise 1. If this crits and your trinket slot is empty, gain a kidney, then inflict Bleed 1.",,"Un ataque cuerpo a cuerpo con probabilidad de golpe crítico aumentada que inflige hemorragia y 1 de moratón. Si es un golpe crítico y el espacio de baratijas está vacío, obtiene un riñón e inflige 1 de hemorragia.","Attaque au corps-à-corps avec plus de chances de coup critique, et qui inflige Saignement et Contusion&nbsp;+1. Si elle inflige un coup critique et que votre emplacement d'accessoire est vide, vous récupérez un rein, puis infligez Saignement&nbsp;+1.","Ein Nahkampfangriff mit erhöhter kritischer Trefferchance, der Blutung und Beulen&nbsp;1 verursacht. Wenn er kritisch trifft und du kein Zubehör ausgerüstet hast, erhältst du eine Niere und verursachst Blutung&nbsp;1.","Un attacco corpo a corpo con probabilità di colpo critico aumentata che infligge Sanguinamento e Livido 1. Se questo colpo è critico e il tuo slot per il ciondolo è vuoto, ottieni un rene, poi infliggi Sanguinamento 1.","Um ataque corpo-a-corpo com maior chance de crítico que aplica sangramento e contusão 1. Caso seja crítico e seu espaço de acessório esteja vazio, obtenha um rim e aplique sangramento 1.","一次提升暴击概率的近战攻击，  
+造成流血和挫伤1。  
+如果造成暴击且饰品栏为空，  
+获得一个肾脏，然后造成流血1。"
 ABILITY_STEALLUCK_NAME,Steal Luck,,Robo de suerte,Chance volée,Glück stehlen,Rubafortuna,Roubar Sorte,偷取运气
 ABILITY_STEALLUCK_DESC,"A weak melee attack. If this crits, inflict -1 [img:lck] and you gain +1 [img:lck].",,"Un ataque cuerpo a cuerpo débil. Si es un golpe crítico, inflige -1 [img:lck] y esta unidad obtiene +1 [img:lck].","Faible attaque au corps-à-corps. Si elle inflige un coup critique, inflige [img:lck]&nbsp;-1. Vous gagnez [img:lck]&nbsp;+1.",Ein schwacher Nahkampfangriff. Kritische Treffer verursachen -1&nbsp;[img:lck] und du erhältst +1&nbsp;[img:lck].,"Un attacco corpo a corpo debole. Se è critico, infligge -1 alla [img:lck] e ti fa ottenere +1 alla [img:lck].","Um ataque corpo-a-corpo fraco. Caso seja crítico, aplique -1 de [img:lck] e obtenha +1 de [img:lck].","一次弱的近战攻击。
 如果造成暴击，造成-1 [img:lck]，
@@ -5590,7 +5559,7 @@ ABILITY_OUTSKIRTS_DESC,Teleport to a tile on the edge of the map.,,Se teletransp
 ABILITY_OUTSKIRTS2_DESC,Teleport to a tile on the edge of the map. Gain +2 Damage for the rest of the turn.,,Se teletransporta a una casilla al borde del mapa. Obtiene +2 de daño durante el resto del turno.,Vous vous téléportez sur une case au bord de la carte. Dégâts&nbsp;+2&nbsp;pendant le reste du tour.,Teleportiere dich auf ein Feld am Rand der Karte. Erhalte für den Rest des Zuges +2&nbsp;Schaden.,Ti teletrasporti su una casella sul bordo della mappa. Ottieni +2 al Danno per il resto del turno.,Teletransporte-se para um espaço no limiar do mapa. Obtenha +2 de dano pelo resto do turno.,"传送到地图边缘的一个格子。
 本回合剩余时间内获得+2伤害。
 "
-ABILITY_POISONDIP_NAME,Poison Dip,,Baño de veneno,Cadeau empoisonné,Giftkralle,Intingolo Avvelenato,Gota de Veneno,毒沾
+ABILITY_POISONDIP_NAME,Poison Dip,,Baño de veneno,Cadeau empoisonné,Giftkralle,Intingolo Avvelenato,Gota de Veneno,中毒沾
 ABILITY_POISONDIP_DESC,"Spend all your mana. For every 5 mana spent, your basic attack inflicts +1 Poison.
 [s:.7](Castable once per battle.)[/s]",,"Gasta todo su maná. Por cada 5 de maná gastado, el ataque básico inflige +1 de veneno.
 [s:.7](Se puede lanzar una vez por combate).[/s]",Vous dépensez tout votre mana. Votre attaque de base inflige Poison&nbsp;+1&nbsp;par tranche de 5&nbsp;mana dépensés. [s:.7](Une fois par combat.)[/s],"Gib all dein Mana aus. Pro 5&nbsp;ausgegebenes Mana verursacht dein Grundangriff +1&nbsp;Gift.
@@ -5625,8 +5594,7 @@ ABILITY_LINESHOT2_DESC,A stronger attack that hits all units in a straight line.
 ABILITY_HAILOFNAILS_NAME,Hail of Nails,,Lluvia de clavos,Grêle de clous,Nagelhagel,Grandine di Chiodi,Chuva de Pregos,钉雨
 ABILITY_HAILOFNAILS_DESC,An attack that hits all units in a perpendicular line.,,Un ataque que golpea a todas las unidades en una línea perpendicular.,Attaque qui touche toutes les unités en perpendiculaire.,"Ein Angriff, der alle Einheiten in einer senkrechten Linie trifft.",Un attacco che colpisce tutte le unità in linea perpendicolare.,Um ataque que golpeia todas as unidades em uma linha perpendicular.,"一个攻击，
 命中垂直线上的所有单位。"
-ABILITY_HAILOFNAILS2_DESC,An attack that hits and Immobilizes all units in a perpendicular line.,,Un ataque que golpea e inflige inmovilización a todas las unidades en una línea perpendicular.,Attaque qui touche toutes les unités en perpendiculaire et leur inflige Immobilisation.,"Ein Angriff, der alle Einheiten in einer senkrechten Linie trifft und sie bewegungsunfähig macht.",Un attacco che colpisce e infligge Immobilizzazione a tutte le unità in linea perpendicolare.,Um ataque que golpeia e imobiliza todas as unidades em uma linha perpendicular.,"一个攻击，命中并使垂直线
-上的所有单位无法行动。"
+ABILITY_HAILOFNAILS2_DESC,An attack that hits and Immobilizes all units in a perpendicular line.,,Un ataque que golpea e inflige inmovilización a todas las unidades en una línea perpendicular.,Attaque qui touche toutes les unités en perpendiculaire et leur inflige Immobilisation.,"Ein Angriff, der alle Einheiten in einer senkrechten Linie trifft und sie bewegungsunfähig macht.",Un attacco che colpisce e infligge Immobilizzazione a tutte le unità in linea perpendicolare.,Um ataque que golpeia e imobiliza todas as unidades em uma linha perpendicular.,一个攻击，命中并使垂直线上的所有单位定身。
 ABILITY_SPAWNMAGGOTFRIEND_NAME,Spawn Maggot Friend,,Generación de gusano aliado,Invocation d'asticot,Madenfreund rufen,Evoca Larva Amica,Verme Amigo,召唤蛆虫伙伴
 ABILITY_SPAWNMAGGOTFRIEND_DESC,Spawn a maggot familiar.,,Genera un familiar gusano.,Vous faites apparaître un asticot de compagnie.,Rufe einen Madenbegleiter.,Evochi un famiglio larva.,Gere um familiar verme.,召唤一个蛆虫宠物。
 ABILITY_SPAWNMAGGOTFRIEND2_DESC,Spawn a [img:champion] maggot familiar.,,Genera un familiar gusano [img:champion].,Vous faites apparaître un asticot de compagnie [img:champion].,Rufe einen [img:champion] Madenbegleiter.,Evochi un famiglio larva [img:champion].,Gere um [img:champion] familiar verme.,召唤一个 [img:champion] 蛆虫宠物。
@@ -5648,10 +5616,10 @@ ABILITY_BRAMBLESHOT_DESC,Fire a shot that spawns brambles in an area.,,Dispara u
 ABILITY_BRAMBLESHOT2_DESC,Fire a shot that spawns brambles in a large area.,,Dispara un tiro que genera zarzas en un área amplia.,Votre tir génère des ronces dans une vaste zone.,"Feuere einen Schuss ab, der Dornengestrüpp in einem größeren bestimmten Bereich erscheinen lässt.",Spari un colpo che genera rovi in un'area più grande.,Realize um disparo que gera espinheiros em uma área grande.,"发射一发在大范围内生成荆棘的射击。
 "
 ABILITY_BEARTRAP_NAME,Bear Trap,,Cepo para osos,Piège à ours,Bärenfalle,Trappola per Orsi,Armadilha de Urso,熊夹陷阱
-ABILITY_BEARTRAP_DESC,Set a trap within 5 tiles that damages and immobilizes units that walk over it.,,Coloca una trampa en un radio de 5 casillas que inflige daño e inmovilización a las unidades que caminan sobre ella.,Vous installez un piège dans un rayon de 5&nbsp;cases qui inflige des dégâts aux unités qui marchent dessus et les immobilise.,"Lege eine Falle innerhalb von 5&nbsp;Feldern, die bei Einheiten, die über ihr Feld gehen, Schaden verursacht und sie bewegungsunfähig macht.",Piazzi una trappola entro 5 caselle che infligge danno e immobilizza le unità che la attraversano.,Prepare uma armadilha dentro de 5 espaços de distância que causa dano e imobiliza unidades que andam sobre ela.,"在5格范围内设置一个陷阱，
-伤害并禁锢踩到的单位。"
-ABILITY_BEARTRAP2_DESC,Set a trap on any tile that damages and immobilizes units that walk over it.,,Coloca una trampa en cualquier casilla que inflige daño e inmovilización a las unidades que caminan sobre ella.,Vous installez un piège sur une case qui inflige des dégâts aux unités qui marchent dessus et les immobilise.,"Lege eine Falle auf ein beliebiges Feld, die bei Einheiten, die über ihr Feld gehen, Schaden verursacht und sie bewegungsunfähig macht.",Piazzi una trappola su qualsiasi casella che infligge danno e immobilizza le unità che la attraversano.,Prepare uma armadilha em qualquer espaço espaços que causa dano e imobiliza unidades que andam sobre ela.,"在任意格子上设置一个陷阱，
-伤害并禁锢踩到的单位。"
+ABILITY_BEARTRAP_DESC,Set a trap within 5 tiles that damages and immobilizes units that walk over it.,,Coloca una trampa en un radio de 5 casillas que inflige daño e inmovilización a las unidades que caminan sobre ella.,Vous installez un piège dans un rayon de 5&nbsp;cases qui inflige des dégâts aux unités qui marchent dessus et les immobilise.,"Lege eine Falle innerhalb von 5&nbsp;Feldern, die bei Einheiten, die über ihr Feld gehen, Schaden verursacht und sie bewegungsunfähig macht.",Piazzi una trappola entro 5 caselle che infligge danno e immobilizza le unità che la attraversano.,Prepare uma armadilha dentro de 5 espaços de distância que causa dano e imobiliza unidades que andam sobre ela.,"在5格范围内设置一个陷阱，  
+伤害并定身踩到的单位。"
+ABILITY_BEARTRAP2_DESC,Set a trap on any tile that damages and immobilizes units that walk over it.,,Coloca una trampa en cualquier casilla que inflige daño e inmovilización a las unidades que caminan sobre ella.,Vous installez un piège sur une case qui inflige des dégâts aux unités qui marchent dessus et les immobilise.,"Lege eine Falle auf ein beliebiges Feld, die bei Einheiten, die über ihr Feld gehen, Schaden verursacht und sie bewegungsunfähig macht.",Piazzi una trappola su qualsiasi casella che infligge danno e immobilizza le unità che la attraversano.,Prepare uma armadilha em qualquer espaço espaços que causa dano e imobiliza unidades que andam sobre ela.,"在任意格子上设置一个陷阱，  
+伤害并定身踩到的单位。"
 ABILITY_HARPOON_NAME,Harpoon,,Arpón,Harpon,Harpune,Arpione,Arpão,鱼叉
 ABILITY_HARPOON_DESC,Hook onto something in a straight line and drag yourself to it.,,Se engancha a algo en línea recta y atrae a esta unidad hacia ese objeto.,Vous hameçonnez quelque chose en ligne droite et la ramenez vers vous.,Wirf einen Haken auf etwas in einer geraden Linie und zieh dich an seine Position heran.,Agganci qualcosa in linea retta e ti trascini in quella direzione.,Enganche-se em algo em uma linha reta e arraste-se até lá.,"沿直线勾住某物并将自己拖到那里。
 "
@@ -5944,11 +5912,9 @@ ABILITY_VIVISECT_DESC,A melee attack that spawns a baited bear trap if it kills 
 ABILITY_VIVISECT2_DESC,A lobbed attack that spawns a baited bear trap if it kills a unit or destroys a body.,,Un ataque cuerpo a cuerpo en arco que genera un cepo para osos con cebo si mata a una unidad o destruye un cadáver.,Attaque en cloche qui génère un piège à ours avec appât si elle tue une unité ou détruit un cadavre.,"Ein Angriff, der Hindernisse ignoriert und eine Bärenfalle mit Köder erscheinen lässt, wenn er eine Einheit tötet oder eine Leiche zerstört.",Un attacco a parabola che genera una trappola per orsi con esca se uccide un'unità o distrugge un corpo.,Um ataque em arco que gera uma armadilha de urso com isca ao matar uma unidade ou destruir um corpo.,"一次投掷攻击，如果击杀单
 位或摧毁尸体则生成一个诱饵熊夹陷阱。
 "
-ABILITY_POISONLACE_NAME,Poison Lace,,Dosis de veneno,Attaque empoisonnée,Mit Gift versetzen,Laccio Velenoso,Ataque Envenenado,毒蕾
-ABILITY_POISONLACE_DESC,Give yourself or an adjacent unit +1 Poison Lace.,,Otorga a esta unidad o a una adyacente +1 de dosis de veneno.,Vous infligez à une unité adjacente ou à vous même Attaque empoisonnée&nbsp;+1.,Verleihe dir oder einer benachbarten Einheit +1&nbsp;Giftversetzt.,Fornisci a te o a un'unità adiacente +1 Laccio Velenoso.,Conceda a si ou a uma unidade adjacente +1 de ataque envenenado.,"给自己或相邻单位 +1 毒蕾。
-"
-ABILITY_POISONLACE2_DESC,Give yourself or any other unit +1 Poison Lace.,,Otorga a esta unidad o a cualquier otra +1 de dosis de veneno.,Vous infligez à une unité ou à vous même Attaque empoisonnée&nbsp;+1.,Verleihe dir oder einer beliebigen Einheit +1&nbsp;Giftversetzt.,Fornisci a te o a qualsiasi altra unità +1 Laccio Velenoso.,Conceda a si ou a qualquer outra unidade +1 de ataque envenenado.,"给自己或其他单位 +1 毒蕾。
-"
+ABILITY_POISONLACE_NAME,Poison Lace,,Dosis de veneno,Attaque empoisonnée,Mit Gift versetzen,Laccio Velenoso,Ataque Envenenado,中毒蕾
+ABILITY_POISONLACE_DESC,Give yourself or an adjacent unit +1 Poison Lace.,,Otorga a esta unidad o a una adyacente +1 de dosis de veneno.,Vous infligez à une unité adjacente ou à vous même Attaque empoisonnée&nbsp;+1.,Verleihe dir oder einer benachbarten Einheit +1&nbsp;Giftversetzt.,Fornisci a te o a un'unità adiacente +1 Laccio Velenoso.,Conceda a si ou a uma unidade adjacente +1 de ataque envenenado.,给自己或相邻单位 +1 中毒蕾。
+ABILITY_POISONLACE2_DESC,Give yourself or any other unit +1 Poison Lace.,,Otorga a esta unidad o a cualquier otra +1 de dosis de veneno.,Vous infligez à une unité ou à vous même Attaque empoisonnée&nbsp;+1.,Verleihe dir oder einer beliebigen Einheit +1&nbsp;Giftversetzt.,Fornisci a te o a qualsiasi altra unità +1 Laccio Velenoso.,Conceda a si ou a qualquer outra unidade +1 de ataque envenenado.,给自己或其他单位 +1 中毒蕾。
 ABILITY_SLOPTHEPIGS_NAME,Slop the Pigs,,Alimento para cerdos,Bouillie pour cochons,Perlen vor die Säue,Cibo per Maiali,Alimentação Porca,喂猪
 ABILITY_SLOPTHEPIGS_DESC,Each familiar in an area gains All Stats Up and heals 4 HP. Other units in the area gain +1 [img:con] and heal 2 HP.,,Cada familiar en un área obtiene aumento total y recupera 4 PS. Otras unidades en la zona obtienen +1 [img:con] y recuperan 2 PS.,Chaque familier présent dans une zone obtient Hausse de stats et récupère 4&nbsp;PV. Les autres unités dans cette zone obtiennent [img:con]&nbsp;+1&nbsp;et récupèrent 2&nbsp;PV.,Jeder Begleiter in einem bestimmten Bereich erhält einen Bonus auf alle Attribute und heilt 4&nbsp;LP. Andere Einheiten in dem Bereich erhalten +1&nbsp;[img:con] und heilen 2&nbsp;LP.,Ogni famiglio in un'area ottiene Aumento delle Statistiche e recupera 4 PS. Le altre unità nell'area ottengono +1 alla [img:con] e recuperano 2 PS.,Cada familiar em uma área obtém todos os atributos aumentados e cura 4 PV. Outras unidades na área obtêm +1 de [img:con] e curam 2 PV.,"区域内的每个宠物获得全属性提
 升并恢复
@@ -6066,9 +6032,9 @@ ABILITY_BASICMAGICMISSILE_DESC,"Shoot an infinite-range projectile that can't mi
 ABILITY_SUPLEX_NAME,Suplex,,Súplex,Suplex,Suplex,Suplex,Suplex,摔投
 ABILITY_SUPLEX_DESC,Grab a unit in front of you and slam it into the tile behind you.,,Agarra a una unidad delante de esta y la espachurra contra la casilla detrás de ella.,Vous attrapez une unité devant vous et l'écrasez sur la case derrière vous.,Pack eine Einheit vor dir und wirf sie auf das Feld hinter dir.,Afferri un'unità di fronte a te e la sbatti contro la casella dietro di te.,Agarre uma unidade à sua frente e jogue-a no espaço atrás de você.,"抓住你面前的单位，
 将其猛击到你身后的格子中。"
-ABILITY_SUPLEX2_DESC,"Grab a unit in front of you and slam it into the tile behind you, inflicting Bruise 3 and Immobile.",,Agarra a una unidad delante de esta y la espachurra contra la casilla detrás de ella. Le inflige 3 de moratón e inmovilización.,"Vous attrapez une unité devant vous et l'écrasez sur la case derrière vous, ce qui lui inflige Contusion&nbsp;+3&nbsp;et Immobilisation.",Pack eine Einheit vor dir und wirf sie auf das Feld hinter dir. Du verursachst Beulen&nbsp;3 und Unbeweglich.,"Afferri un'unità di fronte a te e la sbatti contro la casella dietro di te, infliggendole Livido 3 e Immobilizzazione.","Agarre uma unidade à sua frente e jogue-a no espaço atrás de você, aplicando contusão 3 e imobilização.","抓住你面前的单位，
-将其猛击到你身后的格子中，
-造成瘀伤3和无法移动。"
+ABILITY_SUPLEX2_DESC,"Grab a unit in front of you and slam it into the tile behind you, inflicting Bruise 3 and Immobile.",,Agarra a una unidad delante de esta y la espachurra contra la casilla detrás de ella. Le inflige 3 de moratón e inmovilización.,"Vous attrapez une unité devant vous et l'écrasez sur la case derrière vous, ce qui lui inflige Contusion&nbsp;+3&nbsp;et Immobilisation.",Pack eine Einheit vor dir und wirf sie auf das Feld hinter dir. Du verursachst Beulen&nbsp;3 und Unbeweglich.,"Afferri un'unità di fronte a te e la sbatti contro la casella dietro di te, infliggendole Livido 3 e Immobilizzazione.","Agarre uma unidade à sua frente e jogue-a no espaço atrás de você, aplicando contusão 3 e imobilização.","抓住你面前的单位，  
+将其猛击到你身后的格子中，  
+造成挫伤3和定身。"
 ABILITY_MOVE_NAME,Move,,Movimiento,Déplacement,Bewegen,Movimento,Mover,移动
 ABILITY_MOVE_DESC,{he} go,,Avanza.,{he} se déplace.,Da läuft {he},Si muove,{he} anda,{he} 走
 ABILITY_MOVE_DESC_M,,,,,,,,
@@ -6427,15 +6393,14 @@ ABILITY_MECHSUIT2_DESC,"Summon a mech suit that can be piloted.
 [s:.7](消耗0法力值。
 每场战斗可施放一次。)[/s]"
 ABILITY_UNRELIABLESHIELD_NAME,Unreliable Shield Generator,,Generador de escudo poco fiable,Générateur de bouclier capricieux,Unzuverlässiger Schildgenerator,Generatore di Scudi Inaffidabile,Gerador de Escudo Pouco Confiável,不可靠的盾牌发电机
-ABILITY_UNRELIABLESHIELD_DESC,Gain +6 [img:shield] and +1 temporary Brace. This spell has a 75% chance to be disabled on each turn.,,Obtiene +6 [img:shield] y +1 de refuerzo temporal. Este hechizo tiene un 75 % de probabilidad de deshabilitarse en cada turno.,[img:shield]&nbsp;+6&nbsp;et Garde temporaire&nbsp;+1. Ce sort a 75&nbsp;% de chances d'être désactivé à chaque tour.,"Erhalte +6&nbsp;[img:shield] und +1&nbsp;vorübergehendes Wappnen. Dieser Zauber hat eine 75%ige Wahrscheinlichkeit pro Zug, deaktiviert zu werden.",Ottieni +6 allo [img:shield] e +1 alla Guardia temporanea. Quest'incantesimo ha un 75% di probabilità di essere disattivato a ogni turno.,Obtenha +6 de [img:shield] e +1 de preparação temporária. Este encantamento possui 75% de chance de ser desabilitado em cada turno.,"获得+6 [img:shield] 和+1临时抵挡。
-此技能每回合有75%的几率被禁用。
-"
+ABILITY_UNRELIABLESHIELD_DESC,Gain +6 [img:shield] and +1 temporary Brace. This spell has a 75% chance to be disabled on each turn.,,Obtiene +6 [img:shield] y +1 de refuerzo temporal. Este hechizo tiene un 75 % de probabilidad de deshabilitarse en cada turno.,[img:shield]&nbsp;+6&nbsp;et Garde temporaire&nbsp;+1. Ce sort a 75&nbsp;% de chances d'être désactivé à chaque tour.,"Erhalte +6&nbsp;[img:shield] und +1&nbsp;vorübergehendes Wappnen. Dieser Zauber hat eine 75%ige Wahrscheinlichkeit pro Zug, deaktiviert zu werden.",Ottieni +6 allo [img:shield] e +1 alla Guardia temporanea. Quest'incantesimo ha un 75% di probabilità di essere disattivato a ogni turno.,Obtenha +6 de [img:shield] e +1 de preparação temporária. Este encantamento possui 75% de chance de ser desabilitado em cada turno.,"获得+6 [img:shield] 和+1临时护甲。  
+此技能每回合有75%的几率被禁用。"
 ABILITY_UNRELIABLESHIELD2_DESC,"Get +6 [img:shield] and +1 temporary Brace. This spell has a 66% chance to be disabled on each turn.
 [s:.7](This spell costs less.)[/s]",,"Obtiene +6 [img:shield] y +1 de refuerzo temporal. Este hechizo tiene un 66 % de probabilidad de deshabilitarse en cada turno.
 [s:.7](Este hechizo cuesta menos).[/s]",[img:shield]&nbsp;+6&nbsp;Et Garde temporaire&nbsp;+1. Ce sort a 66&nbsp;% de chances d'être désactivé à chaque tour. [s:.7](Coût réduit.)[/s],"Erhalte +6&nbsp;[img:shield] und +1&nbsp;vorübergehendes Wappnen. Dieser Zauber hat eine 66%ige Wahrscheinlichkeit pro Zug, deaktiviert zu werden.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Ottieni +6 allo [img:shield] e +1 alla Guardia temporanea. Quest'incantesimo ha un 66% di probabilità di essere disattivato a ogni turno.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Obtenha +6 de [img:shield] e +1 de preparação temporária. Este encantamento possui 66% de chance de ser desabilitado em cada turno.
-[s:.7](Este encantamento custa menos.)[/s]","获得+6 [img:shield] 和+1临时抵挡。
+[s:.7](Este encantamento custa menos.)[/s]","获得+6 [img:shield] 和+1临时护甲。
 此技能每回合有66%的几率被禁用。
 
 [s:.7](此技能消耗更少。)[/s]"

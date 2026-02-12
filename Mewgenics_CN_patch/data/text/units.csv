@@ -70,9 +70,8 @@ Obtiene +1 de refuerzo al sufrir daño.","Lance des projectiles sur tous ses enn
 Bénéficie de Garde +1&nbsp;quand il est touché.","Schießt auf alle Gegner innerhalb seiner Reichweite.
 Erhält +1&nbsp;Wappnen, wenn er Schaden erleidet.","Esegue un tiro a parabola contro tutti i nemici a portata.
 Ottiene +1 Guardia quando subisce danno.","Lança ataques contra todos os inimigos dentro do alcance.
-Obtém +1 de preparação ao sofrer dano.","向所有射程内敌人投掷射击。
-受到伤害时获得 +1 护体值。
-"
+Obtém +1 de preparação ao sofrer dano.","向所有射程内敌人投掷射击。  
+受到伤害时获得 +1 护甲。"
 ENEMY_INVADER_NAME,Schpidenbot,spiderbot (see the note about robot nazi enemies elsewhere),Schpidenbot,Schpidenbot,Spinnenbot,Roboragnen,Schpidenbot,施皮登机器人
 ENEMY_INVADER_DESC,Melee attacker that inflicts Poison.,,Este atacante cuerpo a cuerpo inflige veneno.,Attaque au corps-à-corps et inflige Poison.,Nahkämpfer. Verursacht Gift.,Specialista del corpo a corpo che infligge Veleno.,Agressor corpo-a-corpo que aplica veneno.,近战攻击者，会造成中毒。
 ENEMY_TINYTUMOR_NAME,Tiny Tumor,,Minitumor,Petite tumeur,Winziger Tumor,Piccolo Tumore,Tumor Minúsculo,微型肿瘤
@@ -83,7 +82,7 @@ ENEMY_CLOT_NAME,Clot,,Coágulo,Caillot,Blutgerinnsel,Grumo,Coágulo,血块
 ENEMY_CLOT_DESC,Has a chance to become a Stem Cat at the end of its turn.,,Puede transformarse en citogato al final del turno.,A une chance de se changer en chat écorché à la fin de son tour.,Wird mit einer gewissen Wahrscheinlichkeit am Ende seines Zuges zu einer Stammkatze.,Ha la possibilità di diventare un Gatto Staminale alla fine del suo turno.,Possui uma chance de se tornar um gato-tronco no final de seu turno.,回合结束时有几率变成茎猫。
 ENEMY_FRANKSBEAN_NAME,Frank's Bean,,Alubia de Frank,Haricot de Frank,Franks Bohne,Fagiolo di Frank,Feijão de Frank,弗兰克的豆豆
 ENEMY_LOUSE_NAME,Louse,,Piojo,Pou,Laus,Pidocchio,Piolho,虱子
-ENEMY_LOUSE_DESC,Its melee attacks inflict Bruise.,,Su ataque cuerpo a cuerpo inflige moratón.,Son attaque au corps-à-corps inflige Contusion.,Ihr Nahkampfangriff verursacht Beulen.,Il suo attacco corpo a corpo infligge Livido.,Seu ataque corpo-a-corpo aplica contusão.,其近战攻击会造成淤伤。
+ENEMY_LOUSE_DESC,Its melee attacks inflict Bruise.,,Su ataque cuerpo a cuerpo inflige moratón.,Son attaque au corps-à-corps inflige Contusion.,Ihr Nahkampfangriff verursacht Beulen.,Il suo attacco corpo a corpo infligge Livido.,Seu ataque corpo-a-corpo aplica contusão.,其近战攻击会造成挫伤。
 ENEMY_LILRAT_NAME,Lil' Rat,,Ratilla,Raton,Rattenfratz,Topolino,Ratinho,小老鼠
 ENEMY_LILRAT_DESC,Dashes in a straight line.,,Corre en línea recta.,Fonce en ligne droite.,Stürmt in einer geraden Linie auf Gegner.,Scatta in linea retta.,Dá um impulso em linha reta.,直线冲刺。
 ENEMY_POOTER_NAME,Pooter,,Moscón,Mouche cracheuse,Pupser,Puzzone,Pooter,屁屁鼠
@@ -550,9 +549,10 @@ Wappnen&nbsp;2.","Esegue un ampio attacco corpo a corpo che lancia le unità in 
 Quando muore, evoca un Tumore.
 Guardia 2.","Realiza um amplo golpe corpo-a-corpo que lança unidades no ar.
 Gera um tumor ao morrer.
-Preparação 2.","进行范围近战攻击，
-将单位击飞。
-死亡时生成一个肿瘤。"
+Preparação 2.","进行范围近战攻击，  
+将单位击飞。  
+死亡时生成一个肿瘤。  
+护甲 2。"
 ENEMY_CULTISTBISHOP_NAME,Cultist Bishop,,Sectario obispo,Prélat fanatique,Kultbischof,Vescovo Cultista,Bispo Cultista,狂信徒主教
 ENEMY_CULTISTBISHOP_DESC,"Its lightning attack has a chance to Stun.
 Heals its allies. Spawns a Bishop Hat when killed.",,"Su ataque relámpago puede aturdir.
@@ -644,10 +644,9 @@ Cada vez que un enemigo lanza un hechizo, emite un destello y obtiene +1 de espi
 Chaque fois qu'un de ses ennemis lance un sort, il émet une étincelle et bénéficie d'Épines +1.","Nahkämpfer.
 Jedes Mal, wenn einer ihrer Gegner einen Zauber wirkt, versprüht sie einen Funken und erhält +1&nbsp;Dornen.","Specialista del corpo a corpo.
 Ogni volta che un suo nemico lancia un incantestimo, emette una Scintilla e ottiene +1 Spine.","Agressor corpo-a-corpo.
-A cada vez em que um de seus inimigos lança um encantamento, emite uma fagulha e obtém +1 de espinhos.","近战攻击者。
-每当其敌人施放法术时，
-它会发出闪光并获得+1 反伤。
-"
+A cada vez em que um de seus inimigos lança um encantamento, emite uma fagulha e obtém +1 de espinhos.","近战攻击者。  
+每当其敌人施放法术时，  
+它会发出闪光并获得+1 荆棘。"
 ENEMY_BIRTHWORT_NAME,Birthwort,,Aristolochia,Aristoloche,Pfeifenblume,Aristolochia,Erva-de-Parto,细辛
 ENEMY_BIRTHWORT_DESC,"Blind. Can melee attack and dash with Trample in random directions.
 Fires shots that inflict Rot whenever it's attacked.
@@ -684,8 +683,7 @@ Kann Steine ansaugen und sie fressen, um Wappnen und Schild zu erhalten.","Il su
 Può risucchiare le rocce verso se stesso e mangiarle per ottenere Guardia e Scudo.","Seu ataque corpo-a-corpo aplica atordoamento e gera pedras.
 Pode sugar pedras na sua direção e as come para obter preparação e escudo.","其近战攻击造成眩晕并生成岩石。
 
-能吸引岩石并吞噬以获得支撑和护盾。
-"
+能吸引岩石并吞噬以获得护甲和护盾。"
 ENEMY_CRATERCREEPER_NAME,Crater Creeper,,Reptacráteres,Comètard,Kraterkriecher,Melma di Cratere,Crateirista,陨坑蠕行者
 ENEMY_CRATERCREEPER_DESC,"Shoots rocks or dashes forward leaving an Amoeba behind.
 Can only be damaged from the front.",,"Dispara rocas o corre hacia delante, dejando una ameba a su paso.
@@ -732,9 +730,9 @@ Su ataque cuerpo a cuerpo inflige embrujo.","Son attaque à distance inflige Con
 Son attaque au corps-à-corps inflige Envoûtement.","Sein Fernkampfangriff verursacht Beulen und -2&nbsp;[img:spd] bei Gegnern, Wappnen und +2&nbsp;[img:spd] bei Verbündeten.
 Sein Nahkampfangriff verursacht Charme.","Il suo attacco a distanza infligge Livido e -2 alla [img:spd] ai nemici, e fornisce Guardia e +2 alla [img:spd] agli alleati.
 Il suo attacco corpo a corpo infligge Fascino.","Seu ataque à distância aplica contusão e -2 de [img:spd] em inimigos, e preparação e +2 de [img:spd] em aliados.
-Seu ataque corpo-a-corpo aplica feitiço.","其远程攻击对敌人造成青紫和-2 [img:spd]，
+Seu ataque corpo-a-corpo aplica feitiço.","其远程攻击对敌人造成挫伤和-2 [img:spd]，
 
-对盟友造成支撑和+2 [img:spd]。
+对盟友造成护甲和+2 [img:spd]。
 其近战攻击造成魅惑。"
 ENEMY_CLOAKEDDEMON_NAME,Cloaked Demon,,Demonio con capa,Démon drapé,Verhüllter Dämon,Demone Ammantato,Demônio Oculto,隐匿恶魔
 ENEMY_CLOAKEDDEMON_DESC,"Casts an area spell that inflicts Burn 3 to enemies and gives +1 Damage to allies.
@@ -985,12 +983,12 @@ Kann heulen, um Einheiten bewegungsunfähig zu machen.","Genera Gattini.
 Il suo attacco corpo a corpo infligge ferite.
 Può ululare per infliggere Immobilizzazione alle unità.","Gera gatinhos.
 Seu ataque corpo-a-corpo aplica ferimentos.
-Pode uivar para imobilizar unidades.","生成小猫。
-近战攻击会造成伤害。
-能嚎叫使单位无法行动。"
+Pode uivar para imobilizar unidades.","生成小猫。  
+近战攻击会造成挫伤。  
+能嚎叫使单位定身。"
 ENEMY_HUMANCAT_NAME,Half-Human δ,,Medio humano δ,Mi-humain δ,Halbmensch δ,Mezzo-Umano δ,Meio-Humano δ,半人类 δ
 ENEMY_HUMANCAT_DESC,Melee attacker that Immobilizes. May dodge attacks unless attacked from the human side.,,Este atacante cuerpo a cuerpo inmoviliza a las unidades. Esquiva los ataques que no provengan del costado humano.,Attaque au corps-à-corps qui inflige Immobilisation. Esquive les attaques excepté si elles viennent du côté humain.,"Nahkämpfer, der Einheiten bewegungsunfähig macht. Kann Angriffen ausweichen, es sei denn, seine menschliche Seite wird angegriffen.","Specialista del corpo a corpo che infligge Immobilizzazione. Può schivare gli attacchi, a meno che l'attacco non venga portato dal lato della sua parte umana.",Agressor corpo-a-corpo que imobiliza. Pode se esquivar de ataques se não for atacado pelo lado humano.,"近战攻击者，
-会使敌人无法行动。
+会使敌人定身。
 除非从人类一侧攻击，
 否则可能会闪避攻击。"
 ENEMY_HUMANCAT2_DESC,Has a spin attack with Knockback.,,Lanza un ataque giratorio con retroceso.,Son attaque tournoyante inflige Recul.,Hat einen Wirbelangriff mit Rückstoß.,Possiede un attacco rotante con Contraccolpo.,Possui um ataque giratório com empurrão.,具有击退效果的旋转攻击。
@@ -1014,7 +1012,7 @@ Seu corpo revive no final da rodada.","发射爆炸火箭，
 击中区域内的随机格子。
 回合开始时使附近单位产生恐惧。
 "
-ENEMY_POISONFROG_NAME,Poison Frog,,Rana venenosa,Grenouille venimeuse,Giftfrosch,Rana Velenosa,Sapo Venenoso,毒蛙
+ENEMY_POISONFROG_NAME,Poison Frog,,Rana venenosa,Grenouille venimeuse,Giftfrosch,Rana Velenosa,Sapo Venenoso,中毒蛙
 ENEMY_POISONFROG_DESC,,,,,,,,
 ENEMY_MEGAMUTANT_NAME,Mega Mutant,,Megamutante,Méga mutant,Megamutant,Mega Mutante,Mega Mutante,超级变种人
 ENEMY_MEGAMUTANT_DESC,"Melee attacks adjacent units with Knockback 10 at the start of its turn.
@@ -1035,10 +1033,12 @@ Può afferrare e uccidere le unità istantaneamente se riesce a raggiungerle.
 Quando subisce danno, ottiene +99 Guardia fino al suo prossimo turno.","Realiza ataques corpo-a-corpo com empurrão 10 em unidades adjacentes no início de seu turno.
 Realiza um ataque de terremoto de longo alcance em linha reta.
 Pode agarrar e matar instantaneamente unidades se puder alcançá-las.
-Obtém +99 de preparação até o próximo turno ao sofrer dano.","在回合开始时，
-对相邻单位进行带有击退10的近战攻击。
+Obtém +99 de preparação até o próximo turno ao sofrer dano.","在回合开始时，  
+对相邻单位进行带有击退10的近战攻击。  
 
-执行一记直线长距离震击攻击。"
+执行一记直线长距离震击攻击。  
+可以抓住并瞬杀单位，如果它能接触到它们。  
+受到伤害时，获得+99 护甲，直到下一个回合。"
 ENEMY_CAVEMAN_NAME,Caveman,,Cavernícola,Homme des cavernes,Höhlenmensch,Cavernicolo,Homem das Cavernas,穴居人
 ENEMY_CAVEMAN_DESC,"Has a multi-hit melee attack.
 Hates Cats!",,"Lanza un ataque cuerpo a cuerpo que golpea varias veces.
@@ -1158,7 +1158,7 @@ Calpestamento.","Possui um ataque corpo-a-corpo que lança unidades no ar e um a
 Aplica contusão e empurra unidades adjacentes no início de seu turno.
 Atropelamento.","拥有将单位击飞的近战攻击和冲刺攻击。
 
-开始回合时会使相邻单位受到瘀伤和击退效果。
+开始回合时会使相邻单位受到挫伤和击退效果。
 
 践踏。"
 ENEMY_BUNGACHAMP_NAME,Bunga's Champion,,Adalid de Bunga,Champion de Bunga,Bungas Champion,Campione di Bunga,Campeão de Bunga,邦加的冠军
@@ -1374,7 +1374,7 @@ Prepara una explosión al morir.","Crée des nuages de poison quand il attaque o
 Prépare une explosion à sa mort.","Erzeugt Giftwolken, wenn er angreift oder Schaden erleidet.
 Bereitet eine Explosion vor, wenn er stirbt.","Crea nuvole di Veleno quando attacca o quando subisce danno.
 Innesca un'esplosione alla sua morte.","Cria nuvens de veneno quando ataca ou sofre dano.
-Prepara uma explosão ao morrer.","攻击或受伤时制造毒云。
+Prepara uma explosão ao morrer.","攻击或受伤时制造中毒云。  
 死亡时准备爆炸。"
 ENEMY_GASPER_DESC2,It's about to blow!,does this desc work for that form?,¡Está a punto de estallar!,Ça va péter&nbsp;!,Er explodiert gleich!,Sta per esplodere!,Vai explodir!,快要爆炸了！
 ENEMY_FLOAST_NAME,Floast,,Flotamorfo,Mastiflot,Schwelst,Flotamorfo,Floste,浮击者
@@ -1442,10 +1442,10 @@ Gains Speed at the end of its turn.",,"Ataca todas las veces que puede antes de 
 Obtiene velocidad al final del turno.","Attaque autant de fois que possible, puis assène un uppercut qui inflige Contusion. Gagne une attaque supplémentaire par tour chaque fois qu'il subit des dégâts.
 Gagne en vitesse à la fin de son tour.","Greift so oft an, wie er kann, führt einen Kinnhaken aus und verursacht Beulen. Erhält jedes Mal, wenn er Schaden erleidet, einen zusätzlichen Angriff pro Zug.
 Erhält am Ende seines Zuges Geschwindigkeit.","Attacca tante volte quante gli è possibile, poi esegue un montante e infligge Livido. Ottiene un attacco aggiuntivo per turno ogni volta che subisce danno.
-Ottiene Velocità alla fine del suo turno.","Ataca tantas vezes quanto possível, e então lança um upper e aplica contusão. Obtém um ataque adicional por turno a cada vez que sofre dano. Obtém velocidade no final de seu turno.","尽可能多次攻击，
-然后上勾拳并造成淤伤。
-每次受到伤害时，
-每回合获得一次额外攻击。
+Ottiene Velocità alla fine del suo turno.","Ataca tantas vezes quanto possível, e então lança um upper e aplica contusão. Obtém um ataque adicional por turno a cada vez que sofre dano. Obtém velocidade no final de seu turno.","尽可能多次攻击，  
+然后上勾拳并造成挫伤。  
+每次受到伤害时，  
+每回合获得一次额外攻击。  
 回合结束时获得速度加成。"
 ENEMY_FLESHYMIND_NAME,Fleshy Mind,,Mente carnosa,Génie de chair,Fleischgeist,Mente Carnosa,Mente Cárnea,肉质之心
 ENEMY_FLESHYMIND_DESC,Has a ranged attack that inflicts Muted. Inflicts Confusion on units that attack it.,,Lanza un ataque a distancia que inflige silencio. Inflige confusión a las unidades que la atacan.,Son attaque à distance inflige Entrave magique. Inflige Confusion aux unités qui l'attaquent.,"Hat einen Fernkampfangriff, der Stumm verursacht. Verursacht Verwirrung bei Einheiten, die ihn angreifen.",Possiede un attacco a distanza che infligge Mutismo. Infligge Confusione alle unità che lo attaccano.,Possui um ataque à distância que aplica silêncio. Aplica confusão em unidades que a atacam.,"拥有远程攻击，造成沉默。
@@ -1693,7 +1693,7 @@ Subire danno lo indebolisce e genera cibo velenoso.
 Non morto.","Come cadáveres e se torna mais forte!
 Se enfraquece ao sofrer dano e gera comida envenenada.
 Morto-vivo.","吞食尸体并变得更强！
-受到伤害会削弱它并产生毒性食物。
+受到伤害会削弱它并产生中毒食物。
 
 不死生物。"
 ENEMY_SKELETONCAT_NAME,Skeleton Cat,,Gato esquelético,Chat squelette,Skelettkatze,Gatto Scheletrico,Gato Esqueleto,骷髅猫
@@ -1799,8 +1799,8 @@ Blind.","Possiede un attacco rotante.
 Spara un colpo velenoso quando subisce danno.
 Cieco.","Possui um ataque giratório.
 Dispara um tiro de veneno ao sofrer dano.
-Cego.","具有旋转攻击。
-受伤时射出毒性射击。
+Cego.","具有旋转攻击。  
+受伤时射出中毒射击。  
 失明。"
 ENEMY_ATOMICKITTEN_NAME,Atomic Kitten,,Gatito atómico,Chaton atomique,Atomkatze,Gattino Atomico,Gatinho Atômico,原子小猫
 ENEMY_ATOMICKITTEN_DESC,"Emits a burst of radiation at the start of its turn.
@@ -2233,8 +2233,8 @@ Hace retroceder a cualquier enemigo que lance un hechizo.","Dispose d'une attaqu
 Repousse tout ennemi qui lance un sort.","Hat einen psychischen Würgeangriff, der Beulen bei Einheiten in ihrer Sichtlinie verursacht.
 Stößt Einheiten zurück, die Zauber wirken.","Possiede un attacco psichico soffocante che infligge Livido a un'unità all'interno del suo campo visivo.
 Respinge tutti i nemici che lanciano un incantesimo.","Possui um ataque psíquico de enforcamento que aplica contusão em uma unidade dentro de seu campo de visão.
-Empurra para trás inimigos que lançam encantamentos.","拥有精神窒息攻击，
-致使视线内单位产生瘀伤。
+Empurra para trás inimigos que lançam encantamentos.","拥有精神窒息攻击，  
+致使视线内单位产生挫伤。  
 将施放法术的敌人击退。"
 ENEMY_DRAVEN_NAME,Draven,,Draven,Panoramis,Draven,Draven,Draven,德雷文
 ENEMY_DRAVEN_DESC,"Heals and buffs his crows.
@@ -2538,8 +2538,8 @@ Führt einen Wirbelangriff aus.","Cieco.
 Spara un colpo velenoso quando subisce danno.
 Esegue un attacco corpo a corpo rotante.","Cego.
 Dispara um tiro de veneno ao sofrer dano.
-Realiza um ataque corpo-a-corpo giratório.","失明。
-受到伤害时发射毒射。
+Realiza um ataque corpo-a-corpo giratório.","失明。  
+受到伤害时发射中毒射。  
 进行近战旋转攻击。"
 ENEMY_NUBS_NAME,Nubs,,Nub,Moignon sauteur,Nubs,Nubs,Nubs,哌司
 ENEMY_NUBS_DESC,"Blind.
@@ -2554,8 +2554,8 @@ Führt einen Sprungangriff mit Rückstoß aus.","Cieco.
 Spara un colpo di melma velenoso a parabola quando subisce danno.
 Esegue un attacco in salto con Contraccolpo.","Cego.
 Realiza um disparo de gosma em arco ao sofrer dano.
-Realiza um ataque de salto com empurrão.","失明。
-受到伤害时投掷毒性爬行射。
+Realiza um ataque de salto com empurrão.","失明。  
+受到伤害时投掷中毒爬行射。  
 进行带击退的跳跃攻击。"
 ENEMY_SPIDERQUEEN_NAME,Spinnerette,,Hiladora,Arachnéa,Spinnenkönigin,Giravoltette,Girerette,旋蛛
 ENEMY_SPIDERQUEEN_DESC,"Does a bite attack.
@@ -2612,9 +2612,8 @@ Was könnte nur in ihm drin sein?","Il suo attacco a respiro respinge tutte le u
 Se si prende a pugni da solo perde la Guardia.
 Cosa potrebbe esserci al suo interno?","Seu ataque de hálito empurra todas as unidades 10 espaços para trás.
 Perde sua preparação se socar a si mesmo.
-O que pode ter lá dentro?","它的吐息攻击会将所有单位向后推10格。
-
-如果它打自己会失去防御。
+O que pode ter lá dentro?","它的吐息攻击会将所有单位向后推10格。  
+如果它打自己会失去护甲。  
 里面会是什么？"
 ENEMY_MOONHAND_NAME,Moon Hand,,Mano lunar,Main sélénienne,Mondhand,Mano della Luna,Mão Lunar,月之手
 ENEMY_MOONHAND_DESC,"Will grab units that end movement directly in front of it.
@@ -3083,7 +3082,7 @@ PICKUP_MEDIUMFOOD_NAME,Medium Food,,Comida mediana,Nourriture moyenne,Mittelgro�
 PICKUP_MEDIUMFOOD_DESC,Heals 7 HP when eaten.,,Devuelve 7 PS cuando se la zampan.,"Consommée, confère PV +7.",Heilt 7&nbsp;LP.,Rigenera 7 PS quando viene mangiato.,Cura 7 PV ao ser comida.,吃了回复7生命值。
 PICKUP_BIGFOOD_NAME,Big Food,,Comida grande,Grosse nourriture,Großes Essen,Cibo Grande,Comida Grande,大食物
 PICKUP_BIGFOOD_DESC,Heals 10 HP when eaten.,,Devuelve 10 PS cuando se la zampan.,"Consommée, confère PV +10.",Heilt 10&nbsp;LP.,Rigenera 10 PS quando viene mangiato.,Cura 10 PV ao ser comida.,吃了回复10生命值。
-PICKUP_POISONEDFOOD_NAME,Poisoned Food,,Comida envenenada,Nourriture empoisonnée,Vergiftetes Essen,Cibo Avvelenato,Comida Envenenada,有毒食物
+PICKUP_POISONEDFOOD_NAME,Poisoned Food,,Comida envenenada,Nourriture empoisonnée,Vergiftetes Essen,Cibo Avvelenato,Comida Envenenada,中毒食物
 PICKUP_POISONEDFOOD_DESC,Gain Poison 2 and Slow 2 if eaten.,,Obtiene 2 de veneno y 2 de ralentización al zampársela.,"Consommée, inflige Poison +2&nbsp;et Lenteur +2.",Verursacht Gift&nbsp;2 und Verlangsamung&nbsp;2.,Infligge Veleno 2 e Rallentamento 2 quando viene mangiato.,Obtenha veneno 2 e lentidão 2 ao comer.,吃了会获得中毒2和减速2。
 PICKUP_BAIT_NAME,Bait,,Cebo,Appât,Köder,Esca,Isca,诱饵
 PICKUP_BAIT_DESC,"Attracts enemies toward it.
@@ -3094,7 +3093,7 @@ Heilt 1&nbsp;LP.","Attrae i nemici a sé.
 Rigenera 1 PS quando viene mangiata.","Atrai inimigos em sua direção.
 Cura 1 PV ao ser comida.","吸引敌人靠近。
 吃了回复1生命值。"
-PICKUP_POISONBAIT_NAME,Poisoned Bait,,Cebo envenenado,Appât empoisonné,Giftköder,Esca Avvelenata,Isca Envenenada,有毒诱饵
+PICKUP_POISONBAIT_NAME,Poisoned Bait,,Cebo envenenado,Appât empoisonné,Giftköder,Esca Avvelenata,Isca Envenenada,中毒诱饵
 PICKUP_POISONBAIT_DESC,"Attracts enemies toward it.
 Gain Poison 2 and Slow 2 if eaten.",,"Atrae a los enemigos.
 Obtiene 2 de veneno y 2 de ralentización al comérselo.","Attire les ennemis.
@@ -3112,7 +3111,7 @@ PICKUP_COOKEDMEDIUMFOOD_DESC,Heals 7 HP and +1 [img:str] when eaten.,,Devuelve 7
 PICKUP_COOKEDBIGFOOD_NAME,Cooked Big Food,,Comida grande cocinada,Grosse nourriture cuite,Gekochtes großes Essen,Cibo Grande Cotto,Comida Cozida Grande,熟大食品
 PICKUP_COOKEDBIGFOOD_DESC,Heals 10 HP and +1 [img:str] when eaten.,,Devuelve 10 PS y +1 [img:str] cuando se la zampan.,"Consommée, confère PV +10&nbsp;et [img:str] +1.",Heilt 10&nbsp;LP und +1&nbsp;[img:str].,Rigenera 10 PS e +1 alla [img:str] quando viene mangiato.,Cura 10 PV e +1 de [img:str] ao ser comida.,"吃下后恢复10生命值并增加+1 [img:str] 。
 "
-PICKUP_COOKEDPOISONEDFOOD_NAME,Cooked Poisoned Food,,Comida cocinada envenenada,Nourriture cuite empoisonnée,Gekochtes vergiftetes Essen,Cibo Avvelenato Cotto,Comida Cozida Envenenada,熟毒食品
+PICKUP_COOKEDPOISONEDFOOD_NAME,Cooked Poisoned Food,,Comida cocinada envenenada,Nourriture cuite empoisonnée,Gekochtes vergiftetes Essen,Cibo Avvelenato Cotto,Comida Cozida Envenenada,熟中毒食品
 PICKUP_COOKEDPOISONEDFOOD_DESC,"Gain Poison 2, Slow 2 and +1 [img:str] if eaten.",,"Obtiene 2 de veneno, 2 de ralentización y +1 [img:str] al zampársela.","Inflige Poison +2&nbsp;et Lenteur +2, confère [img:str] +1.","Erhalte Gift&nbsp;2, Verlangsamung&nbsp;2 and +1&nbsp;[img:str].","Infligge Veleno 2 , Rallentamento 2 e +1 alla [img:str] quando viene mangiato.","Obtenha veneno 2, lentidão 2 e +1 de [img:str] ao comer.","吃下后获得中毒2、
 迟缓2和+1 [img:str] 。"
 PICKUP_PURIFIEDFOOD_NAME,Purified Food,,Comida purificada,Nourriture purifiée,Gereinigtes Essen,Cibo Purificato,Comida Purificada,净化食品
@@ -3130,7 +3129,7 @@ Rigenera 1 PS e +1 alla [img:str] quando viene mangiata.","Atrai inimigos em sua
 Cura 1 PV e +1 de [img:str] ao ser comida.","吸引敌人靠近它。
 吃下后恢复1生命值并增加+1 [img:str] 。
 "
-PICKUP_COOKEDPOISONEDBAIT_NAME,Cooked Poisoned Bait,,Cebo cocinado envenenado,Appât cuit empoisonné,Gekochter Giftköder,Esca Purificata Cotta,Isca Cozida Envenenada,熟毒饵料
+PICKUP_COOKEDPOISONEDBAIT_NAME,Cooked Poisoned Bait,,Cebo cocinado envenenado,Appât cuit empoisonné,Gekochter Giftköder,Esca Purificata Cotta,Isca Cozida Envenenada,熟中毒饵料
 PICKUP_COOKEDPOISONEDBAIT_DESC,"Attracts enemy units toward it.
 Gain Poison 2, Slow 2 and +1 [img:str] if eaten.",,"Atrae a las unidades enemigas.
 Obtiene 2 de veneno, 2 de ralentización y +1 [img:str] al comérselo.","Attire les ennemis.
@@ -3246,10 +3245,10 @@ TRAP_DAMAGETRAP_NAME,Damage Trap,,Trampa de daño,Piège nocif,Schadensfalle,Tra
 TRAP_DAMAGETRAP_DESC,Damages what it catches. Does not interrupt movement.,,Inflige daño a todo lo que atrapa. No interrumpe el movimiento.,Inflige des dégâts à l'unité qu'il attrape. N'interrompt pas le déplacement.,Verursacht Schaden. Unterbricht Bewegung nicht.,Infligge danno a ciò che cattura. Non interrompe il movimento.,Causa dano ao que captura. Não interrompe o movimento.,"对捕捉的目标造成伤害。
 不干扰移动。"
 TRAP_SNARETRAP_NAME,Snare Trap,,Trampa de lazo,Piège paralysant,Schlinge,Trappola a Laccio,Armadilha de Laço,捕兽夹陷阱
-TRAP_SNARETRAP_DESC,Immobilizes what it catches. Interrupts movement.,,Inmoviliza a todo lo que atrapa. Interrumpe el movimiento.,Immobilise l'unité qu'il attrape. Interrompt le déplacement.,Macht bewegungsunfähig. Unterbricht Bewegung.,Immobilizza ciò che cattura. Interrompe il movimento.,Imobiliza o que captura. Interrompe o movimento.,"使捕捉的目标无法移动。
+TRAP_SNARETRAP_DESC,Immobilizes what it catches. Interrupts movement.,,Inmoviliza a todo lo que atrapa. Interrumpe el movimiento.,Immobilise l'unité qu'il attrape. Interrompt le déplacement.,Macht bewegungsunfähig. Unterbricht Bewegung.,Immobilizza ciò che cattura. Interrompe il movimento.,Imobiliza o que captura. Interrompe o movimento.,"使捕捉的目标定身。  
 中断移动。"
 TRAP_BEARTRAP_NAME,Bear Trap,,Cepo para osos,Piège à ours,Bärenfalle,Trappola per Orsi,Armadilha de Urso,熊夹陷阱
-TRAP_BEARTRAP_DESC,Damages and immobilizes what it catches. Interrupts movement.,,Inflige daño a todo lo que atrapa y lo inmoviliza. Interrumpe el movimiento.,Inflige des dégâts et immobilise ce qu'il attrape. Interrompt le déplacement.,Verursacht Schaden und macht bewegungsunfähig. Unterbricht Bewegung.,Infligge danno e immobilizza ciò che cattura. Interrompe il movimento.,Causa dano e imobiliza o que captura. Interrompe o movimento.,"对捕捉的目标造成伤害并使其无法移动。
+TRAP_BEARTRAP_DESC,Damages and immobilizes what it catches. Interrupts movement.,,Inflige daño a todo lo que atrapa y lo inmoviliza. Interrumpe el movimiento.,Inflige des dégâts et immobilise ce qu'il attrape. Interrompt le déplacement.,Verursacht Schaden und macht bewegungsunfähig. Unterbricht Bewegung.,Infligge danno e immobilizza ciò che cattura. Interrompe il movimento.,Causa dano e imobiliza o que captura. Interrompe o movimento.,"对捕捉的目标造成伤害并使其定身。
 
 中断移动。"
 TRAP_LANDMINE_NAME,Land Mine,,Mina terrestre,Mine terrestre,Landmine,Mina,Mina Terrestre,地雷

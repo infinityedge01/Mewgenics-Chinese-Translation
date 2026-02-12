@@ -84,7 +84,7 @@ EABILITY_D6STORM_NAME,5 : Storm,,5 : Tormenta,5&nbsp;: Tempête,5 : Sturm,5: Tem
 EABILITY_D6WRATH_NAME,6 : Wrath,,6 : Ira,6&nbsp;: Colère,6 : Zorn,6: Ira,6 : Ira,6 : 愤怒
 EABILITY_ROLLDICE_NAME,Roll!,,¡Tirada!,Roule&nbsp;!,Wurf!,Tira!,Cambalhota!,掷骰！
 EABILITY_SHOVE_NAME,Shove,,Envite,Bourrade,Schubsen,Spinta,Encontrão,推搡
-EABILITY_POISONKNIFE_NAME,Poison Knife,,Cuchillo venenoso,Couteau empoisonné,Giftmesser,Coltello Avvelenato,Faca Envenenada,毒刃
+EABILITY_POISONKNIFE_NAME,Poison Knife,,Cuchillo venenoso,Couteau empoisonné,Giftmesser,Coltello Avvelenato,Faca Envenenada,中毒刀
 EABILITY_HEALBOMB_NAME,Heal Bomb,,Bomba curativa,Bombe de soin,Heilbombe,Bomba Curativa,Bomba de Cura,治疗炸弹
 EABILITY_MASSHEAL_NAME,Mass Heal,,Curación colectiva,Soin de masse,Massenheilung,Cura di Massa,Cura em Massa,群体治疗
 EABILITY_CHAINDASH_NAME,Chain Dash,,Carrera encadenada,Charge en chaîne,Mehrfachansturm,Scatto a Catena,Impulso Encadeado,连锁冲刺
@@ -165,7 +165,7 @@ EABILITY_ZEALOT_NAME,Zealot,,Fanatismo,Zélote,Fanatiker,Zelota,Fanatismo,狂热
 EABILITY_BONESHOT_NAME,Bone Shot,,Tiro óseo,Tir d'os,Knochenschuss,Colpo d'Ossa,Disparo Ósseo,骨射
 EABILITY_SANDRUSH_NAME,Sand Rush,,Embestida arenosa,Charge sableuse,Sandrausch,Scatto di Sabbia,Ataque de Areia,沙尘冲刺
 EABILITY_EAT_NAME,Eat,,Comida,Manger,Essen,Mangia,Comer,吃
-EABILITY_POISONATTACK_NAME,Poison Attack,,Ataque venenoso,Attaque empoisonnée,Giftangriff,Attacco Velenoso,Ataque Venenoso,毒攻击
+EABILITY_POISONATTACK_NAME,Poison Attack,,Ataque venenoso,Attaque empoisonnée,Giftangriff,Attacco Velenoso,Ataque Venenoso,中毒攻击
 EABILITY_STING_NAME,Sting,,Picadura,Piqûre,Stich,Puntura,Ferroada,刺针
 EABILITY_GRAPPLE_NAME,Grapple,,Sujeción,Baston,Zupacken,Grappino,Agarrão,锁喉
 EABILITY_SHOOTGUN_NAME,Shoot Gun,,Disparo de arma,Tir de fusil,Revolver,Colpo di Pistola,Disparo de Arma,开枪
@@ -259,7 +259,7 @@ EABILITY_CRASH_NAME,Crash,,Colisión,Collision,Absturz,Scontro,Batida,崩溃
 EABILITY_HOLYLIGHT_NAME,Holy Light,,Luz sagrada,Lumière sainte,Heiliges Licht,Luce Sacra,Luz Sagrada,圣光
 EABILITY_REVIVE_NAME,Revive,,Resucitación,Réanimation,Wiederbeleben,Risuscitazione,Reviver,复活
 EABILITY_ALLURE_NAME,Allure,,Atracción,Attrait,Reiz,Fascino,Atração,魅力
-EABILITY_POISONKISS_NAME,Poison Kiss,,Beso venenoso,Baiser empoisonné,Giftkuss,Bacio Avvelenato,Beijo Venenoso,毒吻
+EABILITY_POISONKISS_NAME,Poison Kiss,,Beso venenoso,Baiser empoisonné,Giftkuss,Bacio Avvelenato,Beijo Venenoso,中毒吻
 EABILITY_HOLYWIND_NAME,Holy Wind,,Viento sagrado,Vent sacré,Heiliger Wind,Vento Sacro,Vento Sagrado,圣风
 EABILITY_ABSORBSOUL_NAME,Absorb Soul,,Absorción de alma,Absorption d'âme,Seele absorbieren,Assorbimento dell'Anima,Absorver Alma,吸取灵魂
 EABILITY_DEFECATE_NAME,Defecate,,Defecación,Défécation,Koten,Defecazione,Defecar,排便

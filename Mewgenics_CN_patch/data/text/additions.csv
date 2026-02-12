@@ -186,8 +186,8 @@ EABILITY_FLESHLAD_UPPERCUT_DESC,"Punch a unit, knocking it back 3 tiles and infl
  [s:.7](Une fois par tour.)[/s]","Schlag eine Einheit, stoße sie 3&nbsp;Felder zurück und verursache Beulen bei ihr.
 [s:.7](Einmal pro Zug verwendbar.)[/s]","Colpisci un'unità, respingendola indietro di 3 caselle e infliggendole Livido.
 [s:.7](Lanciabile una volta per turno.)[/s]","Soque uma unidade, empurrando-a 3 espaços para trás e aplicando contusão.
-[s:.7](Um lançamento por turno.)[/s]","击打一个单位，
-将其击退3格并造成瘀伤。
+[s:.7](Um lançamento por turno.)[/s]","击打一个单位，  
+将其击退3格并造成挫伤。  
 [s:.7](每回合可施放一次。)[/s]"
 FAMILIAR_PHANTOMMASK_DESC,Invulnerable. Attack it to knock it foward in a straight line. It deals 5 damage to units it hits.,same as OBJECT_PETROCK_DESC but with the Invulnerable mention added to the beginning,Invulnerable. Se desplaza hacia delante en línea recta cuando la atacan. Inflige 5 de daño a las unidades que golpea.,Invulnérable. L'attaquer le projette en ligne droite. Inflige 5&nbsp;dégâts aux unités qu'il touche.,"Unverwundbar. Greif ihn an, um ihn in einer geraden Linie nach vorn zu schleudern. Verursacht 5&nbsp;Schaden bei Einheiten, die er trifft.",Invulnerabile. Attaccala per proiettarla in avanti in linea retta. Infligge 5 di danno alle unità che colpisce.,Invulnerável. Ataque-a para empurrá-la para frente em linha reta. Causa 5 de dano nas unidades que forem acertadas.,"无敌。攻击它会将其直线击退。
 它会对被击中的单位造成5点伤害。"

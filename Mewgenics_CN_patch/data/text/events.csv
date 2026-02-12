@@ -4630,7 +4630,7 @@ I gatti si preparano a resistere al torrente ghiacciato, mentre la neve li colpi
 
 Os gatos se protegem da torrente congelada, enquanto a neve se acumula em seus rostos e os trovões explodem no ar!","一阵猛烈的寒风掠过，直刺猫咪们的内心！
 
-猫咪们抵御着冰冷的洪流，即使雪花贴在脸上，雷声在空气中隆隆作响！"
+猫咪们护甲着冰冷的洪流，即使雪花贴在脸上，雷声在空气中隆隆作响！"
 EVENT_HAPPENING_HURRICANE_REW,"A terrible hurricane rips through the area, tossing everything up in the air and into a violent turmoil of wind and water!",,Un terrible huracán asola el lugar y hace que todo vuele por los aires en una violenta vorágine de agua y viento.,"Un ouragan terrible déchire les environs, projetant tout et n'importe quoi en l'air en mêlant avec une violence chaotique le vent et l'eau&nbsp;!","Ein schrecklicher Orkan zieht über die Gegend und reißt alles mit, was nicht niet- und nagelfest ist!","Un terribile uragano si abbatte sulla zona, proiettando tutto in aria dentro una turbolenza di vento e acqua!","Um furacão devastador assola a região, lançando objetos para o alto e mergulhando tudo em uma violenta tempestade de vento e água!",一场可怕的飓风撕裂了这个地区，将一切卷入风与水的暴乱之中！
 EVENT_HAPPENING_SPIKES_REW,"Strange thorns start growing out of everything...
 
@@ -4654,9 +4654,9 @@ Passerà un po' di tempo prima del loro prossimo bagno!","Espinhos estranhos com
 
 Os gatos olham para baixo, espantados, enquanto finos espinhos se projetam de seus pelos!
 
-Vai demorar um pouco até o próximo banho!","奇异的刺开始从一切事物上生长……
+Vai demorar um pouco até o próximo banho!","奇异的荆棘开始从一切事物上生长……
 
-猫咪们惊讶地低头看到细细的刺从它们的毛发下伸出！
+猫咪们惊讶地低头看到细细的荆棘从它们的毛发下伸出！
 
 下次洗澡要等很久了！"
 EVENT_HAPPENING_BLESSEDDAY_REW,"A radiant light fills the surroundings with holy energy, and the cats feel invigorated by its warm embrace.",,"Una luz radiante inunda el lugar con energía sagrada, y los gatos se sienten fortalecidos por su calidez.","Une lumière radieuse éclaire les environs d'une énergie divine, et les chats sont revigorés par sa chaleureuse étreinte.",Strahlendes Licht erfüllt die Gegend mit heiliger Energie und die Katzen fühlen sich von seiner sanften Wärme wie wiederbelebt.,"Una luce splendente riempie i dintorni di energia sacra, e i gatti si sentono rinvigoriti dal suo caldo abbraccio!","Uma luz radiante preenche o ambiente com energia sagrada, e os gatos se sentem revigorados por seu abraço caloroso.",一道光芒充盈着周围，带来神圣的能量，猫咪们感受到温暖怀抱带来的振奋。
@@ -5942,7 +5942,7 @@ Une boue verte et gluante recouvre entièrement {catname} et l'empoisonne&nbsp;!
 
 Um líquido verde espirrou em {catname}, causando um envenenamento!","{catname}靠近桶，没等反应，它就爆炸了！
 
-绿色泥浆喷溅到{catname}身上，毒害了{him}！"
+绿色泥浆喷溅到{catname}身上，中毒了{him}！"
 EVENT_AVATOFTOXICWASTE_REW7_M,,,,,,"{catname} si avvicina, ma prima che possa fare qualsiasi cosa, la vasca esplode!
 
 Una fanghiglia verde si sparge su {catname}, avvelenandolo!",,
@@ -8529,11 +8529,11 @@ EVENT_FRUITBASKET_REW2,The fruit is tasty! {catname} and the other cats gobble u
 EVENT_FRUITBASKET_REW2_M,,,,,,,,
 EVENT_FRUITBASKET_REW2_F,,,,,,,,
 EVENT_FRUITBASKET_REW2_N,,,,,,,,
-EVENT_FRUITBASKET_REW3,"{catname} bites into a piece of fruit, then spits it out in disgust! It's poisoned!",eat bad,{catname} muerde una fruta ¡y la escupe con asco! Está envenenada...,"{catname} mord dans un fruit, puis le recrache par dégoût&nbsp;! Il est empoisonné&nbsp;!","{catname} beißt genüsslich in eine der Früchte, spuckt sie aber sofort wieder aus! Sie war vergiftet!","{catname} morde un pezzo di frutta, poi sputa in preda al disgusto! È avvelenata!",{catname} morde um pedaço de fruta e depois cospe com nojo! Está envenenada!,{catname} 咬了一口水果，然后厌恶地吐了出来！它被下毒了！
+EVENT_FRUITBASKET_REW3,"{catname} bites into a piece of fruit, then spits it out in disgust! It's poisoned!",eat bad,{catname} muerde una fruta ¡y la escupe con asco! Está envenenada...,"{catname} mord dans un fruit, puis le recrache par dégoût&nbsp;! Il est empoisonné&nbsp;!","{catname} beißt genüsslich in eine der Früchte, spuckt sie aber sofort wieder aus! Sie war vergiftet!","{catname} morde un pezzo di frutta, poi sputa in preda al disgusto! È avvelenata!",{catname} morde um pedaço de fruta e depois cospe com nojo! Está envenenada!,{catname} 咬了一口水果，然后厌恶地吐了出来！它中毒了！
 EVENT_FRUITBASKET_REW3_M,,,,,,,,
 EVENT_FRUITBASKET_REW3_F,,,,,,,,
 EVENT_FRUITBASKET_REW3_N,,,,,,,,
-EVENT_FRUITBASKET_REW4,"The fruit tastes great, at first... But after {catname} and the other cats devour it, they look down and notice that the remains are all rotted. They begin to feel sick as poison sets in...",eat bad rare,"La fruta está deliciosa, al principio... Sin embargo, después de devorarla, {catname} y los otros gatos se fijan mejor en los restos y ven que estaba podrida. Empiezan a encontrarse mal a medida que el veneno hace efecto...","Les fruits ont très bon goût, au départ... mais après les avoir dévorés, {catname} et les autres chats remarquent que ceux qui restent sont tous pourris. Le groupe se sent mal à mesure que le poison prend racine...","Das Obst schmeckt zuerst großartig&nbsp;… Doch nachdem {catname} und die anderen Katzen es verschlungen haben, bemerken sie, dass der Rest verdorben ist. Sie alle bekommen Bauchschmerzen, als das Gift anfängt, zu wirken&nbsp;…","Inizialmente la frutta ha un ottimo sapore... ma dopo che {catname} e gli altri gatti l'hanno divorata, guardano in basso e si rendono conto che i rimasugli sono marci. Iniziano a sentirsi male mentre il veleno fa il suo effetto...","As frutas têm um gosto ótimo, a princípio... Mas depois que {catname} e os outros gatos as devoram, eles olham para baixo e percebem que os restos estão todos apodrecidos. Eles começam a se sentir mal à medida que o veneno começa a fazer efeito...",水果起初味道很好……但当 {catname} 和其他猫咪吞下去后，它们低头发现果渣全都腐烂了。随着毒素发作，它们开始感到恶心……
+EVENT_FRUITBASKET_REW4,"The fruit tastes great, at first... But after {catname} and the other cats devour it, they look down and notice that the remains are all rotted. They begin to feel sick as poison sets in...",eat bad rare,"La fruta está deliciosa, al principio... Sin embargo, después de devorarla, {catname} y los otros gatos se fijan mejor en los restos y ven que estaba podrida. Empiezan a encontrarse mal a medida que el veneno hace efecto...","Les fruits ont très bon goût, au départ... mais après les avoir dévorés, {catname} et les autres chats remarquent que ceux qui restent sont tous pourris. Le groupe se sent mal à mesure que le poison prend racine...","Das Obst schmeckt zuerst großartig&nbsp;… Doch nachdem {catname} und die anderen Katzen es verschlungen haben, bemerken sie, dass der Rest verdorben ist. Sie alle bekommen Bauchschmerzen, als das Gift anfängt, zu wirken&nbsp;…","Inizialmente la frutta ha un ottimo sapore... ma dopo che {catname} e gli altri gatti l'hanno divorata, guardano in basso e si rendono conto che i rimasugli sono marci. Iniziano a sentirsi male mentre il veleno fa il suo effetto...","As frutas têm um gosto ótimo, a princípio... Mas depois que {catname} e os outros gatos as devoram, eles olham para baixo e percebem que os restos estão todos apodrecidos. Eles começam a se sentir mal à medida que o veneno começa a fazer efeito...",水果起初味道很好……但当 {catname} 和其他猫咪吞下去后，它们低头发现果渣全都腐烂了。随着中毒发作，它们开始感到恶心……
 EVENT_FRUITBASKET_REW4_M,,,,,,,,
 EVENT_FRUITBASKET_REW4_F,,,,,,,,
 EVENT_FRUITBASKET_REW4_N,,,,,,,,
@@ -8851,7 +8851,7 @@ Nota un burbujeo en el estómago y un sabor tóxico en la lengua. ¡Tiene el imp
 {catname} spürt, wie der Magen plötzlich blubbert und ätzende Flüssigkeit wieder hochkommt. {catname} muss sich dringendst übergeben!",,,"{catname} 拧开瓶盖，喝下那奇怪的液体。
 
 他们感到胃里咕噜咕噜响，嘴里溅出一股毒辣的味道。{catname} 感觉强烈想吐！"
-EVENT_BOTTLEOFVIPERBOOZE_REW3,{catname} takes a gulp of the liquid and immediately begins convulsing as poison ravages {his} body.,drink bad,{catname} da un trago del líquido y al momento empieza a convulsionar mientras el veneno hace estragos en su cuerpo.,{catname} prend une gorgée du liquide et se met immédiatement à convulser. Le poison ravage son corps.,{catname} probiert einen Schluck der Flüssigkeit. {He} zuckt zusammen und Gift rast durch {his}e Adern.,{catname} fa un sorso del liquido e inizia subito ad avere le convulsioni mentre il veleno devasta il suo corpo.,{catname} toma um gole do líquido e imediatamente começa a convulsionar enquanto o veneno devasta seu corpo.,{catname} 喝了一口液体，立刻开始抽搐，毒素正侵袭着 {his} 的身体。
+EVENT_BOTTLEOFVIPERBOOZE_REW3,{catname} takes a gulp of the liquid and immediately begins convulsing as poison ravages {his} body.,drink bad,{catname} da un trago del líquido y al momento empieza a convulsionar mientras el veneno hace estragos en su cuerpo.,{catname} prend une gorgée du liquide et se met immédiatement à convulser. Le poison ravage son corps.,{catname} probiert einen Schluck der Flüssigkeit. {He} zuckt zusammen und Gift rast durch {his}e Adern.,{catname} fa un sorso del liquido e inizia subito ad avere le convulsioni mentre il veleno devasta il suo corpo.,{catname} toma um gole do líquido e imediatamente começa a convulsionar enquanto o veneno devasta seu corpo.,{catname} 喝了一口液体，立刻开始抽搐，中毒正侵袭着 {his} 的身体。
 EVENT_BOTTLEOFVIPERBOOZE_REW3_M,,,,,,,,
 EVENT_BOTTLEOFVIPERBOOZE_REW3_F,,,,,,,,
 EVENT_BOTTLEOFVIPERBOOZE_REW3_N,,,,,,,,
@@ -9628,7 +9628,7 @@ Die Spinnen beißen {catname} und vergiften {him}!",,"{catname} se aproxima do c
 
 As aranhas rastejam por todo o corpo de {catname}, aplicando veneno com pequenas picadas!","{catname} 走近骷髅，犹豫下一步该做什么，突然有蜘蛛从骷髅眼眶中涌出！
 
-蜘蛛爬满了 {catname}，用微小的咬伤毒害 {him}！"
+蜘蛛爬满了 {catname}，用微小的咬伤中毒 {him}！"
 EVENT_HOLLOWSKULL_REW4_M,,,,,,"{catname} si avvicina al teschio mentre riflette sulla prossima mossa, quando improvvisamente dei ragni iniziano a fuoriuscire dalle orbite vuote!
 
 I ragni si arrampicano dappertutto su {catname}, avvelenandolo coi loro piccoli morsi!",,
@@ -10934,10 +10934,10 @@ EVENT_GRATINGINTHEFLOOR_REW2,{catname} throws the grate open and crawls inside..
 EVENT_GRATINGINTHEFLOOR_REW2_M,,,,,,,,
 EVENT_GRATINGINTHEFLOOR_REW2_F,,,,,,,,
 EVENT_GRATINGINTHEFLOOR_REW2_N,,,,,,,,
-EVENT_GRATINGINTHEFLOOR_REW3,"{catname} pushes the grate aside, but as {he} does, a swarm of rats crawl out, biting and poisoning all the cats!",bash bad,"{catname} aparta la reja, pero entonces sale de debajo una colonia de ratas que muerden y envenenan a todos los gatos.","{catname} pousse la grille un peu plus loin, mais ce faisant, une horde de rats en sort en rasant le sol, mordant et empoisonnant l'ensemble du groupe&nbsp;!","{catname} öffnet das Gitter, doch noch im gleichen Moment springt ein Schwarm Ratten heraus, die alle Katzen beißen und sie vergiften!","{catname} non fa in tempo a spostare di lato la grata che un branco di ratti ne striscia fuori, mordendo e avvelenando tutti i gatti!","{catname} empurra a grade para o lado, mas, ao fazer isso, um enxame de ratos sai rastejando, mordendo e envenenando todos os gatos!",{catname} 推开格栅，但就在这时，一群老鼠爬了出来，咬伤并毒害了所有猫！
+EVENT_GRATINGINTHEFLOOR_REW3,"{catname} pushes the grate aside, but as {he} does, a swarm of rats crawl out, biting and poisoning all the cats!",bash bad,"{catname} aparta la reja, pero entonces sale de debajo una colonia de ratas que muerden y envenenan a todos los gatos.","{catname} pousse la grille un peu plus loin, mais ce faisant, une horde de rats en sort en rasant le sol, mordant et empoisonnant l'ensemble du groupe&nbsp;!","{catname} öffnet das Gitter, doch noch im gleichen Moment springt ein Schwarm Ratten heraus, die alle Katzen beißen und sie vergiften!","{catname} non fa in tempo a spostare di lato la grata che un branco di ratti ne striscia fuori, mordendo e avvelenando tutti i gatti!","{catname} empurra a grade para o lado, mas, ao fazer isso, um enxame de ratos sai rastejando, mordendo e envenenando todos os gatos!",{catname} 推开格栅，但就在这时，一群老鼠爬了出来，咬伤并中毒了所有猫！
 EVENT_GRATINGINTHEFLOOR_REW3_M,,,,,,,,
 EVENT_GRATINGINTHEFLOOR_REW3_F,,,,,,,,
-EVENT_GRATINGINTHEFLOOR_REW3_N,"{catname} pushes the grate aside, but as they do, a swarm of rats crawl out, biting and poisoning all the cats!",,"{catname} aparta la reja, pero entonces sale de debajo una colonia de ratas que muerden y envenenan a todos los gatos.",,"{catname} öffnet das Gitter, doch noch im gleichen Moment springt ein Schwarm Ratten heraus, die alle Katzen beißen und sie vergiften!",,,{catname} 推开格栅，但就在他们这么做时，一群老鼠爬了出来，咬伤并毒害了所有猫！
+EVENT_GRATINGINTHEFLOOR_REW3_N,"{catname} pushes the grate aside, but as they do, a swarm of rats crawl out, biting and poisoning all the cats!",,"{catname} aparta la reja, pero entonces sale de debajo una colonia de ratas que muerden y envenenan a todos los gatos.",,"{catname} öffnet das Gitter, doch noch im gleichen Moment springt ein Schwarm Ratten heraus, die alle Katzen beißen und sie vergiften!",,,{catname} 推开格栅，但就在他们这么做时，一群老鼠爬了出来，咬伤并中毒了所有猫！
 EVENT_GRATINGINTHEFLOOR_REW4,"{catname} breaks the grate open, and to {his} horror, a giant fetus crawls out and attacks!",bash bad rare,"{catname} rompe la reja para abrirla, pero ¡ve con angustia como un feto gigante sale de ella y ataca!","{catname} brise la grille pour ouvrir le passage, mais quelque chose d'horrifiant en sort et l'attaque&nbsp;: un fœtus géant&nbsp;!","{catname} öffnet das Gitter. Angewidert muss {he} dabei zusehen, wie ein riesiger Fötus herauskriecht und angreift!","{catname} scassina la grata, e con orrore vede un feto gigante che ne striscia fuori e attacca!","{catname} arromba a grade e, para seu horror, um feto gigante sai rastejando e ataca!",{catname} 撬开格栅，令 {his} 惊恐的是，一个巨大的胎儿爬了出来并发动攻击！
 EVENT_GRATINGINTHEFLOOR_REW4_M,,,,,,,,
 EVENT_GRATINGINTHEFLOOR_REW4_F,,,,,,,,
@@ -13520,7 +13520,7 @@ EVENT_OASIS_REW2,"The cats drag themselves into the oasis and lay in the small p
 ",good rare,"Los gatos avanzan arrastrándose hasta el oasis y se meten en la pequeña charca. ¡Beben tanto como pueden!
 ","Les chats se traînent jusqu'à l'oasis et se couchent dans le petit plan d'eau, tout en buvant autant d'eau que possible&nbsp;!","Die Katzen schleppen sich in das Zentrum der Oase, baden in dem kleinen Becken und trinken so viel sie können!
 ","I gatti si trascinano nell'oasi e si gettano nella piccola pozza, bevendo tanto quanto i loro stomaci riescono a tollerare!","Os gatos se arrastam até o oásis e se deitam na pequena poça, bebendo o máximo que conseguem!",猫咪们拖着自己进入绿洲，躺在小池塘里，尽可能多地喝水！
-EVENT_OASIS_REW3,"The warm water tastes salty, but {catname} continues drinking from the briny pool in desperation, poisoning {himself}!",bad,"El agua está caliente y salada, pero {catname} tiene tanta sed que no deja de beber ¡y se envenena!","L'eau chaude a un goût de sel, mais {catname}, dans son désespoir, continue à boire dans l'étang saumâtre et s'empoisonne&nbsp;!","Das warme Wasser schmeckt salzig, aber {catname} trinkt verzweifelt weiter. {catname} hat sich vergiftet!","L'acqua calda ha un sapore salato, ma {catname} continua a bere dalla pozza salmastra in preda alla disperazione, avvelenandosi!","A água morna tem gosto salgado, mas {catname} continua bebendo da poça salobra em desespero, envenenando-se!",温暖的水尝起来有点咸，但{catname}绝望地继续从咸水池喝水，毒害了{himself}！
+EVENT_OASIS_REW3,"The warm water tastes salty, but {catname} continues drinking from the briny pool in desperation, poisoning {himself}!",bad,"El agua está caliente y salada, pero {catname} tiene tanta sed que no deja de beber ¡y se envenena!","L'eau chaude a un goût de sel, mais {catname}, dans son désespoir, continue à boire dans l'étang saumâtre et s'empoisonne&nbsp;!","Das warme Wasser schmeckt salzig, aber {catname} trinkt verzweifelt weiter. {catname} hat sich vergiftet!","L'acqua calda ha un sapore salato, ma {catname} continua a bere dalla pozza salmastra in preda alla disperazione, avvelenandosi!","A água morna tem gosto salgado, mas {catname} continua bebendo da poça salobra em desespero, envenenando-se!",温暖的水尝起来有点咸，但{catname}绝望地继续从咸水池喝水，中毒了{himself}！
 EVENT_OASIS_REW3_M,,,,,,,,
 EVENT_OASIS_REW3_F,,,,,,,,
 EVENT_OASIS_REW3_N,,,,,,,,
@@ -13644,7 +13644,7 @@ Logra esquivar la mayoría de los dardos, pero alguno le ha dado.","Des fléchet
 
 {He} schafft es, den meisten auszuweichen, wird aber von ein paar von ihnen getroffen.",,"Dardos envenenados voam das fendas enquanto {catname} desce as escadas correndo!
 
-{catname} consegue se desviar da maioria deles, mas seu corpo é atingido por alguns.","当{catname}跑下楼梯时，毒镖从槽中射出！
+{catname} consegue se desviar da maioria deles, mas seu corpo é atingido por alguns.","当{catname}跑下楼梯时，中毒镖从槽中射出！
 
 {He}设法躲开了大部分镖，但还是中了几支。"
 EVENT_MYSTERIOUSTOMB1_REW1_M,,,,,,"Dardi avvelenati volano fuori dalle fessure mentre {catname} corre giù per le scale!
@@ -13661,7 +13661,7 @@ Logra esquivar la mayoría de los dardos, pero alguno le ha dado.",,"Giftpfeile 
 
 {catname} schafft es, den meisten auszuweichen, wird aber von ein paar von ihnen getroffen.","Dardi avvelenati volano fuori dalle fessure mentre {catname} corre giù per le scale!
 
-Riesce a schivarne la maggior parte, ma alcuni raggiungono il bersaglio.",,"当{catname}跑下楼梯时，毒镖从槽中射出！
+Riesce a schivarne la maggior parte, ma alcuni raggiungono il bersaglio.",,"当{catname}跑下楼梯时，中毒镖从槽中射出！
 
 他们设法躲开了大部分镖，但还是中了几支。"
 EVENT_MYSTERIOUSTOMB1_REW2,"{catname} deftly leaps down from step to step, dodging flying darts that shoot from the slots!",good rare,"Salen dardos disparados de los agujeros, pero {catname} salta de escalón a escalón con destreza ¡y los esquiva!","{catname} saute de marche en marche avec adresse, évitant les fléchettes propulsées à travers les trous&nbsp;!","{catname} springt die Treppe gekonnt herunter und weicht den Giftpfeilen aus, die aus den Wänden hevorschießen!","{catname} balza abilmente da scalino a scalino, schivando i dardi volanti che emergono dalle fessure!","{catname} salta habilmente de degrau em degrau, desviando-se dos dardos que voam pelas frestas!",{catname} 灵巧地一步步跳下，躲避从缝隙中射出的飞镖！
@@ -15674,7 +15674,7 @@ Cerca di sputarla, ma la sostanza appiccicosa si incolla dappertutto, causando u
 
 {catname} tenta cuspir, mas a substância pegajosa gruda em tudo e lhe envenena!","{catname} 舔了绿色黏液。味道极其恶心！
 
-{He} 试图吐出来，但粘稠的物质粘在一切上，毒害了 {catname}！"
+{He} 试图吐出来，但粘稠的物质粘在一切上，中毒了 {catname}！"
 EVENT_BROKENCANISTER_REW7_M,,,,,,,,
 EVENT_BROKENCANISTER_REW7_F,,,,,,,,
 EVENT_BROKENCANISTER_REW7_N,"{catname} licks the green goo. It tastes absolutely vile!
@@ -15685,7 +15685,7 @@ Intenta escupirla, pero se le ha pegado a la lengua. ¡{catname} termina envenen
 
 {catname} versucht ihn auszuspucken, doch die Flüssigkeit ist total klebrig und giftig!",,,"{catname} 舔了绿色黏液。味道极其恶心！
 
-他们试图吐出来，但粘稠的物质粘在一切上，毒害了 {catname}！"
+他们试图吐出来，但粘稠的物质粘在一切上，中毒了 {catname}！"
 EVENT_BROKENCANISTER_REW8,"The strange goo tastes gross going down but {catname} keeps going. {He} begins to feel strange...
 ",lick bad rare,"La extraña sustancia está asquerosa, pero {catname} sigue bebiendo. Empieza a tener una sensación muy rara...
 ","Cette drôle de vase verte a un goût horrible dans sa bouche, mais {catname} ne s'arrête pas. {He} commence à se sentir mal.","Der komische Schleim schmeckt im Abgang ziemlich widerlich, aber {catname} hört nicht auf. {He} fühlt sich ganz komisch&nbsp;…
@@ -16176,7 +16176,7 @@ Alla fine il gruppo emerge, esausto. Le tossine nell'aria hanno avvelenato tutti
 
 Por fim, o grupo emerge, exausto. As toxinas do ar penetraram em seus corpos, envenenando a todos.","猫咪们在蜿蜒的墓穴中迷路。他们开始被陈旧有毒的空气呛住。
 
-最终队伍筋疲力尽地出来了。空气中的毒素已经渗入，毒害了整个队伍。"
+最终队伍筋疲力尽地出来了。空气中的毒素已经渗入，**中毒**了整个队伍。"
 EVENT_TRAVERSETHENECROPOLIS_REW2,"{catname} leads the way down into the necropolis.
 
 The other cats hear a loud scraping sound and suddenly {catname} goes flying past them, bleeding profusely.
@@ -17335,7 +17335,7 @@ EVENT_PITOFSNAKES_REW10_N,,,,,,,,
 EVENT_PITOFSNAKES_REW11,"The snakes leave the pit and chase after the cats, biting and poisoning them!
 ",,"Las serpientes salen del pozo y persiguen a los gatos mientras los muerden y envenenan.
 ",Les serpents quittent la fosse et poursuivent les chats. Ils les mordent et les empoisonnent&nbsp;!,"Die Schlangen kriechen aus der Grube und verfolgen die Katzen. Sie beißen und vergiften sie!
-","I serpenti escono dalla fossa e inseguono i gatti, mordendoli e avvelenandoli!","As cobras saem do fosso e perseguem os gatos, mordendo-os e envenenando-os!",蛇离开坑，追逐猫，咬伤并毒害它们！
+","I serpenti escono dalla fossa e inseguono i gatti, mordendoli e avvelenandoli!","As cobras saem do fosso e perseguem os gatos, mordendo-os e envenenando-os!",蛇离开坑，追逐猫，咬伤并中毒它们！
 EVENT_PITOFSNAKES_REW12,"{catname} tries to sweet talk the snakes, but gets bitten in the face instead!
 ",,"{catname} intenta camelar a las serpientes, pero ¡le muerden la cara!
 ","{catname} essaie d'amadouer les serpents, mais au lieu de ça, {he} se fait mordre au visage&nbsp;!","{catname} versucht, vernünftig mit den Schlangen zu reden, doch stattdessen beißen sie zu!
@@ -18178,7 +18178,7 @@ EVENT_DEADMAMMOTH_REW3,"{catname} eats some of the meat, but it has spoiled!
 
 {catname} sofreu um envenamento.","{catname}吃了一些肉，但已经腐坏了！
 
-{catname}中了毒。"
+{catname}中毒了。"
 EVENT_DEADMAMMOTH_REW3_M,,,,,,,,
 EVENT_DEADMAMMOTH_REW3_F,,,,,,,,
 EVENT_DEADMAMMOTH_REW3_N,,,,,,,,
