@@ -317,11 +317,11 @@ HOUSE_CAT_INFO_INBRED1,Slightly Inbred,,Endogamia ligera,Légèrement consanguin
 HOUSE_CAT_INFO_INBRED2,Moderately Inbred,,Endogamia moderada,Modérément consanguin,Mittlere Inzucht,Consanguineità moderata,Consanguinidade moderada,中度近亲繁殖
 HOUSE_CAT_INFO_INBRED3,Highly Inbred,,Endogamia elevada,Fortement consanguin,Hohe Inzucht,Consanguineità alta,Consanguinidade alta,高度近亲繁殖
 HOUSE_CAT_INFO_INBRED4,Extremely Inbred,,Endogamia extrema,Extrêmement consanguin,Extreme Inzucht,Consanguineità estrema,Consanguinidade extrema,极端近亲繁殖
-HOUSE_CAT_INFO_LOVER,Loves {Catname},,Quiere a {Catname},Aime {Catname},Liebt {Catname},Ama {Catname},Ama {Catname},爱 [m:{Catname}]
+HOUSE_CAT_INFO_LOVER,Loves {Catname},,Quiere a {Catname},Aime {Catname},Liebt {Catname},Ama {Catname},Ama {Catname},爱 {Catname}
 HOUSE_CAT_INFO_LOVER_M,,,,,,,,
 HOUSE_CAT_INFO_LOVER_F,,,,,,,,
 HOUSE_CAT_INFO_LOVER_N,,,,,,,,
-HOUSE_CAT_INFO_RIVAL,Hates {Catname},,Odia a {Catname},Déteste {Catname},Hasst {Catname},Odia {Catname},Odeia {Catname},恨 [m:{Catname}]
+HOUSE_CAT_INFO_RIVAL,Hates {Catname},,Odia a {Catname},Déteste {Catname},Hasst {Catname},Odia {Catname},Odeia {Catname},恨 {Catname}
 HOUSE_CAT_INFO_RIVAL_M,,,,,,,,
 HOUSE_CAT_INFO_RIVAL_F,,,,,,,,
 HOUSE_CAT_INFO_RIVAL_N,,,,,,,,
@@ -650,17 +650,17 @@ ITEM_BROKEN_TOOLTIP,It's trash now,,Ahora es basura.,Bon pour la poubelle.,Kann 
 ,,,,,,,,
 NO_CHARACTER_NAME,Nobody,,Nadie,Personne,Niemand,Nessuno,Ninguém,无名
 ,,,,,,,,
-CAT_NAME_MOD_COOL,Cool {Catname},,{Catname} guay,{Catname} (cool),{Catname} (Cool)|999,,{Catname} legal,酷 [m:{Catname}]
+CAT_NAME_MOD_COOL,Cool {Catname},,{Catname} guay,{Catname} (cool),{Catname} (Cool)|999,,{Catname} legal,酷 {Catname}
 CAT_NAME_MOD_COOL_M,,,,,,{Catname} fantastico,,
 CAT_NAME_MOD_COOL_F,,,,,,{Catname} fantastica,,
 CAT_NAME_MOD_COOL_N,,,,,,{Catname} spettacolare,,
 CAT_NAME_MOD_VEGAN,{Catname} (Vegan)|999,"since multiple mods can apply to the same cat, you can append |<number> to change the priority a name mod applies
 in this case, (Vegan) needs to come after other mods, so |1 means apply later.
-(higher numbers apply later)",{Catname} (dieta vegana)|999,{Catname} (végan)|999,{Catname} (Vegan)|999,,,[m:{Catname}]（纯素食者）|999
+(higher numbers apply later)",{Catname} (dieta vegana)|999,{Catname} (végan)|999,{Catname} (Vegan)|999,,,{Catname}（纯素食者）|999
 CAT_NAME_MOD_VEGAN_M,,,,,,{Catname} (Vegano)|999,{Catname} (Vegano)|999,
 CAT_NAME_MOD_VEGAN_F,,,,,,{Catname} (Vegana)|999,{Catname} (Vegana)|999,
 CAT_NAME_MOD_VEGAN_N,,,,,,{Catname} (mangia cibo vegano)|999,,
-CAT_NAME_MOD_MAN,Mr. {Catname}|1,(should be Mr. regardless of {Catname}'s gender),Sr. {Catname}|1,M. {Catname}|1,Mr. {Catname}|1,Mr. {Catname}|1,Mr. {Catname}|1,先生 [m:{Catname}]|1
+CAT_NAME_MOD_MAN,Mr. {Catname}|1,(should be Mr. regardless of {Catname}'s gender),Sr. {Catname}|1,M. {Catname}|1,Mr. {Catname}|1,Mr. {Catname}|1,Mr. {Catname}|1,{Catname} 先生|1
 CAT_NAME_MOD_MAN_M,,,,,,,,
 CAT_NAME_MOD_MAN_F,,,,,,,,
 CAT_NAME_MOD_MAN_N,,,,,,,,

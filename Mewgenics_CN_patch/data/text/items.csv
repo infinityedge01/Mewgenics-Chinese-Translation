@@ -5545,9 +5545,9 @@ ARMOR_BIRDPOOPHAT_NAME,Bird Poop,,Caca de pájaro,Merde d'oiseau,Vogelkacke,Cacc
 ARMOR_BIRDPOOPHAT_DESC,+50% chance for an extra bird to spawn at the start of each battle.,,+50 % de probabilidad de que se genere un pájaro extra al inicio de cada combate.,+50&nbsp;% de chances d'invoquer un oiseau supplémentaire au début de chaque combat.,"+50&nbsp;% Wahrscheinlichkeit, dass am Anfang jedes Kampfes ein zusätzlicher Vogel erscheint.",+50% di probabilità che venga generato un uccello aggiuntivo all'inizio di ogni battaglia.,+50% de chance de um pássaro adicional ser gerado no início de cada batalha.,"每场战斗开始时有50%几率额外生成一只鸟。
 "
 ARMOR_CALLUS_NAME,Callus,,Callo,Callosité,Kallus,Callo,Calo,老茧
-ARMOR_CALLUS_DESC,Permanently gain +2 [img:shield] each time you end a battle with 1 or more [img:shield].,,Obtiene +2 [img:shield] para siempre cada vez que termina un combate con 1 [img:shield] o más.,[img:shield] +2&nbsp;de façon permanente quand vous terminez un combat avec 1&nbsp;[img:shield] ou plus.,"Du erhältst jedes Mal dauerhaft +2&nbsp;[img:shield], wenn du den Kampf mit 1 oder mehr [img:shield] beendest.",Ottieni permanentemente +2 allo [img:shield] ogni volta che termini una battaglia con 1 o più [img:shield].,Obtenha permanentemente +2 de [img:shield] a cada vez que finalizar uma batalha com 1 ou mais de [img:shield].,"每当你以拥有1个或以上[m:shield]结束战斗时，
+ARMOR_CALLUS_DESC,Permanently gain +2 [img:shield] each time you end a battle with 1 or more [img:shield].,,Obtiene +2 [img:shield] para siempre cada vez que termina un combate con 1 [img:shield] o más.,[img:shield] +2&nbsp;de façon permanente quand vous terminez un combat avec 1&nbsp;[img:shield] ou plus.,"Du erhältst jedes Mal dauerhaft +2&nbsp;[img:shield], wenn du den Kampf mit 1 oder mehr [img:shield] beendest.",Ottieni permanentemente +2 allo [img:shield] ogni volta che termini una battaglia con 1 o più [img:shield].,Obtenha permanentemente +2 de [img:shield] a cada vez que finalizar uma batalha com 1 ou mais de [img:shield].,"每当你以拥有1个或以上[img:shield]结束战斗时，
 
-永久获得+2[m:shield]。"
+永久获得+2[img:shield]。"
 ARMOR_CLAM_NAME,Clam,,Almeja,Palourde,Muschel,Vongola,Marisco,蛤蜊
 ARMOR_CLAM_DESC,"5% chance to break when you take damage.
 When this breaks, find a Pearl.",,"5 % de probabilidad de romperse al sufrir daño.

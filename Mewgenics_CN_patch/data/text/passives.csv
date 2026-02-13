@@ -3484,7 +3484,7 @@ DISORDER_GAMBLINGADDICT_DESC,"+33% miss chance.
 DISORDER_SCLERODERMA_NAME,Scleroderma,,Bola de tierra,Scléroderme,Sklerodermie,Sclerodermia,Esclerodermia,硬皮病
 DISORDER_SCLERODERMA_DESC,"At the start of each battle, you lose all but 1 HP, but gain that much [img:shield].",,"Al inicio de cada combate, pierde todos los PS menos 1, pero obtiene esa misma cantidad de [img:shield].","Au début de chaque combat, vous descendez à 1&nbsp;PV, mais vous gagnez en [img:shield] la même quantité de PV perdus.",Am Anfang des Kampfes verlierst du alle LP bis auf 1 und erhältst [img:shield] in dieser Höhe.,"All'inizio di ogni battaglia, perdi tutti i tuoi PS tranne 1, ma guadagni la stessa quantità di [img:shield].","No início de cada batalha, você perde toda a sua saúde até restar apenas 1 PV, mas obtém uma quantidade equivalente de [img:shield].","在每场战斗开始时，
 你会失去所有生命值但保留1点生命值，
-并获得相同数量的[m:shield]。"
+并获得相同数量的[img:shield]。"
 DISORDER_PACIFIST_NAME,Pacifist,,Pacifismo,Pacifiste,Pazifist,Pacifista,Pacifista,和平主义者
 DISORDER_PACIFIST_DESC,You can't kill units. If you end your turn without using your basic attack gain 7 mana.,,"No puede matar unidades. Si termina el turno sin lanzar el ataque básico, obtiene 7 de maná.","Vous ne pouvez pas tuer des unités. Si vous terminez votre tour sans avoir utilisé votre attaque de base, vous gagnez 7&nbsp;mana.","Du kannst keine Einheiten töten. Wenn du deinen Zug beendest, ohne deinen Grundangriff benutzt zu haben, erhältst du 7&nbsp;Mana.","Non puoi uccidere unità. Se termini il tuo turno senza usare il tuo attacco base, ottieni 7 di mana.","Você não pode matar unidades. Ao finalizar seu turno sem utilizar seu ataque básico, obtenha 7 de mana.","你不能杀死单位。
 如果结束你的回合时没有使用基本攻击，
@@ -3505,7 +3505,7 @@ DISORDER_SCALYSCABS_NAME,Scaly Scabs,,Costras escamosas,Croûtes écailleuses,Sc
 DISORDER_SCALYSCABS_DESC,,,,,,,,
 DISORDER_FATTYLIVER_NAME,Fatty Liver,,Hígado graso,Stéatose hépatique,Fettleber,Fegato Grasso,Gordura no Fígado,脂肪肝
 DISORDER_FATTYLIVER_DESC,"Whenever you lose HP, you permanently lose 1 [img:con].",,"Cuando pierde PS, pierde para siempre 1 [img:con].","Chaque fois que vous perdez des PV, [img:con]&nbsp;-1&nbsp;de façon permanente.","Wenn du LP verlierst, verlierst du dauerhaft 1&nbsp;[img:con].","Ogni volta che perdi PS, perdi permanentemente 1 di [img:con].","Sempre que perder saúde, perca permanentemente 1 de [img:con].","每当你失去生命值时，
-永久失去1点[m:con]。"
+永久失去1点[img:con]。"
 DISORDER_COMMONCOLD_NAME,The Common Cold,,Resfriado común,Rhume commun,Erkältung,Raffreddore Comune,Resfriado,普通感冒
 DISORDER_COMMONCOLD_DESC,Start each battle with All Stats Down. 30% chance of recovering at the end of each round. Contagious.,,Empieza cada combate con reducción total. 30 % de probabilidad de recuperarse al final de cada ronda. Es contagioso.,Vous commencez chaque combat avec Baisse de stats. 30&nbsp;% de chances de récupération à la fin de chaque manche. Contagieux.,"Beginne jeden Kampf mit einem Malus auf alle Attribute. 30%ige Wahrscheinlichkeit, dass du dich am Ende der Runde erholst. Ansteckend.",Inizi ogni battaglia con Diminuzione delle Statistiche. 30% di probabilità di guarire alla fine di ogni round. Contagioso.,Inicie cada batalha com todos os atributos diminuídos. 30% de chance de se recuperar no final de cada rodada. Contagioso.,"每场战斗开始时所有属性下降。
 每回合结束时有30%几率恢复。
