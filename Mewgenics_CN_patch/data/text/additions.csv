@@ -186,8 +186,8 @@ EABILITY_FLESHLAD_UPPERCUT_DESC,"Punch a unit, knocking it back 3 tiles and infl
  [s:.7](Une fois par tour.)[/s]","Schlag eine Einheit, stoße sie 3&nbsp;Felder zurück und verursache Beulen bei ihr.
 [s:.7](Einmal pro Zug verwendbar.)[/s]","Colpisci un'unità, respingendola indietro di 3 caselle e infliggendole Livido.
 [s:.7](Lanciabile una volta per turno.)[/s]","Soque uma unidade, empurrando-a 3 espaços para trás e aplicando contusão.
-[s:.7](Um lançamento por turno.)[/s]","击打一个单位，  
-将其击退3格并造成挫伤。  
+[s:.7](Um lançamento por turno.)[/s]","击打一个单位，
+将其击退3格并造成挫伤。
 [s:.7](每回合可施放一次。)[/s]"
 FAMILIAR_PHANTOMMASK_DESC,Invulnerable. Attack it to knock it foward in a straight line. It deals 5 damage to units it hits.,same as OBJECT_PETROCK_DESC but with the Invulnerable mention added to the beginning,Invulnerable. Se desplaza hacia delante en línea recta cuando la atacan. Inflige 5 de daño a las unidades que golpea.,Invulnérable. L'attaquer le projette en ligne droite. Inflige 5&nbsp;dégâts aux unités qu'il touche.,"Unverwundbar. Greif ihn an, um ihn in einer geraden Linie nach vorn zu schleudern. Verursacht 5&nbsp;Schaden bei Einheiten, die er trifft.",Invulnerabile. Attaccala per proiettarla in avanti in linea retta. Infligge 5 di danno alle unità che colpisce.,Invulnerável. Ataque-a para empurrá-la para frente em linha reta. Causa 5 de dano nas unidades que forem acertadas.,"无敌。攻击它会将其直线击退。
 它会对被击中的单位造成5点伤害。"
@@ -215,14 +215,14 @@ ITEM_REDPILL_DESC,"Use: 50% chance to get Chungus (+4 [img:con]), otherwise take
 DISORDER_CHUNGUS_NAME,Chungus,slang for something big and/or fat,Chungus,Énorme,Fettmops,Tracagnotto,Enormidade,混乱巨兽
 DISORDER_CHUNGUS_DESC,,purposely empty,,,,,,
 ,,,,,,,,
-QEVENT_MEATALTAR_REW2B,"{Catname} lies sacrificed on top of the altar. The altar is pleased. 
+QEVENT_MEATALTAR_REW2B,"{Catname} lies sacrificed on top of the altar. The altar is pleased.
 
 The remaining cats feel strengthened, and one of them begrudgingly pulls on {catname}'s corpse, salvaging it for useful parts.
 ","(just the same text as the other one minus the ""its pleased but not satisfied"" for after the altar's main desire has been completed)","El cuerpo sacrificado de {Catname} yace sobre el altar, que está conforme.
 
 Los otros gatos se sienten fortalecidos. A regañadientes, uno de ellos coge el cadáver de {catname} en busca de algo que pueda aprovecharse.
 ","{Catname} s'est fait sacrifier sur l'autel. Celui-ci est satisfait.
- 
+
 Les chats restants se sentent plus forts, et l'un d'eux, à contrecœur, dépiaute le cadavre pour en tirer des pièces utiles.","{Catname} liegt als Opfer auf dem Altar. Der Altar ist besänftigt.
 
 Die verbleibenden Katzen fühlen sich stärker. Eine von ihnen durchsucht zögerlich die Leiche von {catname} und nimmt alles Nützliche mit.
@@ -243,7 +243,7 @@ The remaining cats feel great though!
 
 Eso sí, ¡los otros gatos se sienten genial!
 ","{Catname} s'est fait sacrifier sur l'autel. Celui-ci est satisfait.
- 
+
 À part ça, les autres chats pètent le feu&nbsp;!","{Catname} liegt als Opfer auf dem Altar. Der Altar ist besänftigt.
 
 Die verbleibenden Katzen fühlen sich großartig!
@@ -292,7 +292,7 @@ COMBAT_POPUP_QUESTFAILED,Quest Failed!,,¡Fracaso en la misión!,Échec de la qu
 CREDITS_THANKSFORPLAYING,"thanks for playing
 MEWGENICS!","(in the credits roll: ed's handwriting font uses smallcaps for lowercase, so all-lowercase lines are correct)","¡Gracias por jugar a
 MEWGENICS!","Merci d'avoir joué à
-MEWGENICS&nbsp;!","vielen dank, dass du 
+MEWGENICS&nbsp;!","vielen dank, dass du
 MEWGENICS
 gespielt hast!","Grazie per aver giocato a
 MEWGENICS!","obrigado por jogar
@@ -407,25 +407,25 @@ Carlo De Rensis
 Juny Gentile"
 CREDITS_LOCALIZATION_SPANISH,"Español:
 Xavi Vernet Diaz
-Sebastian Sorroche Jurado 
+Sebastian Sorroche Jurado
 Ana Avalos Reyes",,"Español:
 Xavi Vernet Díaz
-Sebastián Sorroche Jurado 
+Sebastián Sorroche Jurado
 Ana Ávalos Reyes","Espagnol&nbsp;:
 Xavier Vernet Díaz
 Sebastián Sorroche Jurado
 Ana Ávalos Reyes","Español:
 Xavi Vernet Díaz
-Sebastián Sorroche Jurado 
+Sebastián Sorroche Jurado
 Ana Ávalos Reyes","Español:
 Xavi Vernet Díaz
-Sebastián Sorroche Jurado 
+Sebastián Sorroche Jurado
 Ana Ávalos Reyes","Espanhol:
 Xavi Vernet Díaz
-Sebastián Sorroche Jurado 
+Sebastián Sorroche Jurado
 Ana Ávalos Reyes","Español:
 Xavi Vernet Diaz
-Sebastian Sorroche Jurado 
+Sebastian Sorroche Jurado
 Ana Avalos Reyes"
 CREDITS_LOCALIZATION_BRPORTUGESE,"Português (Brasil):
 Romulo Wehling",,"Português (Brasil):

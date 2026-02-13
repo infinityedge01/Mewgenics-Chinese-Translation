@@ -107,7 +107,7 @@ PASSIVE_DIRTYCLAWS_NAME,Dirty Claws,,Garras sucias,Griffes souillées,Dreckige K
 PASSIVE_DIRTYCLAWS_DESC,Your physical attacks on Poisoned or Bleeding enemies inflict +1 Poison and/or Bleed.,,Los ataques físicos a enemigos que sufren veneno o hemorragia infligen +1 de veneno o hemorragia.,Vos attaques physiques sur les ennemis affectés par Poison ou Saignement infligent Poison et/ou Saignement&nbsp;+1.,Deine physischen Angriffe verursachen bei vergifteten oder blutenden Gegnern +1&nbsp;Gift und/oder Blutung.,I tuoi attacchi fisici contro nemici affetti da Avvelenamento o Sanguinamento infliggono +1 Veleno e/o Sanguinamento.,Seus ataques físicos em inimigos envenenados ou com sangramento aplicam +1 de veneno e/ou sangramento.,"你对中毒或流血敌人的物理攻击
 会额外附加 +1 点中毒和/或流血。
 "
-PASSIVE_DIRTYCLAWS2_DESC,"Your basic attack inflicts Poison 1 and Bleed 1. 
+PASSIVE_DIRTYCLAWS2_DESC,"Your basic attack inflicts Poison 1 and Bleed 1.
 Your physical attacks on Poisoned or Bleeding enemies inflict +1 Poison and/or Bleed.",,"El ataque básico inflige 1 de veneno y 1 de hemorragia.
 Los ataques físicos a enemigos que sufren veneno o hemorragia infligen +1 de veneno o hemorragia.",Vos attaques de base infligent Poison&nbsp;+1&nbsp;et Saignement&nbsp;+1. Vos attaques physiques sur les ennemis affectés par Poison ou Saignement infligent Poison et/ou Saignement&nbsp;+1.,"Dein Grundangriff verursacht Gift&nbsp;1 und Blutung&nbsp;1.
 Deine physischen Angriffe verursachen bei vergifteten oder blutenden Gegnern +1&nbsp;Gift und/oder Blutung.","Il tuo attacco base infligge +1 Veleno e/o Sanguinamento.
@@ -239,7 +239,7 @@ PASSIVE_PRESSUREPOINTS2_DESC,Damage you deal that's 3 or less is always critical
 PASSIVE_GASSY_NAME,Gassy,,Pedorro,Repoussoir,Blähungen,Gas Intestinali,Gases,多气
 PASSIVE_GASSY_DESC,"Whenever you take damage, knock back all adjacent units.",,"Al sufrir daño, hace retroceder a todas las unidades adyacentes.","Quand vous subissez des dégâts, vous repoussez les unités adjacentes.","Stoße alle benachbarten Einheiten zurück, wenn du Schaden erleidest.","Ogni volta che subisci danno, respingi tutte le unità adiacenti.","Sempre que sofrer dano, empurre para trás todas as unidades adjacentes.","每当你受到伤害时，
 将所有相邻单位击退。"
-PASSIVE_GASSY2_DESC,"Whenever you take damage, poison all adjacent units and knock them back 10 tiles.",,"Al sufrir daño, inflige veneno a todas las unidades adyacentes y las hace retroceder 10 casillas.","Quand vous subissez des dégâts, vous empoisonnez les unités adjacentes et les repoussez de 10&nbsp;cases.","Vergifte alle benachbarten Einheiten und stoße sie um 10&nbsp;Felder zurück, wenn du Schaden erleidest.","Ogni volta che subisci danno, avveleni tutte le unità adiacenti e le respingi indietro di 10 caselle.","Sempre que sofrer dano, envenene todas as unidades adjacentes e as empurre 10 espaços para trás.","每当你受到伤害时，  
+PASSIVE_GASSY2_DESC,"Whenever you take damage, poison all adjacent units and knock them back 10 tiles.",,"Al sufrir daño, inflige veneno a todas las unidades adyacentes y las hace retroceder 10 casillas.","Quand vous subissez des dégâts, vous empoisonnez les unités adjacentes et les repoussez de 10&nbsp;cases.","Vergifte alle benachbarten Einheiten und stoße sie um 10&nbsp;Felder zurück, wenn du Schaden erleidest.","Ogni volta che subisci danno, avveleni tutte le unità adiacenti e le respingi indietro di 10 caselle.","Sempre que sofrer dano, envenene todas as unidades adjacentes e as empurre 10 espaços para trás.","每当你受到伤害时，
 中毒所有相邻单位并将其击退10格。"
 PASSIVE_DEALER_NAME,Dealer,,Traficante,Dealer,Dealer,Spacciatore,Tráfico,商人
 PASSIVE_DEALER_DESC,You can use consumables on other units.,,Se pueden usar los consumibles con otras unidades.,Vous pouvez utiliser les consommables sur d'autres unités.,Du kannst Verbrauchsgegenstände auf andere Einheiten anwenden.,Puoi usare i consumabili su altre unità.,Você pode usar consumíveis em outras unidades.,你可以对其他单位使用消耗品。
@@ -518,16 +518,16 @@ PASSIVE_SPREADTHEPAIN2_DESC,Deal 2 extra damage with 100% crit chance the first 
 额外造成 2 点伤害，
 且 100% 暴击率。"
 PASSIVE_HARDEN_NAME,Harden,,Endurecimiento,Cuirasse,Härtner,Indurimento,Endurecimento,硬化
-PASSIVE_HARDEN_DESC,"When you gain [img:shield], also gain temporary Brace 1.",,"Cuando obtiene [img:shield], también obtiene 1 de refuerzo temporal.","Quand vous gagnez [img:shield], obtenez temporairement Garde&nbsp;+1.","Wenn du [img:shield] erhältst, erhältst du außerdem vorübergehend Wappnen&nbsp;1.","Quando ottieni [img:shield], ottieni anche Guardia temporanea 1.","Ao obter [img:shield], obtenha também preparação 1 temporariamente.","当你获得 [img:shield] 时，  
+PASSIVE_HARDEN_DESC,"When you gain [img:shield], also gain temporary Brace 1.",,"Cuando obtiene [img:shield], también obtiene 1 de refuerzo temporal.","Quand vous gagnez [img:shield], obtenez temporairement Garde&nbsp;+1.","Wenn du [img:shield] erhältst, erhältst du außerdem vorübergehend Wappnen&nbsp;1.","Quando ottieni [img:shield], ottieni anche Guardia temporanea 1.","Ao obter [img:shield], obtenha também preparação 1 temporariamente.","当你获得 [img:shield] 时，
 同时获得临时护甲 1。"
 PASSIVE_HARDEN2_DESC,"When you gain [img:shield], also gain temporary Brace 1.
 Gain +1 [img:shield] when you hit a unit with your basic attack.",,"Cuando obtiene [img:shield], también obtiene 1 de refuerzo temporal.
 Obtiene +1 [img:shield] cuando golpea a una unidad con el ataque básico.","Quand vous gagnez [img:shield], obtenez temporairement Garde&nbsp;+1. Gagnez [img:shield]&nbsp;+1&nbsp;quand vous touchez une unité avec votre attaque de base.","Wenn du [img:shield] erhältst, erhältst du außerdem vorübergehend Wappnen&nbsp;1.
 Erhalte +1&nbsp;[img:shield], wenn du eine Einheit mit deinem Grundangriff triffst.","Quando ottieni [img:shield], ottieni anche Guardia temporanea 1.
 Ottieni +1 allo [img:shield] quando colpisci un'unità con il tuo attacco base.","Ao obter [img:shield], obtenha também preparação 1 temporariamente.
-Obtenha +1 de [img:shield] ao golpear uma unidade com seu ataque básico.","当你获得 [img:shield] 时，  
-同时获得临时护甲 1。  
-当你用基础攻击命中单位时，  
+Obtenha +1 de [img:shield] ao golpear uma unidade com seu ataque básico.","当你获得 [img:shield] 时，
+同时获得临时护甲 1。
+当你用基础攻击命中单位时，
 获得 +1 [img:shield]。"
 PASSIVE_IRONSKINTECHNIQUE_NAME,Iron Skin Technique,,Técnica de la piel de hierro,Peau de fer,Eisenhauttechnik,Tecnica della Pelle di Ferro,Técnica da Pele de Ferro,铁皮术
 PASSIVE_IRONSKINTECHNIQUE_DESC,Gain +2 [img:shield] when you land a critical hit. +10% critical chance.,,Obtiene +2 [img:shield] al infligir un golpe crítico. +10 % de probabilidad de crítico.,Confère [img:shield]&nbsp;+2&nbsp;quand vous faites un coup critique. +10&nbsp;% de chances de coup critique.,"Erhalte +2&nbsp;[img:shield], wenn du einen kritischen Treffer landest. +10&nbsp;% kritische Trefferchance.",Ottieni +2 allo [img:shield] quando infliggi un colpo critico. +10% probabilità di critico.,Obtenha +2 de [img:shield] ao acertar um golpe crítico. +10% de chance de crítico.,"当你造成暴击时，获得 +2 [img:shield]。
@@ -564,9 +564,9 @@ PASSIVE_UNBURDENEDSTRIKES_DESC,"+10% critical hit chance and +25% critical hit d
 槽+25%暴击伤害。
 如果你的所有护甲槽都是空的，
 受到攻击时会进行反击。"
-PASSIVE_UNBURDENEDSTRIKES2_DESC,"+10% critical hit chance and +25% critical hit damage for each empty armor slot. If all of your armor slots are empty your critical hits inflict bruise, and counter-attack whenever you get hit.",,"+10 % de probabilidad de golpe crítico y +25 % de daño de golpe crítico por cada espacio de armadura vacío. Si todos los espacios de armadura están vacíos, los golpes críticos infligen moratón y contrataca cuando golpean a esta unidad.","Chances de CC&nbsp;+10&nbsp;% et dégâts de CC&nbsp;+25&nbsp;% pour chaque emplacement d'armure vide. Si tous vos emplacements d'armure sont vides, vos coups critiques infligent Contusion et vous contre-attaquez à chaque coup subi.","+10&nbsp;% kritische Trefferchance und +25&nbsp;% kritischer Trefferschaden für jeden leeren Rüstungsplatz. Wenn all deine Rüstungsplätze leer sind, verursachen deine kritischen Treffer Beulen und du konterst du jedes Mal, wenn du getroffen wirst.","+10% di probabilità di colpo critico e +25% di danno da colpo critico per ogni slot armatura vuoto. Se tutti i tuoi slot armatura sono vuoti, il tuo colpo critico infligge Livido e contrattacchi ogni volta che subisci un colpo.","+10% de chance de crítico e +25% de dano crítico para cada espaço de armadura vazio. Se todos os seus espaços de armadura estiverem vazios, contra-ataque sempre que sofrer golpes e seus golpes críticos aplicam contusão.","+10% 暴击几率和每个空护甲槽+25%暴击伤害。  
-如果你的所有护甲槽都是空的，  
-你的暴击会造成挫伤，  
+PASSIVE_UNBURDENEDSTRIKES2_DESC,"+10% critical hit chance and +25% critical hit damage for each empty armor slot. If all of your armor slots are empty your critical hits inflict bruise, and counter-attack whenever you get hit.",,"+10 % de probabilidad de golpe crítico y +25 % de daño de golpe crítico por cada espacio de armadura vacío. Si todos los espacios de armadura están vacíos, los golpes críticos infligen moratón y contrataca cuando golpean a esta unidad.","Chances de CC&nbsp;+10&nbsp;% et dégâts de CC&nbsp;+25&nbsp;% pour chaque emplacement d'armure vide. Si tous vos emplacements d'armure sont vides, vos coups critiques infligent Contusion et vous contre-attaquez à chaque coup subi.","+10&nbsp;% kritische Trefferchance und +25&nbsp;% kritischer Trefferschaden für jeden leeren Rüstungsplatz. Wenn all deine Rüstungsplätze leer sind, verursachen deine kritischen Treffer Beulen und du konterst du jedes Mal, wenn du getroffen wirst.","+10% di probabilità di colpo critico e +25% di danno da colpo critico per ogni slot armatura vuoto. Se tutti i tuoi slot armatura sono vuoti, il tuo colpo critico infligge Livido e contrattacchi ogni volta che subisci un colpo.","+10% de chance de crítico e +25% de dano crítico para cada espaço de armadura vazio. Se todos os seus espaços de armadura estiverem vazios, contra-ataque sempre que sofrer golpes e seus golpes críticos aplicam contusão.","+10% 暴击几率和每个空护甲槽+25%暴击伤害。
+如果你的所有护甲槽都是空的，
+你的暴击会造成挫伤，
 并且受到攻击时会进行反击。"
 PASSIVE_UNBURDENEDTHOUGHTS_NAME,Unburdened Thoughts,,Pensamientos sin carga,Pensée libre,Unbeschwerte Gedanken,Pensieri Alleggeriti,Pensamentos Livres,无负担思维
 PASSIVE_UNBURDENEDTHOUGHTS_DESC,"+1 [img:int] and +1 [img:cha] for each empty armor slot. If all of your armor slots are empty, your spells cost 1 less mana.",,"+1 [img:int] y +1 [img:cha] por cada espacio de armadura vacío. Si todos los espacios de armadura están vacíos, sus hechizos cuestan 1 menos de maná.","[img:int]&nbsp;+1&nbsp;et [img:cha]&nbsp;+1&nbsp;pour chaque emplacement d'armure vide. Si tous vos emplacements d'armure sont vides, vos sorts coûtent 1&nbsp;mana de moins.","+1&nbsp;[img:int] und +1&nbsp;[img:cha] für jeden leeren Rüstungsplatz. Wenn all deine Rüstungsplätze leer sind, kosten deine Zauber 1&nbsp;Mana weniger.","+1 all'[img:int] e +1 al [img:cha] per ogni slot armatura vuoto. Se tutti i tuoi slot armatura sono vuoti, i tuoi incantesimi costano 1 mana in meno.","+1 de [img:int] e +1 de [img:cha] para cada espaço de armadura vazio. Se todos os seus espaços de armadura estiverem vazios, seus encantamentos custam 1 a menos de mana.","+1 [img:int] 和每个空护甲槽+1 [img:cha]。
@@ -587,13 +587,13 @@ PASSIVE_RUNNINGJAB2_DESC,"When you end your movement, automatically use your bas
 会自动使用基础攻击。
 你每回合可以额外移动一次。"
 PASSIVE_PERFECTTECHNIQUE_NAME,Perfect Technique,,Técnica perfecta,Technique parfaite,Perfekte Technik,Tecnica Perfetta,Técnica Perfeita,完美技艺
-PASSIVE_PERFECTTECHNIQUE_DESC,"While in ranged stance, You have +1 Range and +2 Magic Damage. While in melee stance, you have +1 Brace.",,"En una posición a distancia, tiene +1 de alcance y +2 de daño mágico. En una posición cuerpo a cuerpo, tiene +1 de refuerzo.","En posture de distance, vous obtenez Portée&nbsp;+1&nbsp;et Dégâts magiques&nbsp;+2. En posture de corps-à-corps, vous obtenez Garde&nbsp;+1.",In Fernkampfhaltung hast du +1&nbsp;Reichweite und +2&nbsp;magischen Schaden. In Nahkampfhaltung hast du +1&nbsp;Wappnen.,"Quando hai una postura a distanza, ottieni +1 al Raggio d'Azione e +2 al Danno Magico. In posizione corpo a corpo, hai +1 Guardia.","Enquanto estiver na postura à distância, você possui +1 de alcance e +2 de dano mágico. Enquanto estiver na postura corpo-a-corpo, você possui +1 de preparação.","处于远程姿态时，  
-你获得+1 射程和+2 魔法伤害。  
+PASSIVE_PERFECTTECHNIQUE_DESC,"While in ranged stance, You have +1 Range and +2 Magic Damage. While in melee stance, you have +1 Brace.",,"En una posición a distancia, tiene +1 de alcance y +2 de daño mágico. En una posición cuerpo a cuerpo, tiene +1 de refuerzo.","En posture de distance, vous obtenez Portée&nbsp;+1&nbsp;et Dégâts magiques&nbsp;+2. En posture de corps-à-corps, vous obtenez Garde&nbsp;+1.",In Fernkampfhaltung hast du +1&nbsp;Reichweite und +2&nbsp;magischen Schaden. In Nahkampfhaltung hast du +1&nbsp;Wappnen.,"Quando hai una postura a distanza, ottieni +1 al Raggio d'Azione e +2 al Danno Magico. In posizione corpo a corpo, hai +1 Guardia.","Enquanto estiver na postura à distância, você possui +1 de alcance e +2 de dano mágico. Enquanto estiver na postura corpo-a-corpo, você possui +1 de preparação.","处于远程姿态时，
+你获得+1 射程和+2 魔法伤害。
 处于近战姿态时，你获得+1 护甲。"
-PASSIVE_PERFECTTECHNIQUE2_DESC,"While in ranged stance, You have +1 Range, +2 Kinetic Spikes, and +2 Magic Damage. While in melee stance, you have +2 Brace and +2 Health Regeneration.",,"En una posición a distancia, tiene +1 de alcance, +2 de daño mágico y +2 de pinchos cinéticos. En una posición cuerpo a cuerpo, tiene +2 de refuerzo y +2 de regeneración de salud.","En posture de distance, vous obtenez Portée&nbsp;+1, Pics cinétiques&nbsp;+2&nbsp;et Dégâts magiques&nbsp;+2. En posture de corps-à-corps, vous obtenez Garde&nbsp;+2&nbsp;et Régénération de santé&nbsp;+2.","In Fernkampfhaltung hast du +1&nbsp;Reichweite, +2&nbsp;Kinetiknadeln und +2&nbsp;magischen Schaden. In Nahkampfhaltung hast du +2&nbsp;Wappnen und +2&nbsp;Lebensregeneration.","Quando hai una postura a distanza, ottieni +1 al Raggio d'Azione, +2 Spine Cinetiche e +2 al Danno Magico. In posizione corpo a corpo, hai +2 Guardia e +2 Rigenerazione Salute.","Enquanto estiver na postura à distância, você possui +1 de alcance, +2 de espinhos cinéticos e +2 de dano mágico. Enquanto estiver na postura corpo-a-corpo, você possui +2 de preparação e +2 de regeneração de saúde.","处于远程姿态时，  
-你获得+1 射程、  
-+2 动能尖刺和+2 魔法伤害。  
-处于近战姿态时，  
+PASSIVE_PERFECTTECHNIQUE2_DESC,"While in ranged stance, You have +1 Range, +2 Kinetic Spikes, and +2 Magic Damage. While in melee stance, you have +2 Brace and +2 Health Regeneration.",,"En una posición a distancia, tiene +1 de alcance, +2 de daño mágico y +2 de pinchos cinéticos. En una posición cuerpo a cuerpo, tiene +2 de refuerzo y +2 de regeneración de salud.","En posture de distance, vous obtenez Portée&nbsp;+1, Pics cinétiques&nbsp;+2&nbsp;et Dégâts magiques&nbsp;+2. En posture de corps-à-corps, vous obtenez Garde&nbsp;+2&nbsp;et Régénération de santé&nbsp;+2.","In Fernkampfhaltung hast du +1&nbsp;Reichweite, +2&nbsp;Kinetiknadeln und +2&nbsp;magischen Schaden. In Nahkampfhaltung hast du +2&nbsp;Wappnen und +2&nbsp;Lebensregeneration.","Quando hai una postura a distanza, ottieni +1 al Raggio d'Azione, +2 Spine Cinetiche e +2 al Danno Magico. In posizione corpo a corpo, hai +2 Guardia e +2 Rigenerazione Salute.","Enquanto estiver na postura à distância, você possui +1 de alcance, +2 de espinhos cinéticos e +2 de dano mágico. Enquanto estiver na postura corpo-a-corpo, você possui +2 de preparação e +2 de regeneração de saúde.","处于远程姿态时，
+你获得+1 射程、
++2 动能尖刺和+2 魔法伤害。
+处于近战姿态时，
 你获得+2 护甲和+2 生命恢复。"
 PASSIVE_RAPIDFLOW_NAME,Rapid Flow,,Flujo rápido,Tourbillon,Rasanter Fluss,Flusso Rapido,Fluxo Rápido,极速流
 PASSIVE_RAPIDFLOW_DESC,"When you switch stances, do a spin attack that hits all adjacent units.",,"Al cambiar de postura, realiza un ataque giratorio que golpea a todas las unidades adyacentes.","Quand vous changez de posture, lancez une attaque tournoyante qui touche toutes les unités adjacentes.","Wenn du deine Haltung wechselst, führst du einen Wirbelangriff aus, der alle benachbarten Einheiten trifft.","Quando cambi postura, esegui un attacco rotante che colpisce tutte le unità adiacenti.","Ao trocar de postura, você realiza um ataque giratório que golpeia todas as unidades adjacentes.","当你切换姿态时，
@@ -638,7 +638,7 @@ PASSIVE_NEVERFULL_NAME,Never Full,,Famélicos,Toujours faim,Unersättlich,Mai Ac
 PASSIVE_NEVERFULL_DESC,"You can heal over your max HP.
 Excess HP is lost between battles.",,"Puede recuperar por encima de sus PS máximos.
 El exceso de PS se pierde de un combate a otro.",Vous pouvez vous soigner au-delà de vos PV max. Les PV en trop sont perdus entre les combats.,"Du kannst dich über deine max. LP hinaus heilen.
-Überschüssige LP gehen nach dem Kampf verloren.","Puoi curarti oltre i tuoi PS massimi. 
+Überschüssige LP gehen nach dem Kampf verloren.","Puoi curarti oltre i tuoi PS massimi.
 I PS in eccesso vengono persi tra una battaglia e l'altra.","É possível curar-se acima da saúde máxima.
 Qualquer PV em excesso é perdido entre batalhas.","你可以治疗超过最大生命值。
 战斗间隙多余的生命值会丢失。"
@@ -648,7 +648,7 @@ Gain +1 [img:str] for every 5 HP you have over max HP.",,"Puede recuperar por en
 El exceso de PS se pierde de un combate a otro.
 Obtiene +1 [img:str] por cada 5 PS que tenga sobre el límite de PS máximos.",Vous pouvez vous soigner au-delà de vos PV max. Les PV en trop sont perdus entre les combats. Gagnez [img:str]&nbsp;+1&nbsp;tous les 5&nbsp;PV en surplus.,"Du kannst dich über deine max. LP hinaus heilen.
 Überschüssige LP gehen nach dem Kampf verloren.
-Erhalte +1&nbsp;[img:str] für jede 5&nbsp;LP über deinen max. LP.","Puoi curarti oltre i tuoi PS massimi. 
+Erhalte +1&nbsp;[img:str] für jede 5&nbsp;LP über deinen max. LP.","Puoi curarti oltre i tuoi PS massimi.
 I PS in eccesso vengono persi tra una battaglia e l'altra.
 Ottieni +1 alla [img:str] per ogni 5 PS in tuo possesso oltre il massimo.","É possível curar-se acima da saúde máxima.
 Qualquer PV em excesso é perdido entre batalhas.
@@ -992,7 +992,7 @@ PASSIVE_WEAPONMASTER2_DESC,"Your weapon and item abilities deal +3 Damage and ge
 If you don't have a weapon, gain a random temporary weapon at the beginning of the battle.",,"Las habilidades de arma y objeto infligen +3 de daño y obtienen un +50 % de probabilidad de crítico.
 Si no tiene ningún arma, obtiene un arma temporal al azar al inicio del combate.","Vos compétences d'arme et d'objet infligent Dégâts&nbsp;+3&nbsp;et ont 50&nbsp;% de chances de CC. Si vous n'avez pas d'arme, obtenez une arme aléatoire temporaire au début du combat.","Deine Waffen- und Gegenstandsfähigkeiten verursachen +3&nbsp;Schaden und erhalten +50&nbsp;% kritische Trefferchance.
 Wenn du keine Waffe hast, erhältst du am Anfang des Kampfes vorübergehend eine zufällige Waffe.","Le abilità delle armi e degli oggetti infliggono +3 di danno e hanno un +50% di probabilità di colpo critico.
-Se non hai un'arma, ottieni un'arma temporanea casuale all'inizio della battaglia.","Suas habilidades de arma e itens causam +3 de dano e ganham +50% de chance de crítico. 
+Se non hai un'arma, ottieni un'arma temporanea casuale all'inizio della battaglia.","Suas habilidades de arma e itens causam +3 de dano e ganham +50% de chance de crítico.
 Se você não tiver uma arma, obtenha uma arma temporária aleatória no início da batalha.","你的武器和物品技能造成+3伤
 害并获得+50%暴击率。
 如果你没有武器，
@@ -1019,9 +1019,9 @@ PASSIVE_OVERPOWERED2_DESC,"Excess damage you deal to units makes them explode, d
 对其周围2格内的单位造成该超出伤害，
 但不包括你。"
 PASSIVE_FIGHTME_NAME,Underdog,,Perdedor,Intrépide,Außenseiter,Pronostici Nefasti,Azarão,弱者逆袭
-PASSIVE_FIGHTME_DESC,You have +2 [img:str] and +1 Brace for each enemy adjacent to you.,,Obtiene +2 [img:str] y +1 de refuerzo por cada enemigo adyacente a esta unidad.,[img:str]&nbsp;+2&nbsp;et Garde&nbsp;+1&nbsp;pour chaque ennemi adjacent.,Du erhältst +2&nbsp;[img:str] und +1&nbsp;Wappnen für jeden benachbarten Gegner.,Ottieni +2 alla [img:str] e +1 alla Guardia per ogni nemico adiacente a te.,Você possui +2 de [img:str] e +1 de preparação para cada inimigo adjacente.,"每有一个敌人与你相邻，  
+PASSIVE_FIGHTME_DESC,You have +2 [img:str] and +1 Brace for each enemy adjacent to you.,,Obtiene +2 [img:str] y +1 de refuerzo por cada enemigo adyacente a esta unidad.,[img:str]&nbsp;+2&nbsp;et Garde&nbsp;+1&nbsp;pour chaque ennemi adjacent.,Du erhältst +2&nbsp;[img:str] und +1&nbsp;Wappnen für jeden benachbarten Gegner.,Ottieni +2 alla [img:str] e +1 alla Guardia per ogni nemico adiacente a te.,Você possui +2 de [img:str] e +1 de preparação para cada inimigo adjacente.,"每有一个敌人与你相邻，
 你获得+2 [img:str] 和 +1 护甲。"
-PASSIVE_FIGHTME2_DESC,You have +3 [img:str] and +2 Brace for each enemy adjacent to you.,,Obtiene +3 [img:str] y +2 de refuerzo por cada enemigo adyacente a esta unidad.,[img:str]&nbsp;+3&nbsp;et Garde&nbsp;+2&nbsp;pour chaque ennemi adjacent.,Du erhältst +3&nbsp;[img:str] und +2&nbsp;Wappnen für jeden benachbarten Gegner.,Ottieni +3 alla [img:str] e +2 alla Guardia per ogni nemico adiacente a te.,Você possui +3 de [img:str] e +2 de preparação para cada inimigo adjacente.,"每有一个敌人与你相邻，  
+PASSIVE_FIGHTME2_DESC,You have +3 [img:str] and +2 Brace for each enemy adjacent to you.,,Obtiene +3 [img:str] y +2 de refuerzo por cada enemigo adyacente a esta unidad.,[img:str]&nbsp;+3&nbsp;et Garde&nbsp;+2&nbsp;pour chaque ennemi adjacent.,Du erhältst +3&nbsp;[img:str] und +2&nbsp;Wappnen für jeden benachbarten Gegner.,Ottieni +3 alla [img:str] e +2 alla Guardia per ogni nemico adiacente a te.,Você possui +3 de [img:str] e +2 de preparação para cada inimigo adjacente.,"每有一个敌人与你相邻，
 你获得+3 [img:str] 和 +2 护甲。"
 PASSIVE_MATHQ_NAME,Math?,,¿Matemáticas?,Des maths&nbsp;?,Mathe?,Matematica?,Matemática?,数学？
 PASSIVE_MATHQ_DESC,"Your spells cost 3 mana to cast, but each can be cast only once per turn.",,"Lanzar sus hechizos cuesta 3 de maná, pero cada uno solo se puede lanzar una vez por turno.","Vos sorts coûtent 3&nbsp;mana, mais vous ne pouvez les lancer qu'une fois par tour.","Deine Zauber kosten 3&nbsp;Mana, können aber nur einmal pro Zug gewirkt werden.","Lanciare i tuoi incantesimi costa 3 mana, ma ognuno può essere lanciato solo una volta per turno.","Seus encantamentos custam 3 de mana para serem lançados, mas cada um deles só pode ser lançado uma vez por turno.","你的法术施放消耗3点法力值，
@@ -1036,8 +1036,8 @@ If you have 4 or less [img:int], gain +2 [img:str] and your basic attack inflict
 Si tiene 4 o menos [img:int], obtiene +2 [img:str] y el ataque básico inflige moratón. Con 0 [img:int], obtiene un +100 % de probabilidad de golpe crítico.",[img:int]&nbsp;-1&nbsp;chaque fois que vous subissez des dégâts. Si vous avez 4&nbsp;[img:int] ou moins&nbsp;: [img:str]&nbsp;+2&nbsp;et vos attaques de base infligent Contusion. À 0&nbsp;[img:int]&nbsp;: Chances de CC&nbsp;+100&nbsp;%.,"Verliere 1&nbsp;[img:int], wenn du Schaden erleidest.
 Erhalte +2&nbsp;[img:str] und dein Grundangriff verursacht Beulen, wenn du 4 oder weniger [img:int] hast. Bei 0&nbsp;[img:int] erhältst du +100&nbsp;% krit. Trefferchance.","Perdi 1 di [img:int] ogni volta che subisci danno.
 Se hai 4 o meno di [img:int], ottieni +2 alla [img:str] e il tuo attacco base infligge Livido. Quando sei a 0 di [img:int], ottieni +100% di probabilità di colpo critico.","Perca 1 de [img:int] a cada vez que sofrer dano.
-Se você possui 4 ou menos de [img:int], obtenha +2 de [img:str] e seu ataque básico aplica contusão. Com 0 de [img:int], obtenha +100% de chance de crítico.","你每次受到伤害失去1 [img:int]。  
-如果你有4点或更少的[img:int]，  
+Se você possui 4 ou menos de [img:int], obtenha +2 de [img:str] e seu ataque básico aplica contusão. Com 0 de [img:int], obtenha +100% de chance de crítico.","你每次受到伤害失去1 [img:int]。
+如果你有4点或更少的[img:int]，
 获得+2 [img:str] 并且普通攻击附带挫伤。"
 PASSIVE_DUMBMUSCLE2_DESC,"Lose 2 [img:int] each time you take damage.
 If you have 4 or less [img:int], gain +2 [img:str] and your basic attack inflicts Bruise. At 0 [img:int], gain +100% critical hit chance. At -10 [img:int], you can use your basic move and attack an additional time each turn.",,"Pierde 2 [img:int] cada vez que sufre daño.
@@ -1585,7 +1585,7 @@ PASSIVE_WIDELOAD2_DESC,"When an adjacent ally is targeted by an enemy, gain +1 t
 然后与盟友交换位置。"
 PASSIVE_HARDHEAD_NAME,Hard Head,,Cabeza dura,Tête dure,Rammschädel,Testa Dura,Cabeça Dura,硬头
 PASSIVE_HARDHEAD_DESC,You block attacks from the front.,,Bloquea los ataques de frente.,Vous bloquez les attaques frontales.,Du blockierst Angriffe von vorn.,Blocchi gli attacchi frontali.,Você bloqueia ataques frontais.,你挡住来自正面的攻击。
-PASSIVE_HARDHEAD2_DESC,You block attacks from the front. Your basic attack inflicts Bruise.,,Bloquea los ataques de frente. Su ataque básico inflige moratón.,Vous bloquez les attaques frontales. Vos attaques de base infligent Contusion.,Du blockierst Angriffe von vorn. Dein Grundangriff verursacht Beulen.,Blocchi gli attacchi frontali. Il tuo attacco base infligge Livido.,Você bloqueia ataques frontais. Seu ataque básico aplica contusão.,"你挡住来自正面的攻击。  
+PASSIVE_HARDHEAD2_DESC,You block attacks from the front. Your basic attack inflicts Bruise.,,Bloquea los ataques de frente. Su ataque básico inflige moratón.,Vous bloquez les attaques frontales. Vos attaques de base infligent Contusion.,Du blockierst Angriffe von vorn. Dein Grundangriff verursacht Beulen.,Blocchi gli attacchi frontali. Il tuo attacco base infligge Livido.,Você bloqueia ataques frontais. Seu ataque básico aplica contusão.,"你挡住来自正面的攻击。
 你的普通攻击附加挫伤。"
 PASSIVE_MYLEG_NAME,My Leg!,,¡Mi pata!,Ma patte&nbsp;!,Mein Bein!,La mia Gamba!,Minha Perna!,我的腿！
 PASSIVE_MYLEG_DESC,"All injuries you get are Broken Legs.
@@ -1603,9 +1603,9 @@ If you have four broken legs, gain +4 Thorns, +4 Brace, Trample, and adjacent al
 Si tiene 4 patas rotas, obtiene +4 de espinas, +4 de refuerzo y pisotón; además, los aliados adyacentes obtienen Lanzamiento como habilidad de bonificación.","Toutes vos blessures subies sont Patte cassée. Si vous avez 4&nbsp;pattes cassées, gagnez Épines&nbsp;+4, Garde&nbsp;+4&nbsp;et Piétinement, et les unités alliées adjacentes obtiennent Lancer comme compétence bonus.","Wenn du verletzt wirst, brichst du dir immer ein Bein.
 Wenn du vier gebrochene Beine hast, erhältst du +4&nbsp;Dornen, +4&nbsp;Wappnen, Trampel und benachbarte Verbündete erhalten Wurf als Bonusfähigkeit.","Tutte le ferite che subisci sono Gambe Rotte.
 Se hai quattro gambe rotte, ottieni +4 Spine, +4 Guardia, Calpestamento e gli alleati adiacenti hanno Lancio come abilità bonus.","Todos os ferimentos que você sofre são pernas quebradas.
-Se você estiver com 4 pernas quebradas, obtenha +4 de espinhos, +4 de preparação, atropelamento, e aliados adjacentes obtêm Lançamento como habilidade bônus.","你受到的所有伤害都变为断腿。  
-如果你有四条断腿，  
-获得+4荆棘，+4护甲，践踏，  
+Se você estiver com 4 pernas quebradas, obtenha +4 de espinhos, +4 de preparação, atropelamento, e aliados adjacentes obtêm Lançamento como habilidade bônus.","你受到的所有伤害都变为断腿。
+如果你有四条断腿，
+获得+4荆棘，+4护甲，践踏，
 且相邻盟友获得投掷作为额外技能。"
 PASSIVE_HARDY_NAME,Hardy,,Robustez,Robuste,Abgehärtet,Tenace,Dureza,坚韧
 PASSIVE_HARDY_DESC,Heal to full HP at the start of each battle.,,Recupera todos los PS al inicio de cada combate.,Récupérez tous vos PV au début de chaque combat.,Heile dich am Anfang jedes Kampfes vollständig.,Recuperi tutti i PS all'inizio di ogni battaglia.,Cure sua saúde completa no início de cada batalha.,每场战斗开始时恢复满生命值。
@@ -1637,7 +1637,7 @@ PASSIVE_SHOVINGMATCH_NAME,Shoving Match,,Lucha de empujones,Effet domino,Dränge
 PASSIVE_SHOVINGMATCH_DESC,"When you knock a unit into an ally, or knock an ally into an enemy, that ally uses their basic attack on the other unit.
 Your basic attack has +1 Knockback.",,"Cuando empuja una unidad contra un aliado o cuando empuja un aliado contra un enemigo, ese aliado usa su ataque básico sobre la otra unidad.
 El ataque básico tiene +1 de retroceso.","Quand vous poussez une unité sur un allié, ou poussez un allié sur un ennemi, l'allié utilise son attaque de base sur l'autre unité. Votre attaque de base bénéficie de Recul&nbsp;+1.","Wenn du eine Einheit auf einen Verbündeten stößt oder andersherum, greift der Verbündete mit seinem Grundangriff an.
-Dein Grundangriff hat +1&nbsp;Rückstoß.","Quando scaraventi un'unità contro un alleato, o scaraventi un alleato contro un nemico, quell'alleato usa il suo attacco base sull'altra unità. 
+Dein Grundangriff hat +1&nbsp;Rückstoß.","Quando scaraventi un'unità contro un alleato, o scaraventi un alleato contro un nemico, quell'alleato usa il suo attacco base sull'altra unità.
 Il tuo attacco base ha +1 di Contraccolpo.","Ao empurrar uma unidade em um aliado, ou empurrar um aliado em um inimigo, esse aliado utiliza seu ataque básico na outra unidade.
 Seu ataque básico obtém +1 de empurrão.","当你将一个单位撞到盟友，
 或将一个盟友撞到敌人时，
@@ -1648,7 +1648,7 @@ Seu ataque básico obtém +1 de empurrão.","当你将一个单位撞到盟友�
 PASSIVE_SHOVINGMATCH2_DESC,"When you knock a unit into an ally, or knock an ally into an enemy, that ally uses their basic attack on the other unit.
 Your basic attack has +2 Knockback. You deal no damage to allies.",,"Cuando empuja una unidad contra un aliado o cuando empuja un aliado contra un enemigo, ese aliado usa su ataque básico sobre la otra unidad.
 El ataque básico tiene +2 de retroceso. No inflige daño a los aliados.","Quand vous poussez une unité sur un allié, ou poussez un allié sur un ennemi, l'allié utilise son attaque de base sur l'autre unité. Votre attaque de base bénéficie de Recul&nbsp;+2. Vous n'infligez pas de dégâts aux alliés.","Wenn du eine Einheit auf einen Verbündeten stößt oder andersherum, greift der Verbündete mit seinem Grundangriff an.
-Dein Grundangriff hat +2&nbsp;Rückstoß. Du verursacht keinen Schaden bei Verbündeten.","Quando scaraventi un'unità contro un alleato, o scaraventi un alleato contro un nemico, quell'alleato usa il suo attacco base sull'altra unità. 
+Dein Grundangriff hat +2&nbsp;Rückstoß. Du verursacht keinen Schaden bei Verbündeten.","Quando scaraventi un'unità contro un alleato, o scaraventi un alleato contro un nemico, quell'alleato usa il suo attacco base sull'altra unità.
 Il tuo attacco base ha +2 di Contraccolpo. Non infliggi danno agli alleati.","Ao empurrar uma unidade em um aliado, ou empurrar um aliado em um inimigo, esse aliado utiliza seu ataque básico na outra unidade.
 Seu ataque básico obtém +2 de empurrão. Você não causa dano a aliados.","当你将一个单位撞到盟友，
 或将一个盟友撞到敌人时，
@@ -1776,7 +1776,7 @@ PASSIVE_LASTGRASP_NAME,Last Grasp,,Último agarre,Dernier souffle,Letztes Keuche
 PASSIVE_LASTGRASP_DESC,"When you're downed, deal 6 damage to each enemy and heal 6 HP to all allies.
 Bonus ability: Seppuku",,"Cuando esta unidad es abatida, inflige 6 de daño a cada enemigo y devuelve 6 PS a todos los aliados.
 Habilidad de bonificación: Seppuku.","Quand vous êtes K.O., infligez 6&nbsp;points de dégâts à chaque ennemi et soignez 6&nbsp;PV à chaque unité alliée. Compétence bonus&nbsp;: Seppuku.","Wenn du in Ohnmacht fällst, verursachst du 6&nbsp;Schaden bei jedem Gegner und heilst jeden Verbündeten um 6&nbsp;LP.
-Bonusfähigkeit: Seppuku","Quando ti mandano KO, infliggi 6 di danno a ogni nemico e curi 6 PS a tutti gli alleati. 
+Bonusfähigkeit: Seppuku","Quando ti mandano KO, infliggi 6 di danno a ogni nemico e curi 6 PS a tutti gli alleati.
 Abilità Bonus: Seppuku","Ao ficar inconsciente, cause 6 de dano contra cada inimigo e cure 6 PV de todos os aliados.
 Habilidade bônus: Seppuku","当你倒下时，
 对每个敌人造成6点伤害，
@@ -1785,7 +1785,7 @@ Habilidade bônus: Seppuku","当你倒下时，
 PASSIVE_LASTGRASP2_DESC,"When you're downed, deal 10 damage to each enemy and heal 10 HP to all allies.
 Bonus ability: Seppuku",,"Cuando esta unidad es abatida, inflige 10 de daño a cada enemigo y devuelve 10 PS a todos los aliados.
 Habilidad de bonificación: Seppuku.","Quand vous êtes K.O., infligez 10&nbsp;points de dégâts à chaque ennemi et soignez 10&nbsp;PV à chaque unité alliée. Compétence bonus&nbsp;: Seppuku.","Wenn du in Ohnmacht fällst, verursachst du 10&nbsp;Schaden bei jedem Gegner und heilst jeden Verbündeten um 10&nbsp;LP.
-Bonusfähigkeit: Seppuku","Quando ti mandano KO, infliggi 10 di danno a ogni nemico e curi 10 PS a tutti gli alleati. 
+Bonusfähigkeit: Seppuku","Quando ti mandano KO, infliggi 10 di danno a ogni nemico e curi 10 PS a tutti gli alleati.
 Abilità Bonus: Seppuku","Ao ficar inconsciente, cause 10 de dano contra cada inimigo e cure 10 PV de todos os aliados.
 Habilidade bônus: Seppuku","当你倒下时，
 对每个敌人造成10点伤害，
@@ -1859,11 +1859,11 @@ PASSIVE_SOULBOND2_DESC,Your basic attack inflicts Soul Link. Inflict Soul Link o
 在战斗开始时对一个随机敌人施加灵魂链接。
 "
 PASSIVE_SUPERSTITION_NAME,Superstition,,Superstición,Superstition,Aberglaube,Superstizione,Superstição,迷信
-PASSIVE_SUPERSTITION_DESC,"Your basic attack inflicts -1[img:lck]. 
+PASSIVE_SUPERSTITION_DESC,"Your basic attack inflicts -1[img:lck].
 When a unit damages you, inflict -1[img:lck] on it.",,"El ataque básico inflige -1 [img:lck].
 Cuando una unidad inflige daño a esta, le inflige -1 [img:lck].","Votre attaque de base inflige [img:lck]&nbsp;-1. Quand une unité vous inflige des dégâts, elle subit [img:lck]&nbsp;-1.","Dein Grundangriff verursacht -1&nbsp;[img:lck].
 Wenn eine Einheit Schaden bei dir verursacht, erleidet sie -1&nbsp;[img:lck].","Il tuo attacco base infligge -1 alla [img:lck].
-Quando un'unità ti infligge danno, le infliggi a tua volta -1 alla [img:lck].","Seu ataque básico aplica -1 de [img:lck]. 
+Quando un'unità ti infligge danno, le infliggi a tua volta -1 alla [img:lck].","Seu ataque básico aplica -1 de [img:lck].
 Ao sofrer dano de uma unidade, aplique -1 de [img:lck] nessa mesma unidade.","你的普通攻击会施加 -1[img:lck]。
 当一个单位对你造成伤害时，
 施加 -1[img:lck] 于它。"
@@ -1871,7 +1871,7 @@ PASSIVE_SUPERSTITION2_DESC,"Your basic attack inflicts -1[img:lck] and has a 15%
 When a unit damages you, inflict -1[img:lck] and a 15% to Fear on it.",,"El ataque básico inflige -1 [img:lck] y tiene un 15 % de probabilidad de infligir miedo.
 Cuando una unidad inflige daño a esta, le inflige -1 [img:lck] y tiene un 15 % de probabilidad de infligirle miedo.","Votre attaque de base inflige [img:lck]&nbsp;-1&nbsp;et a 15&nbsp;% de chances d'infliger Peur. Quand une unité vous inflige des dégâts, elle subit [img:lck]&nbsp;-1&nbsp;et a 15&nbsp;% de chances de subir Peur.","Dein Grundangriff verursacht -1&nbsp;[img:lck] und mit 15%iger Wahrscheinlichkeit Angst.
 Wenn eine Einheit Schaden bei dir verursacht, erleidet sie -1&nbsp;[img:lck] und mit 15%iger Wahrscheinlichkeit Angst.","Il tuo attacco base infligge -1 alla [img:lck] e ha un 15% di probabilità di infliggere Paura.
-Quando un'unità ti infligge danno, le infliggi a tua volta -1 alla [img:lck] e il 15% di infliggere Paura.","Seu ataque básico aplica -1 de [img:lck] e possui 15% de chance de aplicar medo. 
+Quando un'unità ti infligge danno, le infliggi a tua volta -1 alla [img:lck] e il 15% di infliggere Paura.","Seu ataque básico aplica -1 de [img:lck] e possui 15% de chance de aplicar medo.
 Ao sofrer dano de uma unidade, aplique -1 de [img:lck] com 15% de chance de aplicar medo nessa mesma unidade.","你的
 普通攻击会施加 -1[img:lck] 并有1
 5%几率施加恐惧。
@@ -2324,7 +2324,7 @@ Store +2 food at the end of each battle.",,"Se añaden al inventario 4 consumibl
 Pueden usarse los consumibles con aliados.
 Almacena +2 de comida al final de cada combate.",Vous recevez dans votre inventaire 4&nbsp;consommables de soin et une bouteille d'eau pleine. Vous pouvez utiliser des consommables sur les unités alliées. Stocke Nourriture&nbsp;+2&nbsp;à la fin de chaque combat.,"Du erhältst 4&nbsp;Heilgegenstände und eine volle Wasserflasche.
 Du kannst Verbrauchsgegenstände auf Verbündete anwenden.
-Am Ende jedes Kampfes erhältst du +2&nbsp;Futter.","4 consumabili curativi e una bottiglia d'acqua piena vengono aggiunti al tuo inventario. 
+Am Ende jedes Kampfes erhältst du +2&nbsp;Futter.","4 consumabili curativi e una bottiglia d'acqua piena vengono aggiunti al tuo inventario.
 Puoi usare i consumabili sugli alleati.
 Conservi +2 cibo alla fine di ogni battaglia.","4 consumíveis de cura e uma garrafa de água cheia são adicionados ao seu inventário.
 Você pode usar consumíveis em aliados.
@@ -2338,7 +2338,7 @@ Store +20 food at the end of each battle.",,"Se añaden al inventario 4 consumib
 Pueden usarse los consumibles con aliados.
 Almacena +20 de comida al final de cada combate.",Vous recevez dans votre inventaire 4&nbsp;grands consommables de soin. Vous pouvez utiliser des consommables sur les unités alliées. Stocke Nourriture&nbsp;+20&nbsp;à la fin de chaque combat.,"Du erhältst 4&nbsp;große Heilgegenstände.
 Du kannst Verbrauchsgegenstände auf Verbündete anwenden.
-Am Ende jedes Kampfes erhältst du +20&nbsp;Futter.","4 consumabili curativi grandi e una bottiglia d'acqua piena vengono aggiunti al tuo inventario. 
+Am Ende jedes Kampfes erhältst du +20&nbsp;Futter.","4 consumabili curativi grandi e una bottiglia d'acqua piena vengono aggiunti al tuo inventario.
 Puoi usare i consumabili sugli alleati.
 Conservi +20 cibo alla fine di ogni battaglia.","4 consumíveis grandes de cura e uma garrafa de água cheia são adicionados ao seu inventário.
 Você pode usar consumíveis em aliados.
@@ -2597,7 +2597,7 @@ All'inizio di ogni battaglia compaiono 10 raccoglibili extra.","Coletáveis conc
 PASSIVE_SHRAPNEL_TINKERER_NAME,Shrapnel,,Metralla,Shrapnel,Schrapnell,Schegge,Estilhaços,弹片
 PASSIVE_SHRAPNEL_TINKERER_DESC,"When you break an item, gain +1 Thorns.",,"Al romper un objeto, obtiene +1 de espinas.","Lorsque vous cassez un objet, Épines&nbsp;+1.","Wenn du einen Gegenstand kaputtmachst, erhältst du +1&nbsp;Dornen.","Quando rompi un oggetto, ottieni +1 Spine.","Ao quebrar um item, obtenha +1 de espinhos.","当你损坏物品时，
 获得+1荆棘。"
-PASSIVE_SHRAPNEL2_TINKERER_DESC,"When you break an item, gain +2 Thorns and +3 [img:shield].",,"Al romper un objeto, obtiene +2 de espinas y +3 [img:shield].","Lorsque vous cassez un objet, Épines&nbsp;+2&nbsp;et [img:shield]&nbsp;+3.","Wenn du einen Gegenstand kaputtmachst, erhältst du +2&nbsp;Dornen und +3&nbsp;[img:shield].","Quando rompi un oggetto, ottieni +2 Spine e +3 allo [img:shield].","Ao quebrar um item, obtenha +2 de espinhos e +3 de [img:shield].","当你破坏一个物品时，  
+PASSIVE_SHRAPNEL2_TINKERER_DESC,"When you break an item, gain +2 Thorns and +3 [img:shield].",,"Al romper un objeto, obtiene +2 de espinas y +3 [img:shield].","Lorsque vous cassez un objet, Épines&nbsp;+2&nbsp;et [img:shield]&nbsp;+3.","Wenn du einen Gegenstand kaputtmachst, erhältst du +2&nbsp;Dornen und +3&nbsp;[img:shield].","Quando rompi un oggetto, ottieni +2 Spine e +3 allo [img:shield].","Ao quebrar um item, obtenha +2 de espinhos e +3 de [img:shield].","当你破坏一个物品时，
 获得 +2 荆棘效果和 +3 [img:shield]。"
 PASSIVE_BLACKSMITH_NAME,Blacksmith,,Herrería,Forgeron,Schmied,Fucina,Ferreiro,铁匠
 PASSIVE_BLACKSMITH_DESC,"If you have a weapon, your basic attack becomes Hone.",,"Si tiene un arma, el ataque básico se convierte en Pulimento.","Si vous possédez une arme, votre attaque de base devient Perfectionnement.","Wenn du eine Waffe hast, wird dein Grundangriff zu Verfeinern.","Se hai un'arma, il tuo attacco base diventa Affilatura.","Se você possuir uma arma, seu ataque básico se torna Amolar.","如果你拥有武器，
@@ -2646,7 +2646,7 @@ PASSIVE_ETERNAL2_DESC,"When you are downed for the 1st time each battle, take no
 全属性提升 2，并立即获得额外行动。
 "
 PASSIVE_BLESSED_NAME,Blessed,,Bendición,Faveur,Gesegnet,Benedizione,Benção,被祝福者
-PASSIVE_BLESSED_DESC,Gain +1 to 2 random stats at the start of each turn.,,Obtiene +1 de dos atributos al azar al inicio de cada turno.,"Au début de chaque tour, +1&nbsp;à 2&nbsp;stats au hasard.",Erhalte am Anfang jedes Zuges +1 auf 2 zufällige Attribute.,Ottieni +1 a 2 statistiche casuali all'inizio di ogni turno.,Obtenha +1 em 2 atributos aleatório no início de cada turno.,"每回合开始时随机获得 +1 
+PASSIVE_BLESSED_DESC,Gain +1 to 2 random stats at the start of each turn.,,Obtiene +1 de dos atributos al azar al inicio de cada turno.,"Au début de chaque tour, +1&nbsp;à 2&nbsp;stats au hasard.",Erhalte am Anfang jedes Zuges +1 auf 2 zufällige Attribute.,Ottieni +1 a 2 statistiche casuali all'inizio di ogni turno.,Obtenha +1 em 2 atributos aleatório no início de cada turno.,"每回合开始时随机获得 +1
 至 2
 项属性提升。"
 PASSIVE_BLESSED2_DESC,+3 Health Regeneration Gain +1 to 3 random stats at the start of each turn.,,Obtiene +3 de regeneración de salud. Obtiene +1 de tres atributos al azar al inicio de cada turno.,"Régénération de PV&nbsp;+3. Au début de chaque tour, +1&nbsp;à 3&nbsp;stats au hasard.",+3&nbsp;Lebensregeneration. Erhalte am Anfang jedes Zuges +1 auf 3 zufällige Attribute.,+3 a Rigenerazione Salute. Ottieni +1 a 3 statistiche casuali all'inizio di ogni turno.,+3 de regeneração de saúde. Obtenha +1 em 3 atributos aleatório no início de cada turno.,"+3 生命值回复 每回合开始
@@ -2755,7 +2755,7 @@ PASSIVE_THOUSHALTNOTCOVET_DESC,"When an enemy takes damage from an ability, it d
 PASSIVE_THOUSHALTNOTCOVET2_DESC,"When an enemy takes damage from an ability, it drops 2 random pickups.",,"Cuando un enemigo sufre daño de una habilidad, suelta 2 recogibles al azar.","Lorsqu'un ennemi subit les dégâts d'une compétence, il lâche 2&nbsp;ressources aléatoires.","Wenn ein Gegner Schaden von einer Fähigkeit erleidet, lässt er zwei zufällige Gegenstände fallen.","Quando un nemico subisce danno da un'abilità, rilascia 2 raccoglibili casuali.","Quando um inimigo sofre dano de uma habilidade, ele solta 2 coletáveis aleatórios.","当敌人受到技能伤害时，
 会掉落 2 个随机拾取物。"
 PASSIVE_BLESSINGOFHOLYFIRE_NAME,Blessing of Holy Fire,,Bendición del fuego sagrado,Bénédiction du feu sacré,Segen des heiligen Feuers,Benedizione del Fuoco Sacro,Benção do Fogo Sagrado,圣火赐福
-PASSIVE_BLESSINGOFHOLYFIRE_DESC,"Holy-element spells deal double damage to enemies instead of healing and inflict Burn 2. 
+PASSIVE_BLESSINGOFHOLYFIRE_DESC,"Holy-element spells deal double damage to enemies instead of healing and inflict Burn 2.
 This blessing is lost when you kill a unit.",,"Los hechizos sagrados infligen el doble de daño a los enemigos en vez de curar e infligen 2 de quemadura.
 Esta bendición se pierde cuando mata a una unidad.","Au lieu de soigner, les sorts sacrés infligent le double de dégâts et Brûlure&nbsp;+2. Cette bénédiction disparaît lorsque vous tuez une unité.","Heilige Zauber verursachen doppelten Schaden bei Gegnern und verursachen Verbrennung&nbsp;2.
 Dieser Segen geht verloren, wenn du eine Einheit tötest.","Gli incantesimi di elemento sacro infliggono danno doppio ai nemici invece di curarli e infliggono Bruciatura 2.
@@ -2763,7 +2763,7 @@ Questa benedizione si perde quando uccidi un'unità.","Ao invés de curar, encan
 
 并附加灼烧 2。
 杀死单位时此赐福消失。"
-PASSIVE_BLESSINGOFHOLYFIRE2_DESC,"Holy-element spells deal triple damage to enemies instead of healing and inflict Burn 3. 
+PASSIVE_BLESSINGOFHOLYFIRE2_DESC,"Holy-element spells deal triple damage to enemies instead of healing and inflict Burn 3.
 This blessing is lost when you kill a unit.",,"Los hechizos sagrados infligen el triple de daño a los enemigos en vez de curar e infligen 3 de quemadura.
 Esta bendición se pierde cuando mata a una unidad.","Au lieu de soigner, les sorts sacrés infligent le double de dégâts et Brûlure&nbsp;+3. Cette bénédiction disparaît lorsque vous tuez une unité.","Heilige Zauber verursachen dreifachen Schaden bei Gegnern und verursachen Verbrennung&nbsp;3.
 Dieser Segen geht verloren, wenn du eine Einheit tötest.","Gli incantesimi di elemento sacro infliggono danno triplo ai nemici invece di curarli e infliggono Bruciatura 3.
@@ -2792,7 +2792,7 @@ PASSIVE_VENERATEDTOUCH_DESC,Your basic attack inflicts Confusion 2 on enemies an
 PASSIVE_VENERATEDTOUCH2_DESC,Your basic attack inflicts Confusion 3 on enemies and has a 50% chance to Stun. It also gives +3 [img:shield] to allies and a 50% chance for All Stats Up.,,"El ataque básico inflige 3 de confusión a los enemigos y tiene un 50 % de probabilidad de aturdir. Además, otorga +3 [img:shield] a los aliados y tiene un 50 % de probabilidad de obtener aumento total.",Votre attaque de base inflige Confusion&nbsp;+3&nbsp;aux ennemis et a 50&nbsp;% de chances d'infliger Étourdissement. Elle octroie [img:shield]&nbsp;+3&nbsp;aux unités alliées et a 50&nbsp;% de chances de leur octroyer Hausse de stats.,Dein Grundangriff verursacht Verwirrung&nbsp;3 und mit 50%iger Wahrscheinlichkeit Betäubung bei Gegnern. Außerdem verleiht er Verbündeten +3&nbsp;[img:shield] und mit 50%iger Wahrscheinlichkeit einen Bonus auf alle Attribute.,Il tuo attacco base infligge Confusione 3 ai nemici e ha il 50% di probabilità di infliggere Stordimento. Fornisce inoltre +3 allo [img:shield] agli alleati e un 50% di probabilità di ottenere Aumento delle Statistiche.,Seu ataque básico aplica confusão 3 em inimigos e possui 50% de chance de atordoar. Ele também concede +e de [img:shield] a aliados e possui 50% de chance de conceder todos os atributos aumentados.,"你的普通攻击对敌人造成混乱 3，
 
 有 50% 几率造成眩晕。
-它还给予盟友 +3 [img:shield] 以及 
+它还给予盟友 +3 [img:shield] 以及
 50% 几率获得全属性提升。"
 PASSIVE_PROTECTTHEWEAK_NAME,Protect the Weak,,Protección para los débiles,Protection des faibles,Schütze die Schwachen,Protezione dei Deboli,Proteção dos Fracos,保护弱者
 PASSIVE_PROTECTTHEWEAK_DESC,Allies with 5 or fewer HP gain +50% dodge chance.,,Los aliados con 5 PS o menos obtienen un +50 % de probabilidad de esquiva.,Les unités alliées avec 5&nbsp;PV ou moins gagnent Chances d'esquive&nbsp;+50&nbsp;%.,Verbündete mit 5 oder weniger LP erhalten +50&nbsp;% Ausweichchance.,Gli alleati con 5 PS o inferiori ottengono un +50% di probabilità di schivata.,Aliados com 5 ou menos PV obtêm 50% de chance de esquiva.,"生命值在 5 或以下的
@@ -2962,11 +2962,11 @@ Unidades que entrarem em contato com você sofrem 1 de dano de gelo, lentidão 2
 PASSIVE_ICEASPECT2_DESC,"+2 Brace. Ice immunity. You can damage frozen units.
 Units that contact you take 3 Ice Damage, Slow 2, and have a 15% chance to Freeze.",,"+2 de refuerzo e inmunidad al hielo. Puede dañar a unidades congeladas.
 Las unidades que entran en contacto con esta sufren 3 de daño de hielo, 2 de ralentización y tienen un 15 % de probabilidad de sufrir congelación.","Garde&nbsp;+2. Résistance au gel. Vous pouvez infliger des dégâts aux unités gelées. Les unités qui vous touchent subissent Dégâts de gel&nbsp;+3, Lenteur&nbsp;+2&nbsp;et ont 15&nbsp;% de chances de subir Gel.","+2&nbsp;Wappnen. Immun gegen Eis. Du kannst Schaden bei eingefrorenen Einheiten verursachen.
-Einheiten, die dich berühren, erleiden 3&nbsp;Eisschaden, Verlangsamung&nbsp;2 und frieren mit 15%iger Wahrscheinlichkeit ein.","+2 alla Guardia. Immunità al ghiaccio. Puoi infliggere danno alle unità congelate. 
+Einheiten, die dich berühren, erleiden 3&nbsp;Eisschaden, Verlangsamung&nbsp;2 und frieren mit 15%iger Wahrscheinlichkeit ein.","+2 alla Guardia. Immunità al ghiaccio. Puoi infliggere danno alle unità congelate.
 Le unità che entrano in contatto con te subiscono 3 Danno da Ghiaccio, Rallentamento 2 e hanno il 15% di probabilità di subire Congelamento.","+2 de preparação. Imunidade contra gelo. Você pode causar dano a unidades congeladas.
-Unidades que entrarem em contato com você sofrem 3 de dano de gelo, lentidão 2 e possuem uma chance de 15% de congelar.","+2 护甲。冰霜免疫。  
-你可以伤害冰冻单位。  
-接触你的单位会受到3点冰霜伤害，  
+Unidades que entrarem em contato com você sofrem 3 de dano de gelo, lentidão 2 e possuem uma chance de 15% de congelar.","+2 护甲。冰霜免疫。
+你可以伤害冰冻单位。
+接触你的单位会受到3点冰霜伤害，
 减速2，并有15%的几率被冰冻。"
 PASSIVE_RESONANCE_NAME,Resonance,,Resonancia,Résonance,Resonanz,Risonanza,Ressonância,共鸣
 PASSIVE_RESONANCE_DESC,When you cast a spell gain +1 Magic Damage for the rest of the turn.,,"Cuando lanza un hechizo, obtiene +1 de daño mágico durante el resto del turno.",Dégâts magiques&nbsp;+1&nbsp;pendant le reste du tour lorsque vous lancez un sort.,"Wenn du einen Zauber wirkst, erhältst du für den Rest des Zuges +1&nbsp;magischen Schaden.","Quando lanci un incantesimo, ottieni +1 al Danno Magico per il resto del turno.","Ao lançar um encantamento, obtenha +1 de dano mágico pelo resto do turno.","当你施放法术时，
@@ -3063,7 +3063,7 @@ PASSIVE_ONE2_DESC,"When you end your turn, if you cast exactly 1 spell, double c
 PASSIVE_TWO_NAME,Two,,Dos,Deux,Zwei,Due,Dois,二
 PASSIVE_TWO_DESC,"When you end your turn, if you cast exactly 2 spells, gain +1 Bonus Attack.
 When you end your turn, if you have exactly 2 mana, gain +1 Bonus Attack.",,"Al final del turno, si lanza exactamente 2 hechizos, obtiene +1 de bonificación de ataque.
-Al final del turno, si tiene exactamente 2 de maná, obtiene +1 de bonificación de ataque.","À la fin de votre tour, si vous avez lancé exactement 2&nbsp;sorts, Attaque bonus&nbsp;+1. À la fin de votre tour, si vous exactement 2&nbsp;mana, Attaque bonus&nbsp;+1.","Wenn du deinen Zug beendest und genau 2&nbsp;Zauber gewirkt, oder 2&nbsp;Mana übrig hast, erhältst du +1&nbsp;Bonusangriff.","Quando termini il tuo turno, se lanci esattamente 2 incantesimi, ottieni +1 Attacco Bonus. 
+Al final del turno, si tiene exactamente 2 de maná, obtiene +1 de bonificación de ataque.","À la fin de votre tour, si vous avez lancé exactement 2&nbsp;sorts, Attaque bonus&nbsp;+1. À la fin de votre tour, si vous exactement 2&nbsp;mana, Attaque bonus&nbsp;+1.","Wenn du deinen Zug beendest und genau 2&nbsp;Zauber gewirkt, oder 2&nbsp;Mana übrig hast, erhältst du +1&nbsp;Bonusangriff.","Quando termini il tuo turno, se lanci esattamente 2 incantesimi, ottieni +1 Attacco Bonus.
 Quando termini il tuo turno, se hai esattamente 2 di mana, ottieni +1 Attacco Bonus.","Ao finalizar seu turno, se você lançar exatamente 2 encantamentos, obtenha +1 ataque bônus.
 Ao finalizar seu turno, se você possuir exatamente 2 de mana, obtenha +1 ataque bônus.","当你结束回合时，
 如果刚好施放了2个法术，
@@ -3072,7 +3072,7 @@ Ao finalizar seu turno, se você possuir exatamente 2 de mana, obtenha +1 ataque
 获得+1 额外攻击。"
 PASSIVE_TWO2_DESC,"When you end your turn, if you cast exactly 2 spells, gain +1 Bonus Attack and Movement.
 When you end your turn, if you have exactly 2 mana, gain +1 Bonus Attack and Movement.",,"Al final del turno, si lanza exactamente 2 hechizos, obtiene +1 de bonificación de ataque y de movimiento.
-Al final del turno, si tiene exactamente 2 de maná, obtiene +1 de bonificación de ataque y de movimiento.","À la fin de votre tour, si vous avez lancé exactement 2&nbsp;sorts, Attaque bonus et Déplacement bonus&nbsp;+1. À la fin de votre tour, si vous exactement 2&nbsp;mana, Attaque bonus et Déplacement bonus&nbsp;+1.","Wenn du deinen Zug beendest und genau 2&nbsp;Zauber gewirkt, oder 2&nbsp;Mana übrig hast, erhältst du +1&nbsp;Bonusangriff und eine Bonusbewegung.","Quando termini il tuo turno, se lanci esattamente 2 incantesimi, ottieni +1 Attacco e Movimento Bonus. 
+Al final del turno, si tiene exactamente 2 de maná, obtiene +1 de bonificación de ataque y de movimiento.","À la fin de votre tour, si vous avez lancé exactement 2&nbsp;sorts, Attaque bonus et Déplacement bonus&nbsp;+1. À la fin de votre tour, si vous exactement 2&nbsp;mana, Attaque bonus et Déplacement bonus&nbsp;+1.","Wenn du deinen Zug beendest und genau 2&nbsp;Zauber gewirkt, oder 2&nbsp;Mana übrig hast, erhältst du +1&nbsp;Bonusangriff und eine Bonusbewegung.","Quando termini il tuo turno, se lanci esattamente 2 incantesimi, ottieni +1 Attacco e Movimento Bonus.
 Quando termini il tuo turno, se hai esattamente 2 di mana, ottieni +1 Attacco Bonus e +1 Movimento Bonus.","Ao finalizar seu turno, se você lançar exatamente 2 encantamentos, obtenha +1 ataque bônus e +1 movimento bônus.
 Ao finalizar seu turno, se você possuir exatamente 2 de mana, obtenha +1 ataque bônus e +1 movimento bônus.","当你结束回合时，
 如果刚好施放了2个法术，
@@ -3185,11 +3185,11 @@ PASSIVE_MINDTEMPEST2_DESC,"After every sixth spell you cast, gain All Stats Up, 
 获得全属性提升、+1魔法伤害，
 并且法术消耗减少1点法力值。"
 PASSIVE_OVERFLOW_NAME,Overflow,,Desbordamiento,Débordement,Überfluss,Traboccamento,Transbordamento,溢出
-PASSIVE_OVERFLOW_DESC,"While at full mana, gain +2 Brace and Flying Movement. Your mana is uncapped.",,"Con el maná a tope, obtiene +2 de refuerzo y movimiento volador. El maná no tiene límite.","Lorsque vous avez tout votre mana, Garde&nbsp;+1&nbsp;et Déplacement en vol. Votre mana n'a pas de limite.","Während du volles Mana hast, erhältst du +2&nbsp;Wappnen und fliegst. Dein Mana hat keine Obergrenze.","Quando hai il mana pieno, ottieni +2 alla Guardia e Movimento Volante. Il tuo mana non ha limite massimo.","Enquanto estiver com a mana completa, obtenha +2 de preparação e movimento voador. Sua mana não possui mais limites.","在法力值满时，  
-获得+2护甲和飞行移动。  
+PASSIVE_OVERFLOW_DESC,"While at full mana, gain +2 Brace and Flying Movement. Your mana is uncapped.",,"Con el maná a tope, obtiene +2 de refuerzo y movimiento volador. El maná no tiene límite.","Lorsque vous avez tout votre mana, Garde&nbsp;+1&nbsp;et Déplacement en vol. Votre mana n'a pas de limite.","Während du volles Mana hast, erhältst du +2&nbsp;Wappnen und fliegst. Dein Mana hat keine Obergrenze.","Quando hai il mana pieno, ottieni +2 alla Guardia e Movimento Volante. Il tuo mana non ha limite massimo.","Enquanto estiver com a mana completa, obtenha +2 de preparação e movimento voador. Sua mana não possui mais limites.","在法力值满时，
+获得+2护甲和飞行移动。
 你的法力值上限解除。"
-PASSIVE_OVERFLOW2_DESC,"While at full mana, gain +2 Brace and Teleportation. Your mana is uncapped.",,"Con el maná a tope, obtiene +2 de refuerzo y teletransporte. El maná no tiene límite.","Lorsque vous avez tout votre mana, Garde&nbsp;+2&nbsp;et Téléportation. Votre mana n'a pas de limite.","Während du volles Mana hast, erhältst du +2&nbsp;Wappnen und kannst dich teleportieren. Dein Mana hat keine Obergrenze.","Quando hai il mana pieno, ottieni +2 alla Guardia e Teletrasporto. Il tuo mana non ha limite massimo.","Enquanto estiver com a mana completa, obtenha +2 de preparação e teletransporte. Sua mana não possui mais limites.","在法力值满时，  
-获得+2护甲和瞬移。  
+PASSIVE_OVERFLOW2_DESC,"While at full mana, gain +2 Brace and Teleportation. Your mana is uncapped.",,"Con el maná a tope, obtiene +2 de refuerzo y teletransporte. El maná no tiene límite.","Lorsque vous avez tout votre mana, Garde&nbsp;+2&nbsp;et Téléportation. Votre mana n'a pas de limite.","Während du volles Mana hast, erhältst du +2&nbsp;Wappnen und kannst dich teleportieren. Dein Mana hat keine Obergrenze.","Quando hai il mana pieno, ottieni +2 alla Guardia e Teletrasporto. Il tuo mana non ha limite massimo.","Enquanto estiver com a mana completa, obtenha +2 de preparação e teletransporte. Sua mana não possui mais limites.","在法力值满时，
+获得+2护甲和瞬移。
 你的法力值上限解除。"
 PASSIVE_OMNISCIENCE_NAME,Omniscience,,Omnisciencia,Omniscience,Allwissend,Onniscienza,Onisciência,全知
 PASSIVE_OMNISCIENCE_DESC,You can see EVERYTHING. Line of sight restrictions are ignored.,,Puede verlo todo. Ignora las restricciones del campo visual.,Vous pouvez TOUT voir. Les restrictions de ligne de mire ne s'appliquent pas.,Du kannst ALLES sehen. Beschränkungen durch Sichtlinien sind aufgehoben.,Puoi vedere TUTTO. Le restrizioni del campo visivo vengono ignorate.,Você pode ver TUDO. Restrições de campo de visão são ignoradas.,"你可以看到一切。
@@ -3312,7 +3312,7 @@ If your [img:int] is 0 or less, you have Madness.",,"El ataque básico es un ata
 Tras cada combate, obtiene +2 [img:str] y -1 [img:int].
 Si tiene 0 [img:int] o menos, sufre locura.","Votre attaque de base devient une attaque au corps-à-corps. Vous ne pouvez pas porter d'équipement de visage. Après chaque combat, [img:str]&nbsp;+2&nbsp;et [img:int]&nbsp;-1. Si votre [img:int] est inférieure ou égale à 0, vous recevez Folie.","Dein Grundangriff ist ein Nahkampfangriff. Du kannst keine Gesichtsbedeckung ausrüsten.
 Nach jedem Kampf erhältst du +2&nbsp;[img:str] und -1&nbsp;[img:int].
-Wenn deine [img:int] 0 oder weniger beträgt, erleidest du Wahnsinn.","Il tuo attacco base è un attacco corpo a corpo. Non puoi equipaggiare armatura facciale. 
+Wenn deine [img:int] 0 oder weniger beträgt, erleidest du Wahnsinn.","Il tuo attacco base è un attacco corpo a corpo. Non puoi equipaggiare armatura facciale.
 Dopo ogni battaglia, ottieni +2 alla [img:str] e -1 all'[img:int].
 Se la tua [img:int] è 0 o meno, ottieni Follia.","Seu ataque básico é um ataque corpo-a-corpo. Você não pode equipar armaduras de rosto.
 Após cada batalha, obtenha +2 de [img:str] e -1 de [img:int].
@@ -3333,7 +3333,7 @@ Você gera uma poça de gosma sempre que sofrer golpes. Você não pode equipar 
 DISORDER_DEPRESSION_NAME,Depression,,Depresión,Dépression,Depression,Depressione,Depressão,抑郁症
 DISORDER_DEPRESSION_DESC,Adjacent units get All Stats Down 2.,,Las unidades adyacentes reciben 2 de reducción total.,Baisse de stats&nbsp;+2&nbsp;pour toutes les unités adjacentes.,Benachbarte Einheiten erleiden einen Malus von 2 auf alle Attribute.,Le unità adiacenti subiscono Diminuzione delle Statistiche 2.,Unidades adjacentes obtêm todos os atributos diminuídos 2.,相邻单位 全属性下降2。
 DISORDER_BROKENLIMB_NAME,Broken Limb,,Extremidad rota,Membre cassé,Gebrochene Gliedmaßen,Arto Fratturato,Membro Quebrado,断肢
-DISORDER_BROKENLIMB_DESC,You can't equip trinkets or consumables. +2 Thorns.,,No se pueden equipar baratijas ni consumibles. +2 de espinas.,Vous ne pouvez pas équiper d'accessoire ou de consommable. Épines&nbsp;+2.,"Du kannst weder Zubehör, noch Verbrauchsgegenstände ausrüsten. +2&nbsp;Dornen.",Non puoi equipaggiare ciondoli o consumabili. +2 Spine.,Você não pode equipar acessórios ou consumíveis. +2 de espinhos.,"你无法装备饰品或消耗品。  
+DISORDER_BROKENLIMB_DESC,You can't equip trinkets or consumables. +2 Thorns.,,No se pueden equipar baratijas ni consumibles. +2 de espinas.,Vous ne pouvez pas équiper d'accessoire ou de consommable. Épines&nbsp;+2.,"Du kannst weder Zubehör, noch Verbrauchsgegenstände ausrüsten. +2&nbsp;Dornen.",Non puoi equipaggiare ciondoli o consumabili. +2 Spine.,Você não pode equipar acessórios ou consumíveis. +2 de espinhos.,"你无法装备饰品或消耗品。
 +2 荆棘。"
 DISORDER_WRENCHEDNECK_NAME,Wrenched Neck,,Tortícolis,Nuque brisée,Verrenkter Hals,Collo Spezzato,Pescoço Torcido,扭伤的脖子
 DISORDER_WRENCHEDNECK_DESC,You can't equip neck armor. Double the effects of your head armor.,,No se puede equipar armadura para el cuello. Se duplican los efectos de la armadura para la cabeza.,Vous ne pouvez pas porter un équipement de cou. Les effets de votre équipement de tête sont doublés.,Du kannst keine Halsrüstung ausrüsten. Verdopple die Effekte deines Helms.,Non puoi equipaggiare un'armatura per il collo. Raddoppia gli effetti dell'armatura per la testa.,Você não pode equipar armaduras de pescoço. Dobre os efeitos de sua armadura de cabeça.,"你无法装备颈部护甲。
@@ -3345,7 +3345,7 @@ DISORDER_HEADTRAUMA_DESC,You can't equip head armor. Your Collarless spells cost
 无领法术法力消耗降低2。"
 DISORDER_DEEPCUT_NAME,Deep Cut,,Corte profundo,Entaille profonde,Tiefe Schnittwunde,Taglio Profondo,Corte Profundo,深切伤口
 DISORDER_DEEPCUT_DESC,"Bleed 1.
-You can't equip trinkets or consumables. 
+You can't equip trinkets or consumables.
 Bonus ability: Bloodzerk.",,"1 de hemorragia.
 No se pueden equipar baratijas ni consumibles.
 Habilidad de bonificación: Sangramiento.",Saignement&nbsp;+1. Vous ne pouvez pas équiper d'accessoire ou de consommable. Compétence bonus&nbsp;: Bain de sang.,"Blutung&nbsp;1.
@@ -3396,7 +3396,7 @@ Sua ação de movimento é utilizada aleatoriamente em cada turno.","+50% 闪避
 +250%暴击伤害。
 你的移动动作每回合随机使用。"
 DISORDER_BRAINDAMAGE_NAME,Brain Damage,,Daño cerebral,Dégâts neurologiques,Hirnschaden,Danno Cerebrale,Dano Cerebral,脑损伤
-DISORDER_BRAINDAMAGE_DESC,You can't use item actions. +2 Brace.,,No puede usar acciones de objeto. +2 de refuerzo.,Vous ne pouvez pas utiliser d'objets. Garde&nbsp;+2.,Du kannst keine Gegenstände benutzen. +2&nbsp;Wappnen.,Non puoi usare azioni oggetto. +2 alla Guardia.,Você não pode utilizar ações de itens. +2 de preparação.,"你无法使用物品动作。  
+DISORDER_BRAINDAMAGE_DESC,You can't use item actions. +2 Brace.,,No puede usar acciones de objeto. +2 de refuerzo.,Vous ne pouvez pas utiliser d'objets. Garde&nbsp;+2.,Du kannst keine Gegenstände benutzen. +2&nbsp;Wappnen.,Non puoi usare azioni oggetto. +2 alla Guardia.,Você não pode utilizar ações de itens. +2 de preparação.,"你无法使用物品动作。
 +2 护甲。"
 DISORDER_SEVEREDTHUMB_NAME,Severed Thumb,,Pulgar cortado,Pouce coupé,Abgetrennter Daumen,Pollice Reciso,Dedo Arrancado,断截的拇指
 DISORDER_SEVEREDTHUMB_DESC,You can't equip weapons. Spawn a Food pickup at the start of each battle.,,No se pueden equipar armas. Genera un recogible de comida al inicio de cada combate.,Vous ne pouvez pas équiper d'arme. De la nourriture apparaît au début de chaque combat.,Du kannst keine Waffen ausrüsten. Am Anfang jedes Kampfes erscheint ein Essensgegenstand.,Non puoi equipaggiare armi. Si genera un raccoglibile cibo all'inizio di ogni battaglia.,Você não pode equipar armas. Gere um coletável de comida no início de cada batalha.,"你无法装备武器。
@@ -3434,7 +3434,7 @@ DISORDER_INFESTATION_DESC,"At the start of your turn, you have a 50% chance to s
 15%的概率生成一个敌人跳蚤。
 "
 DISORDER_LEPROSY_NAME,Leprosy,,Lepra,Lèpre,Lepra,Lebbra,Hanseníase,麻风病
-DISORDER_LEPROSY_DESC,"Bruise 2. When you get hit, spawn a food pickup.",,"2 de moratón. Cuando sufre daño, genera un recogible de comida.","Contusion&nbsp;+2. Lorsque vous subissez une attaque, de la nourriture apparaît.","Beulen&nbsp;2. Wenn du getroffen wirst, erscheint ein Essensgegenstand.","Livido 2. Quando ti colpiscono, si genera un raccoglibile cibo.","Contusão 2. Ao sofrer golpes, gere um coletável de comida.","挫伤2。被击中时，  
+DISORDER_LEPROSY_DESC,"Bruise 2. When you get hit, spawn a food pickup.",,"2 de moratón. Cuando sufre daño, genera un recogible de comida.","Contusion&nbsp;+2. Lorsque vous subissez une attaque, de la nourriture apparaît.","Beulen&nbsp;2. Wenn du getroffen wirst, erscheint ein Essensgegenstand.","Livido 2. Quando ti colpiscono, si genera un raccoglibile cibo.","Contusão 2. Ao sofrer golpes, gere um coletável de comida.","挫伤2。被击中时，
 生成一个食物拾取物。"
 DISORDER_ASRFIGHT_NAME,Acute Stress Reaction: Fight,,Reacción de estrés agudo: Lucha,Réaction aiguë au stress&nbsp;: combat,Akute Belastungsreaktion: Kampf,Reazione Acuta da Stress: Lotta,Reação aguda ao estresse: luta,急性应激反应：战斗
 DISORDER_ASRFIGHT_DESC,Gain +6 [img:str] while you have 5 or fewer HP.,,Obtiene +6 [img:str] mientras tenga 5 PS o menos.,[img:str]&nbsp;+6&nbsp;si vous avez 5&nbsp;PV ou moins.,"Erhalte +6&nbsp;[img:str], wenn du 5&nbsp;LP oder weniger hast.",Ottieni +6 alla [img:str] quando hai 5 PS o inferiori.,Obtenha +6 de [img:str] ao possuir 5 ou menos PV.,"当你的生命值为5或更少时，
@@ -3484,7 +3484,7 @@ DISORDER_GAMBLINGADDICT_DESC,"+33% miss chance.
 DISORDER_SCLERODERMA_NAME,Scleroderma,,Bola de tierra,Scléroderme,Sklerodermie,Sclerodermia,Esclerodermia,硬皮病
 DISORDER_SCLERODERMA_DESC,"At the start of each battle, you lose all but 1 HP, but gain that much [img:shield].",,"Al inicio de cada combate, pierde todos los PS menos 1, pero obtiene esa misma cantidad de [img:shield].","Au début de chaque combat, vous descendez à 1&nbsp;PV, mais vous gagnez en [img:shield] la même quantité de PV perdus.",Am Anfang des Kampfes verlierst du alle LP bis auf 1 und erhältst [img:shield] in dieser Höhe.,"All'inizio di ogni battaglia, perdi tutti i tuoi PS tranne 1, ma guadagni la stessa quantità di [img:shield].","No início de cada batalha, você perde toda a sua saúde até restar apenas 1 PV, mas obtém uma quantidade equivalente de [img:shield].","在每场战斗开始时，
 你会失去所有生命值但保留1点生命值，
-并获得相同数量的[m:shield]。"
+并获得相同数量的[img:shield]。"
 DISORDER_PACIFIST_NAME,Pacifist,,Pacifismo,Pacifiste,Pazifist,Pacifista,Pacifista,和平主义者
 DISORDER_PACIFIST_DESC,You can't kill units. If you end your turn without using your basic attack gain 7 mana.,,"No puede matar unidades. Si termina el turno sin lanzar el ataque básico, obtiene 7 de maná.","Vous ne pouvez pas tuer des unités. Si vous terminez votre tour sans avoir utilisé votre attaque de base, vous gagnez 7&nbsp;mana.","Du kannst keine Einheiten töten. Wenn du deinen Zug beendest, ohne deinen Grundangriff benutzt zu haben, erhältst du 7&nbsp;Mana.","Non puoi uccidere unità. Se termini il tuo turno senza usare il tuo attacco base, ottieni 7 di mana.","Você não pode matar unidades. Ao finalizar seu turno sem utilizar seu ataque básico, obtenha 7 de mana.","你不能杀死单位。
 如果结束你的回合时没有使用基本攻击，
@@ -3505,7 +3505,7 @@ DISORDER_SCALYSCABS_NAME,Scaly Scabs,,Costras escamosas,Croûtes écailleuses,Sc
 DISORDER_SCALYSCABS_DESC,,,,,,,,
 DISORDER_FATTYLIVER_NAME,Fatty Liver,,Hígado graso,Stéatose hépatique,Fettleber,Fegato Grasso,Gordura no Fígado,脂肪肝
 DISORDER_FATTYLIVER_DESC,"Whenever you lose HP, you permanently lose 1 [img:con].",,"Cuando pierde PS, pierde para siempre 1 [img:con].","Chaque fois que vous perdez des PV, [img:con]&nbsp;-1&nbsp;de façon permanente.","Wenn du LP verlierst, verlierst du dauerhaft 1&nbsp;[img:con].","Ogni volta che perdi PS, perdi permanentemente 1 di [img:con].","Sempre que perder saúde, perca permanentemente 1 de [img:con].","每当你失去生命值时，
-永久失去1点[m:con]。"
+永久失去1点[img:con]。"
 DISORDER_COMMONCOLD_NAME,The Common Cold,,Resfriado común,Rhume commun,Erkältung,Raffreddore Comune,Resfriado,普通感冒
 DISORDER_COMMONCOLD_DESC,Start each battle with All Stats Down. 30% chance of recovering at the end of each round. Contagious.,,Empieza cada combate con reducción total. 30 % de probabilidad de recuperarse al final de cada ronda. Es contagioso.,Vous commencez chaque combat avec Baisse de stats. 30&nbsp;% de chances de récupération à la fin de chaque manche. Contagieux.,"Beginne jeden Kampf mit einem Malus auf alle Attribute. 30%ige Wahrscheinlichkeit, dass du dich am Ende der Runde erholst. Ansteckend.",Inizi ogni battaglia con Diminuzione delle Statistiche. 30% di probabilità di guarire alla fine di ogni round. Contagioso.,Inicie cada batalha com todos os atributos diminuídos. 30% de chance de se recuperar no final de cada rodada. Contagioso.,"每场战斗开始时所有属性下降。
 每回合结束时有30%几率恢复。
@@ -3639,7 +3639,7 @@ DISORDER_DIABETES_DESC,"When you end your turn, if you haven't eaten food, gain 
 DISORDER_BIPOLARDISORDER_NAME,Bipolar Disorder,,Trastorno bipolar,Bipolarité,Bipolare Störung,Disturbo Bipolare,Transtorno Bipolar,双相情感障碍
 DISORDER_BIPOLARDISORDER_DESC,"Start each battle with either
  +5 [img:int], +5 [img:cha], and +5 [img:spd]
-or 
+or
 All Stats Down 2.",,"Empieza cada combate con +5 [img:int], +5 [img:cha] y +5 [img:spd]
 o bien 2 de reducción total.","Vous commencez chaque combat soit avec [img:int]&nbsp;+2, [img:cha]&nbsp;+5&nbsp;et [img:spd]&nbsp;+5, soit avec Baisse de stats&nbsp;+2.","Beginne jeden Kampf entweder mit
 +5&nbsp;[img:int], +5&nbsp;[img:cha] und +5&nbsp;[img:spd]

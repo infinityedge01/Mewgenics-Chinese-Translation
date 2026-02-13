@@ -299,11 +299,11 @@ HOUSE_FURNITURE_STAT_MUTATION,{amount} [img:evolution] Mutation,,{amount} [img:e
 HOUSE_STORAGE_NAME,Storage,,Almacén,Rangement,Lager,Deposito,Armazenamento,仓库
 HOUSE_QUEST_STORAGE_NAME,Quest Items,,Objetos de misión,Objets de quête,Questgegenstände,Oggetti missione,Itens de Missões,任务物品
 HOUSE_TRASH_NAME,Trash,,Basura,Poubelle,Müll,Cestino,Lixeira,垃圾
-HOUSE_TRASH_SUBTITLE,"(will be emptied at 
+HOUSE_TRASH_SUBTITLE,"(will be emptied at
 the end of the day)",,"(se vaciará
 al final del día)","(elle sera vidée
 en fin de journée)","(wird am Ende des
-Tages geleert)","(sarà svuotato alla 
+Tages geleert)","(sarà svuotato alla
 fine della giornata)",(é esvaziada no fim do dia),"(将在
 一天结束时清空)"
 HOUSE_CAT_INFO_LOWAGGRO,Low Aggression,,Agresividad baja,Agressivité basse,Niedrige Aggressivität,Bassa aggressività,Agressão baixa,低攻击性
@@ -317,11 +317,11 @@ HOUSE_CAT_INFO_INBRED1,Slightly Inbred,,Endogamia ligera,Légèrement consanguin
 HOUSE_CAT_INFO_INBRED2,Moderately Inbred,,Endogamia moderada,Modérément consanguin,Mittlere Inzucht,Consanguineità moderata,Consanguinidade moderada,中度近亲繁殖
 HOUSE_CAT_INFO_INBRED3,Highly Inbred,,Endogamia elevada,Fortement consanguin,Hohe Inzucht,Consanguineità alta,Consanguinidade alta,高度近亲繁殖
 HOUSE_CAT_INFO_INBRED4,Extremely Inbred,,Endogamia extrema,Extrêmement consanguin,Extreme Inzucht,Consanguineità estrema,Consanguinidade extrema,极端近亲繁殖
-HOUSE_CAT_INFO_LOVER,Loves {Catname},,Quiere a {Catname},Aime {Catname},Liebt {Catname},Ama {Catname},Ama {Catname},爱 [m:{Catname}]
+HOUSE_CAT_INFO_LOVER,Loves {Catname},,Quiere a {Catname},Aime {Catname},Liebt {Catname},Ama {Catname},Ama {Catname},爱 {Catname}
 HOUSE_CAT_INFO_LOVER_M,,,,,,,,
 HOUSE_CAT_INFO_LOVER_F,,,,,,,,
 HOUSE_CAT_INFO_LOVER_N,,,,,,,,
-HOUSE_CAT_INFO_RIVAL,Hates {Catname},,Odia a {Catname},Déteste {Catname},Hasst {Catname},Odia {Catname},Odeia {Catname},恨 [m:{Catname}]
+HOUSE_CAT_INFO_RIVAL,Hates {Catname},,Odia a {Catname},Déteste {Catname},Hasst {Catname},Odia {Catname},Odeia {Catname},恨 {Catname}
 HOUSE_CAT_INFO_RIVAL_M,,,,,,,,
 HOUSE_CAT_INFO_RIVAL_F,,,,,,,,
 HOUSE_CAT_INFO_RIVAL_N,,,,,,,,
@@ -650,46 +650,46 @@ ITEM_BROKEN_TOOLTIP,It's trash now,,Ahora es basura.,Bon pour la poubelle.,Kann 
 ,,,,,,,,
 NO_CHARACTER_NAME,Nobody,,Nadie,Personne,Niemand,Nessuno,Ninguém,无名
 ,,,,,,,,
-CAT_NAME_MOD_COOL,Cool {Catname},,{Catname} guay,{Catname} (cool),{Catname} (Cool)|999,,{Catname} legal,酷 [m:{Catname}]
+CAT_NAME_MOD_COOL,Cool {Catname},,{Catname} guay,{Catname} (cool),{Catname} (Cool)|999,,{Catname} legal,酷 {Catname}
 CAT_NAME_MOD_COOL_M,,,,,,{Catname} fantastico,,
 CAT_NAME_MOD_COOL_F,,,,,,{Catname} fantastica,,
 CAT_NAME_MOD_COOL_N,,,,,,{Catname} spettacolare,,
 CAT_NAME_MOD_VEGAN,{Catname} (Vegan)|999,"since multiple mods can apply to the same cat, you can append |<number> to change the priority a name mod applies
-in this case, (Vegan) needs to come after other mods, so |1 means apply later. 
-(higher numbers apply later)",{Catname} (dieta vegana)|999,{Catname} (végan)|999,{Catname} (Vegan)|999,,,[m:{Catname}]（纯素食者）|999
+in this case, (Vegan) needs to come after other mods, so |1 means apply later.
+(higher numbers apply later)",{Catname} (dieta vegana)|999,{Catname} (végan)|999,{Catname} (Vegan)|999,,,{Catname}（纯素食者）|999
 CAT_NAME_MOD_VEGAN_M,,,,,,{Catname} (Vegano)|999,{Catname} (Vegano)|999,
 CAT_NAME_MOD_VEGAN_F,,,,,,{Catname} (Vegana)|999,{Catname} (Vegana)|999,
 CAT_NAME_MOD_VEGAN_N,,,,,,{Catname} (mangia cibo vegano)|999,,
-CAT_NAME_MOD_MAN,Mr. {Catname}|1,(should be Mr. regardless of {Catname}'s gender),Sr. {Catname}|1,M. {Catname}|1,Mr. {Catname}|1,Mr. {Catname}|1,Mr. {Catname}|1,先生 [m:{Catname}]|1
+CAT_NAME_MOD_MAN,Mr. {Catname}|1,(should be Mr. regardless of {Catname}'s gender),Sr. {Catname}|1,M. {Catname}|1,Mr. {Catname}|1,Mr. {Catname}|1,Mr. {Catname}|1,{Catname} 先生|1
 CAT_NAME_MOD_MAN_M,,,,,,,,
 CAT_NAME_MOD_MAN_F,,,,,,,,
 CAT_NAME_MOD_MAN_N,,,,,,,,
-CAT_NAME_MOD_SUPER,Super-{Catname},,Super-{Catname},Super-{Catname},Super-{Catname},Super-{Catname},Super-{Catname},超级-[m:{Catname}]
+CAT_NAME_MOD_SUPER,Super-{Catname},,Super-{Catname},Super-{Catname},Super-{Catname},Super-{Catname},Super-{Catname},超级 {Catname}
 CAT_NAME_MOD_SUPER_M,,,,,,,,
 CAT_NAME_MOD_SUPER_F,,,,,,,,
 CAT_NAME_MOD_SUPER_N,,,,,,,,
-CAT_NAME_MOD_AMOEBA,{Catname}?|1,,¿{Catname}?|1,{Catname}&nbsp;?|1,{Catname}?|1,{Catname}?|1,{Catname}?|1,[m:{Catname}]？|1
+CAT_NAME_MOD_AMOEBA,{Catname}?|1,,¿{Catname}?|1,{Catname}&nbsp;?|1,{Catname}?|1,{Catname}?|1,{Catname}?|1,{Catname}？|1
 CAT_NAME_MOD_AMOEBA_M,,,,,,,,
 CAT_NAME_MOD_AMOEBA_F,,,,,,,,
 CAT_NAME_MOD_AMOEBA_N,,,,,,,,
-CAT_NAME_MOD_HIPPIE,{Catname} Moonbeam,,{Catname} Rayo de Luna,{Catname} (rayon lunaire),{Catname} Mondschein,{Catname} Raggio-di-luna,{Catname} Raio Lunar,[m:{Catname}] 月光
+CAT_NAME_MOD_HIPPIE,{Catname} Moonbeam,,{Catname} Rayo de Luna,{Catname} (rayon lunaire),{Catname} Mondschein,{Catname} Raggio-di-luna,{Catname} Raio Lunar,{Catname} 月光
 CAT_NAME_MOD_HIPPIE_M,,,,,,,,
 CAT_NAME_MOD_HIPPIE_F,,,,,,,,
 CAT_NAME_MOD_HIPPIE_N,,,,,,,,
-CAT_NAME_MOD_DEMONIC,Evil {Catname},,{Catname} infame,{Catname} (maléfique),{Catname} (Böse)|999,{Catname} crudele,{Catname} do mal,邪恶的 [m:{Catname}]
+CAT_NAME_MOD_DEMONIC,Evil {Catname},,{Catname} infame,{Catname} (maléfique),{Catname} (Böse)|999,{Catname} crudele,{Catname} do mal,邪恶 {Catname}
 CAT_NAME_MOD_DEMONIC_M,,,,,,,,
 CAT_NAME_MOD_DEMONIC_F,,,,,,,,
 CAT_NAME_MOD_DEMONIC_N,,,,,,,,
 CAT_NAME_MOD_STEVEN,Steven|-999,,Steven|-999,Steven|-999,Steven|-999,Steven|-999,Steven|-999,史蒂文|-999
-CAT_NAME_MOD_DWARF,Little {Catname}|3,,Peque {Catname}|3,{Catname} (minus)|3,Little {Catname}|3,,,小[ m:{Catname}]|3
+CAT_NAME_MOD_DWARF,Little {Catname}|3,,Peque {Catname}|3,{Catname} (minus)|3,Little {Catname}|3,,,小 {Catname}|3
 CAT_NAME_MOD_DWARF_M,,,,,,Piccolo {Catname}|3,{Catname} pequeno|3,
 CAT_NAME_MOD_DWARF_F,,,,,,Piccola {Catname}|3,{Catname} pequena|3,
 CAT_NAME_MOD_DWARF_N,,,,,,{Catname} junior|3,,
-CAT_NAME_MOD_PDWARF,Lil' {Catname}|3,,Mini-{Catname}|3,{Catname} (riquiqui)|3,Lil' {Catname}|3,{Catname} baby|3,Mini-{Catname}|3,小小的 [m:{Catname}]|3
+CAT_NAME_MOD_PDWARF,Lil' {Catname}|3,,Mini-{Catname}|3,{Catname} (riquiqui)|3,Lil' {Catname}|3,{Catname} baby|3,Mini-{Catname}|3,迷你 {Catname}|3
 CAT_NAME_MOD_PDWARF_M,,,,,,,,
 CAT_NAME_MOD_PDWARF_F,,,,,,,,
 CAT_NAME_MOD_PDWARF_N,,,,,,,,
-CAT_NAME_MOD_GIGANTISM,Big {Catname}|2,,Gran {Catname}|2,{Catname} (géant)|2,Big {Catname}|2,{Catname} grande|2,{Catname} grande|2,大 [m:{Catname}]|2
+CAT_NAME_MOD_GIGANTISM,Big {Catname}|2,,Gran {Catname}|2,{Catname} (géant)|2,Big {Catname}|2,{Catname} grande|2,{Catname} grande|2,大 {Catname}|2
 CAT_NAME_MOD_GIGANTISM_M,,,,,,,,
 CAT_NAME_MOD_GIGANTISM_F,,,,,,,,
 CAT_NAME_MOD_GIGANTISM_N,,,,,,,,

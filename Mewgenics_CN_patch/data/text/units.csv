@@ -1,5 +1,5 @@
 ﻿KEY,en,notes,sp,fr,de,it,pt-br,zh
-PLAYER_CAT_NAME,{Catname},,{Catname},{Catname},{Catname},{Catname},{Catname},猫咪
+PLAYER_CAT_NAME,{Catname},,{Catname},{Catname},{Catname},{Catname},{Catname},{Catname}
 PLAYER_CAT_NAME_M,,,,,,,,
 PLAYER_CAT_NAME_F,,,,,,,,
 PLAYER_CAT_NAME_N,,,,,,,,
@@ -70,7 +70,7 @@ Obtiene +1 de refuerzo al sufrir daño.","Lance des projectiles sur tous ses enn
 Bénéficie de Garde +1&nbsp;quand il est touché.","Schießt auf alle Gegner innerhalb seiner Reichweite.
 Erhält +1&nbsp;Wappnen, wenn er Schaden erleidet.","Esegue un tiro a parabola contro tutti i nemici a portata.
 Ottiene +1 Guardia quando subisce danno.","Lança ataques contra todos os inimigos dentro do alcance.
-Obtém +1 de preparação ao sofrer dano.","向所有射程内敌人投掷射击。  
+Obtém +1 de preparação ao sofrer dano.","向所有射程内敌人投掷射击。
 受到伤害时获得 +1 护甲。"
 ENEMY_INVADER_NAME,Schpidenbot,spiderbot (see the note about robot nazi enemies elsewhere),Schpidenbot,Schpidenbot,Spinnenbot,Roboragnen,Schpidenbot,施皮登机器人
 ENEMY_INVADER_DESC,Melee attacker that inflicts Poison.,,Este atacante cuerpo a cuerpo inflige veneno.,Attaque au corps-à-corps et inflige Poison.,Nahkämpfer. Verursacht Gift.,Specialista del corpo a corpo che infligge Veleno.,Agressor corpo-a-corpo que aplica veneno.,近战攻击者，会造成中毒。
@@ -549,9 +549,9 @@ Wappnen&nbsp;2.","Esegue un ampio attacco corpo a corpo che lancia le unità in 
 Quando muore, evoca un Tumore.
 Guardia 2.","Realiza um amplo golpe corpo-a-corpo que lança unidades no ar.
 Gera um tumor ao morrer.
-Preparação 2.","进行范围近战攻击，  
-将单位击飞。  
-死亡时生成一个肿瘤。  
+Preparação 2.","进行范围近战攻击，
+将单位击飞。
+死亡时生成一个肿瘤。
 护甲 2。"
 ENEMY_CULTISTBISHOP_NAME,Cultist Bishop,,Sectario obispo,Prélat fanatique,Kultbischof,Vescovo Cultista,Bispo Cultista,狂信徒主教
 ENEMY_CULTISTBISHOP_DESC,"Its lightning attack has a chance to Stun.
@@ -644,8 +644,8 @@ Cada vez que un enemigo lanza un hechizo, emite un destello y obtiene +1 de espi
 Chaque fois qu'un de ses ennemis lance un sort, il émet une étincelle et bénéficie d'Épines +1.","Nahkämpfer.
 Jedes Mal, wenn einer ihrer Gegner einen Zauber wirkt, versprüht sie einen Funken und erhält +1&nbsp;Dornen.","Specialista del corpo a corpo.
 Ogni volta che un suo nemico lancia un incantestimo, emette una Scintilla e ottiene +1 Spine.","Agressor corpo-a-corpo.
-A cada vez em que um de seus inimigos lança um encantamento, emite uma fagulha e obtém +1 de espinhos.","近战攻击者。  
-每当其敌人施放法术时，  
+A cada vez em que um de seus inimigos lança um encantamento, emite uma fagulha e obtém +1 de espinhos.","近战攻击者。
+每当其敌人施放法术时，
 它会发出闪光并获得+1 荆棘。"
 ENEMY_BIRTHWORT_NAME,Birthwort,,Aristolochia,Aristoloche,Pfeifenblume,Aristolochia,Erva-de-Parto,细辛
 ENEMY_BIRTHWORT_DESC,"Blind. Can melee attack and dash with Trample in random directions.
@@ -983,8 +983,8 @@ Kann heulen, um Einheiten bewegungsunfähig zu machen.","Genera Gattini.
 Il suo attacco corpo a corpo infligge ferite.
 Può ululare per infliggere Immobilizzazione alle unità.","Gera gatinhos.
 Seu ataque corpo-a-corpo aplica ferimentos.
-Pode uivar para imobilizar unidades.","生成小猫。  
-近战攻击会造成挫伤。  
+Pode uivar para imobilizar unidades.","生成小猫。
+近战攻击会造成挫伤。
 能嚎叫使单位定身。"
 ENEMY_HUMANCAT_NAME,Half-Human δ,,Medio humano δ,Mi-humain δ,Halbmensch δ,Mezzo-Umano δ,Meio-Humano δ,半人类 δ
 ENEMY_HUMANCAT_DESC,Melee attacker that Immobilizes. May dodge attacks unless attacked from the human side.,,Este atacante cuerpo a cuerpo inmoviliza a las unidades. Esquiva los ataques que no provengan del costado humano.,Attaque au corps-à-corps qui inflige Immobilisation. Esquive les attaques excepté si elles viennent du côté humain.,"Nahkämpfer, der Einheiten bewegungsunfähig macht. Kann Angriffen ausweichen, es sei denn, seine menschliche Seite wird angegriffen.","Specialista del corpo a corpo che infligge Immobilizzazione. Può schivare gli attacchi, a meno che l'attacco non venga portato dal lato della sua parte umana.",Agressor corpo-a-corpo que imobiliza. Pode se esquivar de ataques se não for atacado pelo lado humano.,"近战攻击者，
@@ -1033,11 +1033,11 @@ Può afferrare e uccidere le unità istantaneamente se riesce a raggiungerle.
 Quando subisce danno, ottiene +99 Guardia fino al suo prossimo turno.","Realiza ataques corpo-a-corpo com empurrão 10 em unidades adjacentes no início de seu turno.
 Realiza um ataque de terremoto de longo alcance em linha reta.
 Pode agarrar e matar instantaneamente unidades se puder alcançá-las.
-Obtém +99 de preparação até o próximo turno ao sofrer dano.","在回合开始时，  
-对相邻单位进行带有击退10的近战攻击。  
+Obtém +99 de preparação até o próximo turno ao sofrer dano.","在回合开始时，
+对相邻单位进行带有击退10的近战攻击。
 
-执行一记直线长距离震击攻击。  
-可以抓住并瞬杀单位，如果它能接触到它们。  
+执行一记直线长距离震击攻击。
+可以抓住并瞬杀单位，如果它能接触到它们。
 受到伤害时，获得+99 护甲，直到下一个回合。"
 ENEMY_CAVEMAN_NAME,Caveman,,Cavernícola,Homme des cavernes,Höhlenmensch,Cavernicolo,Homem das Cavernas,穴居人
 ENEMY_CAVEMAN_DESC,"Has a multi-hit melee attack.
@@ -1374,7 +1374,7 @@ Prepara una explosión al morir.","Crée des nuages de poison quand il attaque o
 Prépare une explosion à sa mort.","Erzeugt Giftwolken, wenn er angreift oder Schaden erleidet.
 Bereitet eine Explosion vor, wenn er stirbt.","Crea nuvole di Veleno quando attacca o quando subisce danno.
 Innesca un'esplosione alla sua morte.","Cria nuvens de veneno quando ataca ou sofre dano.
-Prepara uma explosão ao morrer.","攻击或受伤时制造中毒云。  
+Prepara uma explosão ao morrer.","攻击或受伤时制造中毒云。
 死亡时准备爆炸。"
 ENEMY_GASPER_DESC2,It's about to blow!,does this desc work for that form?,¡Está a punto de estallar!,Ça va péter&nbsp;!,Er explodiert gleich!,Sta per esplodere!,Vai explodir!,快要爆炸了！
 ENEMY_FLOAST_NAME,Floast,,Flotamorfo,Mastiflot,Schwelst,Flotamorfo,Floste,浮击者
@@ -1442,10 +1442,10 @@ Gains Speed at the end of its turn.",,"Ataca todas las veces que puede antes de 
 Obtiene velocidad al final del turno.","Attaque autant de fois que possible, puis assène un uppercut qui inflige Contusion. Gagne une attaque supplémentaire par tour chaque fois qu'il subit des dégâts.
 Gagne en vitesse à la fin de son tour.","Greift so oft an, wie er kann, führt einen Kinnhaken aus und verursacht Beulen. Erhält jedes Mal, wenn er Schaden erleidet, einen zusätzlichen Angriff pro Zug.
 Erhält am Ende seines Zuges Geschwindigkeit.","Attacca tante volte quante gli è possibile, poi esegue un montante e infligge Livido. Ottiene un attacco aggiuntivo per turno ogni volta che subisce danno.
-Ottiene Velocità alla fine del suo turno.","Ataca tantas vezes quanto possível, e então lança um upper e aplica contusão. Obtém um ataque adicional por turno a cada vez que sofre dano. Obtém velocidade no final de seu turno.","尽可能多次攻击，  
-然后上勾拳并造成挫伤。  
-每次受到伤害时，  
-每回合获得一次额外攻击。  
+Ottiene Velocità alla fine del suo turno.","Ataca tantas vezes quanto possível, e então lança um upper e aplica contusão. Obtém um ataque adicional por turno a cada vez que sofre dano. Obtém velocidade no final de seu turno.","尽可能多次攻击，
+然后上勾拳并造成挫伤。
+每次受到伤害时，
+每回合获得一次额外攻击。
 回合结束时获得速度加成。"
 ENEMY_FLESHYMIND_NAME,Fleshy Mind,,Mente carnosa,Génie de chair,Fleischgeist,Mente Carnosa,Mente Cárnea,肉质之心
 ENEMY_FLESHYMIND_DESC,Has a ranged attack that inflicts Muted. Inflicts Confusion on units that attack it.,,Lanza un ataque a distancia que inflige silencio. Inflige confusión a las unidades que la atacan.,Son attaque à distance inflige Entrave magique. Inflige Confusion aux unités qui l'attaquent.,"Hat einen Fernkampfangriff, der Stumm verursacht. Verursacht Verwirrung bei Einheiten, die ihn angreifen.",Possiede un attacco a distanza che infligge Mutismo. Infligge Confusione alle unità che lo attaccano.,Possui um ataque à distância que aplica silêncio. Aplica confusão em unidades que a atacam.,"拥有远程攻击，造成沉默。
@@ -1500,7 +1500,7 @@ Immun gegen heiligen Schaden. Erhält einen Bonus auf alle Attribute, wenn er he
 Innesca un attacco ad area quando subisce danno.
 Immune al Sacro. Ottiene Aumento delle Statistiche quando viene colpito da Elemento Sacro.","Concede [img:divineshield] a aliados.
 Prepara um ataque de área ao sofrer dano.
-Imune contra o sagrado. Obtém todos os atributos aumentados ao sofrer golpes do elemento sagrado.","给予盟友[m:divineshield]。
+Imune contra o sagrado. Obtém todos os atributos aumentados ao sofrer golpes do elemento sagrado.","给予盟友[img:divineshield]。
 受到伤害时触发范围攻击。
 免疫圣属性。
 受到圣属性攻击时获得全属性提升。
@@ -1799,8 +1799,8 @@ Blind.","Possiede un attacco rotante.
 Spara un colpo velenoso quando subisce danno.
 Cieco.","Possui um ataque giratório.
 Dispara um tiro de veneno ao sofrer dano.
-Cego.","具有旋转攻击。  
-受伤时射出中毒射击。  
+Cego.","具有旋转攻击。
+受伤时射出中毒射击。
 失明。"
 ENEMY_ATOMICKITTEN_NAME,Atomic Kitten,,Gatito atómico,Chaton atomique,Atomkatze,Gattino Atomico,Gatinho Atômico,原子小猫
 ENEMY_ATOMICKITTEN_DESC,"Emits a burst of radiation at the start of its turn.
@@ -2164,9 +2164,9 @@ ENEMY_MAGNUS_DESC,Has a chaining dash attack and a spin attack.,,Lanza un ataque
 ENEMY_STACYMUTANT_NAME,Stacy Mutant,,Stacy mutante,Stacy mutante,Mutierte Stacy,Stacy Mutante,Stacy Mutante,斯泰西 突变体
 ENEMY_STACYMUTANT_DESC,???,,¿?,???,???,???,???,"敌人：斯泰西变异体
 
-斯泰西变异体是一种经过基因突变的生物，拥有超乎寻常的力量和敏捷性。  
-它们的外形扭曲，皮肤呈现出不自然的颜色，常常让人感到恐惧。  
-这些敌人擅长隐蔽行动，能够在阴影中悄无声息地接近猎物。  
+斯泰西变异体是一种经过基因突变的生物，拥有超乎寻常的力量和敏捷性。
+它们的外形扭曲，皮肤呈现出不自然的颜色，常常让人感到恐惧。
+这些敌人擅长隐蔽行动，能够在阴影中悄无声息地接近猎物。
 面对斯泰西变异体，玩家需要保持警惕，利用环境和战术来击败它们。"
 ENEMY_PEBBLES_NAME,Pebbles,,Pebbles,Pétra,Pebbles,Ciottolone,Seixos,鹅卵石
 ENEMY_PEBBLES_DESC,"Its melee attack knocks units back.
@@ -2233,8 +2233,8 @@ Hace retroceder a cualquier enemigo que lance un hechizo.","Dispose d'une attaqu
 Repousse tout ennemi qui lance un sort.","Hat einen psychischen Würgeangriff, der Beulen bei Einheiten in ihrer Sichtlinie verursacht.
 Stößt Einheiten zurück, die Zauber wirken.","Possiede un attacco psichico soffocante che infligge Livido a un'unità all'interno del suo campo visivo.
 Respinge tutti i nemici che lanciano un incantesimo.","Possui um ataque psíquico de enforcamento que aplica contusão em uma unidade dentro de seu campo de visão.
-Empurra para trás inimigos que lançam encantamentos.","拥有精神窒息攻击，  
-致使视线内单位产生挫伤。  
+Empurra para trás inimigos que lançam encantamentos.","拥有精神窒息攻击，
+致使视线内单位产生挫伤。
 将施放法术的敌人击退。"
 ENEMY_DRAVEN_NAME,Draven,,Draven,Panoramis,Draven,Draven,Draven,德雷文
 ENEMY_DRAVEN_DESC,"Heals and buffs his crows.
@@ -2538,8 +2538,8 @@ Führt einen Wirbelangriff aus.","Cieco.
 Spara un colpo velenoso quando subisce danno.
 Esegue un attacco corpo a corpo rotante.","Cego.
 Dispara um tiro de veneno ao sofrer dano.
-Realiza um ataque corpo-a-corpo giratório.","失明。  
-受到伤害时发射中毒射。  
+Realiza um ataque corpo-a-corpo giratório.","失明。
+受到伤害时发射中毒射。
 进行近战旋转攻击。"
 ENEMY_NUBS_NAME,Nubs,,Nub,Moignon sauteur,Nubs,Nubs,Nubs,哌司
 ENEMY_NUBS_DESC,"Blind.
@@ -2554,8 +2554,8 @@ Führt einen Sprungangriff mit Rückstoß aus.","Cieco.
 Spara un colpo di melma velenoso a parabola quando subisce danno.
 Esegue un attacco in salto con Contraccolpo.","Cego.
 Realiza um disparo de gosma em arco ao sofrer dano.
-Realiza um ataque de salto com empurrão.","失明。  
-受到伤害时投掷中毒爬行射。  
+Realiza um ataque de salto com empurrão.","失明。
+受到伤害时投掷中毒爬行射。
 进行带击退的跳跃攻击。"
 ENEMY_SPIDERQUEEN_NAME,Spinnerette,,Hiladora,Arachnéa,Spinnenkönigin,Giravoltette,Girerette,旋蛛
 ENEMY_SPIDERQUEEN_DESC,"Does a bite attack.
@@ -2612,8 +2612,8 @@ Was könnte nur in ihm drin sein?","Il suo attacco a respiro respinge tutte le u
 Se si prende a pugni da solo perde la Guardia.
 Cosa potrebbe esserci al suo interno?","Seu ataque de hálito empurra todas as unidades 10 espaços para trás.
 Perde sua preparação se socar a si mesmo.
-O que pode ter lá dentro?","它的吐息攻击会将所有单位向后推10格。  
-如果它打自己会失去护甲。  
+O que pode ter lá dentro?","它的吐息攻击会将所有单位向后推10格。
+如果它打自己会失去护甲。
 里面会是什么？"
 ENEMY_MOONHAND_NAME,Moon Hand,,Mano lunar,Main sélénienne,Mondhand,Mano della Luna,Mão Lunar,月之手
 ENEMY_MOONHAND_DESC,"Will grab units that end movement directly in front of it.
@@ -2759,7 +2759,7 @@ Torna-se um espaço de glitch ao morrer.","近战攻击者。
 ENEMY_CHAOS_NAME,Soahc,"""Chaos"" backwards, he has a backwards theme",Soac,Soahc,Soahc,Soac,Soac,混沌敌人
 ENEMY_CHAOS_DESC,Stropelet eh emit hcae egnahc seitiliba sih.,"""His abilities change each time he teleports."" backwards",Atropsnartelet es euq zev adac naibmac sedadilibah sus.,Etropélét es li'uq siof euqahc tnegnahc secnetépmoc ses.,"Treitropelet hcis re nnew, laM sedej hcis nrednä netiekgihäF enies.",Atropsartelet is ehc atlov ingo onaibmac àtiliba eus el.,Atropsnartelet es ele euq zev adac a macifidom es sedadilibah saus.,"Stropelet eh e
 mi
-t hcae egnahc 
+t hcae egnahc
 seitiliba sih."
 ENEMY_TERMINATOR1_NAME,C-800,,C-800,C-800,C-800,C-800,G-800,猫咪终结者
 ENEMY_TERMINATOR1_DESC,Primary objective: Destroy all cats.,,Objetivo prioritario: aniquilar a todos los gatos.,Objectif principal&nbsp;: détruire tous les chats.,Primärziel: Alle Katzen zerstören.,Obiettivo primario: distruggere tutti i gatti.,Objetivo primário: destruir todos os gatos.,主要目标：摧毁所有猫。
@@ -3245,7 +3245,7 @@ TRAP_DAMAGETRAP_NAME,Damage Trap,,Trampa de daño,Piège nocif,Schadensfalle,Tra
 TRAP_DAMAGETRAP_DESC,Damages what it catches. Does not interrupt movement.,,Inflige daño a todo lo que atrapa. No interrumpe el movimiento.,Inflige des dégâts à l'unité qu'il attrape. N'interrompt pas le déplacement.,Verursacht Schaden. Unterbricht Bewegung nicht.,Infligge danno a ciò che cattura. Non interrompe il movimento.,Causa dano ao que captura. Não interrompe o movimento.,"对捕捉的目标造成伤害。
 不干扰移动。"
 TRAP_SNARETRAP_NAME,Snare Trap,,Trampa de lazo,Piège paralysant,Schlinge,Trappola a Laccio,Armadilha de Laço,捕兽夹陷阱
-TRAP_SNARETRAP_DESC,Immobilizes what it catches. Interrupts movement.,,Inmoviliza a todo lo que atrapa. Interrumpe el movimiento.,Immobilise l'unité qu'il attrape. Interrompt le déplacement.,Macht bewegungsunfähig. Unterbricht Bewegung.,Immobilizza ciò che cattura. Interrompe il movimento.,Imobiliza o que captura. Interrompe o movimento.,"使捕捉的目标定身。  
+TRAP_SNARETRAP_DESC,Immobilizes what it catches. Interrupts movement.,,Inmoviliza a todo lo que atrapa. Interrumpe el movimiento.,Immobilise l'unité qu'il attrape. Interrompt le déplacement.,Macht bewegungsunfähig. Unterbricht Bewegung.,Immobilizza ciò che cattura. Interrompe il movimento.,Imobiliza o que captura. Interrompe o movimento.,"使捕捉的目标定身。
 中断移动。"
 TRAP_BEARTRAP_NAME,Bear Trap,,Cepo para osos,Piège à ours,Bärenfalle,Trappola per Orsi,Armadilha de Urso,熊夹陷阱
 TRAP_BEARTRAP_DESC,Damages and immobilizes what it catches. Interrupts movement.,,Inflige daño a todo lo que atrapa y lo inmoviliza. Interrumpe el movimiento.,Inflige des dégâts et immobilise ce qu'il attrape. Interrompt le déplacement.,Verursacht Schaden und macht bewegungsunfähig. Unterbricht Bewegung.,Infligge danno e immobilizza ciò che cattura. Interrompe il movimento.,Causa dano e imobiliza o que captura. Interrompe o movimento.,"对捕捉的目标造成伤害并使其定身。

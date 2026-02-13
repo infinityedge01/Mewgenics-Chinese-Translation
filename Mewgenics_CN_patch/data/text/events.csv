@@ -293,7 +293,7 @@ Avverte una strana sensazione, come se qualcuno stesse osservando, e vede divers
 他们有种被人盯着看的怪异感觉，看到几双眼睛在黑暗中盯着他们…
 
 这是埋伏！"
-EVENT_DEADRAT_REW13,"{catname} pokes at the body... It wasn't dead! 
+EVENT_DEADRAT_REW13,"{catname} pokes at the body... It wasn't dead!
 
 The rat jumps up and bites {him}!
 ",,"{catname} le da un toque al cadáver... ¡No estaba muerto!
@@ -301,7 +301,7 @@ The rat jumps up and bites {him}!
 ¡La rata salta y le da un mordisco!
 ","{catname} tapote le corps... Il n'est pas mort&nbsp;!
 
-Le rat s'élance et mord&nbsp;!","{catname} piekst die Ratte&nbsp;… Sie war gar nicht tot! 
+Le rat s'élance et mord&nbsp;!","{catname} piekst die Ratte&nbsp;… Sie war gar nicht tot!
 
 Die Ratte springt auf und beißt {him}!
 ",,"{catname} cutuca o corpo... Ele não estava morto!
@@ -1418,7 +1418,7 @@ Quel buco perfetto, realizzato appositamente per lei, tormenta i suoi pensieri, 
 EVENT_CATSHAPEDHOLE_REW7_N,,,,,,"{catname} riesce a resistere all'impulso di infilarsi nel buco.
 
 Quel buco perfetto, realizzato praticamente su misura, tormenta i suoi pensieri, sussurrando nei profondi recessi della sua mente... persuadendo {catname} a ritornare!",,
-EVENT_CATSHAPEDHOLE_REW8,"Without hesitating, {catname} enters the strange hole. 
+EVENT_CATSHAPEDHOLE_REW8,"Without hesitating, {catname} enters the strange hole.
 
 {He} slides in deeper and deeper, unable to turn back!
 
@@ -2351,7 +2351,7 @@ EVENT_STRANGEMIRROR_REW5,"{catname} lets out a low hiss while staring at {his} r
 EVENT_STRANGEMIRROR_REW5_M,,,,,,,,
 EVENT_STRANGEMIRROR_REW5_F,,,,,,,,
 EVENT_STRANGEMIRROR_REW5_N,,,,,,,,
-EVENT_STRANGEMIRROR_REW6,"{catname} shatters the fragile reflective pane... 
+EVENT_STRANGEMIRROR_REW6,"{catname} shatters the fragile reflective pane...
 
 Something was hidden behind it!
 ",,"{catname} hace añicos el frágil cristal reflectante...
@@ -3181,7 +3181,7 @@ um deine Erfolgschancen zu sehen!","Butch ti blocca la strada!
 
 Dovresti usare la forza bruta [img:str]
 o il cervello [img:int] per superarlo?
- 
+
 Controlla le tue statistiche
 per capire le probabilità di successo!","Butch está bloqueando seu caminho!
 
@@ -3248,7 +3248,7 @@ EVENT_BUTCH_REW1,"[i]""Yeah, I feel ya. A shoot first, ask questions later kinda
 
 Here, take this…""[/i]",,"«Ya pillo tu rollo. Te gusta disparar primero y preguntar después, ¿no?
 
-Llévate esto».","[i]«&nbsp;Ouais, je vois. T'es du genre à tirer d'abord et poser les questions après, je me trompe&nbsp;? 
+Llévate esto».","[i]«&nbsp;Ouais, je vois. T'es du genre à tirer d'abord et poser les questions après, je me trompe&nbsp;?
 
 Tiens, prends ça.&nbsp;»[/i]","[i]„Jawoll, so muss das. Erst schießen, dann Fragen stellen, wie?
 
@@ -3278,7 +3278,7 @@ EVENT_BUTCH_REW3,"[i]""A cat who likes to take a punch, huh? Sicko…
 
 This is a judgement-free zone, though... So here.""[/i]",,"«Te mola que te den duro, ¿eh? Estás fatal...
 
-Pero, bueno, yo no juzgo. Toma».","[i]«&nbsp;Un chat qui aime encaisser les coups, hein&nbsp;? Chelou... 
+Pero, bueno, yo no juzgo. Toma».","[i]«&nbsp;Un chat qui aime encaisser les coups, hein&nbsp;? Chelou...
 
 Mais bon, pas de jugement ici... Donc, tiens.&nbsp;»[/i]","[i]„Ein Kätzchen, das auf Schläge steht, was? Ganz schön versaut&nbsp;…
 
@@ -3299,7 +3299,7 @@ Here, I know a shortcut.""[/i]
 
 Ven, que te enseño un atajo».
 
-{catname} consigue un turno extra al comienzo del siguiente combate.","[i]«&nbsp;Un coup inattendu, rien de mieux&nbsp;! Ouais, ça me plaît ça... 
+{catname} consigue un turno extra al comienzo del siguiente combate.","[i]«&nbsp;Un coup inattendu, rien de mieux&nbsp;! Ouais, ça me plaît ça...
 
 Tiens, je connais un raccourci.&nbsp;»[/i]
 
@@ -3327,7 +3327,7 @@ EVENT_BUTCH2_REW2,"[i]""Fly like a butthole fly, stink like a pee, I always say!
 
 Quick, while no one's lookin'. Take this!""[/i]",,"«Como siempre digo, ¡flota como un zurullo y pica como una ladilla!
 
-Rápido, toma esto ahora que no nos ve nadie».","[i]«&nbsp;Voler telle une mouche d'anus, puer comme un pipi, c'est ma devise&nbsp;! 
+Rápido, toma esto ahora que no nos ve nadie».","[i]«&nbsp;Voler telle une mouche d'anus, puer comme un pipi, c'est ma devise&nbsp;!
 
 Vite, tant que personne ne regarde. Prends ça&nbsp;!&nbsp;»[/i]","[i]„Schwebe wie ‘ne Arschfliege, stich wie ein Furunkel, sag ich immer!
 
@@ -5037,7 +5037,7 @@ EVENT_GENIEOFTHELAMP_REW5,"[i]""How bland! You know there are gyms for that, rig
 
 {catname} fühlt sich plötzlich stärker. {He} überlegt kurz, die Lampe in kleine Stücke zu zerschlagen.
 ","[i]""Che banalità! Sai che per quello esistono le palestre, vero?""[/i]
- 
+
 {catname} si sente molto più forte. Prende in considerazione l'ipotesi di spaccare la lampada.","[i]""Que sem graça! Você sabe que existem academias para isso, né?""[/i]
 
 {catname} se sente muito mais forte e considera quebrar a lâmpada.","[i]“多无聊！你知道有健身房吧？”[/i]
@@ -5076,7 +5076,7 @@ Ja, ja, schon gut. Nie ist mal jemand kreativ mit seinen Wünschen!“[/i]
 Der Dschinn wedelt mit seinen Armen in Richtung von {catname}.","[i]""Potere! PIÙ POTERE!
 
 Va bene, d'accordo. La tua razza non è mai particolarmente creativa!""[/i]
- 
+
 Il genio agita le braccia verso {catname}.","[i]""Poder! MAIS PODER!
 
 Tá bom. Vocês nunca são criativos mesmo!""[/i]
@@ -5108,7 +5108,7 @@ Wobei, heute fühle ich mich&nbsp;… [b]großzügig[/b]&nbsp;… Also erlaube i
 Der Dschinn kichert bösartig, während {catname} vor Angst zittert.","[i]""Che maleducazione infastidire il Genio della Lampada durante il suo riposo! Io ti maledico!
 
 Eppure oggi mi sento... [b]generoso[/b]... quindi ti lascerò scegliere come morire!""[/i]
- 
+
 Il genio ridacchia allegramente di fronte all'angoscia di {catname}.","[i]""Que falta de educação a sua perturbar a mim, o Gênio da Lâmpada, em meu descanso! Eu amaldiçoo você!
 
 Porém, estou me sentindo... [b]generoso[/b] hoje... então deixarei que você escolha seu próprio fim!""[/i]
@@ -5150,19 +5150,19 @@ O Gênio se inclina e sussurra um monte de coisas maldosas para {catname} que ni
 
 {catname}困惑又难过地四处张望…"
 EVENT_GENIEOFTHELAMP2_REW1_M,,,,,,"[i]""Questo mi piace!""[/i]
- 
+
 Il genio si china e sussurra un sacco di cattiverie a {catname} che nessun altro può sentire.
- 
+
 {catname} si guarda intorno, confuso e triste...",,
 EVENT_GENIEOFTHELAMP2_REW1_F,,,,,,"[i]""Questo mi piace!""[/i]
- 
+
 Il genio si china e sussurra un sacco di cattiverie a {catname} che nessun altro può sentire.
- 
+
 {catname} si guarda intorno, confusa e triste...",,
 EVENT_GENIEOFTHELAMP2_REW1_N,,,,,,"[i]""Questo mi piace!""[/i]
- 
+
 Il genio si china e sussurra un sacco di cattiverie a {catname} che nessun altro può sentire.
- 
+
 {catname} si guarda intorno, in preda alla confusione e alla tristezza...",,
 EVENT_GENIEOFTHELAMP2_REW2,"[i]""Smart choice!""[/i]
 
@@ -5179,7 +5179,7 @@ Le génie rit de sa propre blague et frappe {catname} sur le dessus de la tête&
 Der Dschinn kichert über seinen eigenen Witz und verpasst {catname} eine Kopfnuss!
 
 ","[i]""Scelta saggia!""[/i]
- 
+
 Il genio ride alla sua stessa battuta e colpisce {catname} sulla parte alta della testa!","[i]""Uma escolha inteligente!""[/i]
 
 O Gênio gargalha com a própria piada e dá um tapa na cabeça de {catname}!","[i]“聪明的选择！”[/i]
@@ -5205,13 +5205,13 @@ O Gênio ataca {catname}, lançando uma maldição com uma aflição...","[i]“
 
 精灵攻击了{catname}，用某种疾病诅咒了{him}…"
 EVENT_GENIEOFTHELAMP2_REW3_M,,,,,,"[i]""Mi sembra giusto, visto che mi stavi praticamente prendendo a pugni!""[/i]
- 
+
 Il genio colpisce {catname}, maledicendolo con un'afflizione...",,
 EVENT_GENIEOFTHELAMP2_REW3_F,,,,,,"[i]""Mi sembra giusto, visto che mi stavi praticamente prendendo a pugni!""[/i]
- 
+
 Il genio colpisce {catname}, maledicendola con un'afflizione...",,
 EVENT_GENIEOFTHELAMP2_REW3_N,,,,,,"[i]""Mi sembra giusto, visto che mi stavi praticamente prendendo a pugni!""[/i]
- 
+
 Il genio colpisce {catname}, lanciando una maledizione con afflizione...",,
 EVENT_GENIEOFTHELAMP2_REW4,"[i]""Ooooh, fun! What would be most fitting ailment for you then?""[/i]
 
@@ -5230,13 +5230,13 @@ O Gênio para e pensa por um momento, ponderando inúmeras maneiras de torturar 
 
 精灵停顿了一下，脑中权衡了多种折磨{catname}的方式，随后耸耸肩狠狠地打了{him}一拳！"
 EVENT_GENIEOFTHELAMP2_REW4_M,,,,,,"[i]""Ooooh, divertente! Quale malanno potrebbe essere più adatto a te, allora?""[/i]
- 
+
 Il genio fa una pausa e riflette per un momento, soppesando i vari modi per torturare {catname} nella sua mente, poi scrolla le spalle e gli molla un pugno!",,
 EVENT_GENIEOFTHELAMP2_REW4_F,,,,,,"[i]""Ooooh, divertente! Quale malanno potrebbe essere più adatto a te, allora?""[/i]
- 
+
 Il genio fa una pausa e riflette per un momento, soppesando i vari modi per torturare {catname} nella sua mente, poi scrolla le spalle e le molla un pugno!",,
 EVENT_GENIEOFTHELAMP2_REW4_N,,,,,,"[i]""Ooooh, divertente! Quale malanno potrebbe essere più adatto a te, allora?""[/i]
- 
+
 Il genio fa una pausa e riflette per un momento, soppesando i vari modi per torturare {catname} nella sua mente, poi scrolla le spalle e tira un pugno!",,
 EVENT_GENIEOFTHELAMP2_REW5,"[i]""I would have let you ask a friend for help deciding, but I doubt you have any! Ha Ha Ha!
 
@@ -5260,7 +5260,7 @@ Der Dschinn deutet mit seinem Finger auf {catname} und etwas schießt aus ihm he
 ","[i]""Ti avrei permesso di chiedere consiglio a un amico, ma dubito tu ne abbia qualcuno! Ah ah ah!
 
 Aspetta, lascia che ti aiuti io!""[/i]
- 
+
 Il genio punta un dito. Ne viene fuori qualcosa che si abbatte su {catname}!","[i]""Eu teria deixado você pedir ajuda a um amigo para decidir, mas duvido que você tenha algum! Ha ha ha!
 
 Aqui, deixe-me te ajudar com isso!""[/i]
@@ -5285,7 +5285,7 @@ Le génie crache, et une créature humide et frétillante atterrit sur {catname}
 
 Der Genie spuckt etwas Nasses und Krabbeliges aus, das auf {catname} landet!
 ","[i]""La tua anima, dici? So proprio cosa potrebbe solleticare la tua fantasia! Letteralmente!""[/i]
- 
+
 Il genio sputa: qualcosa di bagnato e che si contorce atterra su {catname}!","[i]""Sua alma, você diz! Eu sei exatamente o que vai lhe agradar!""[/i]
 
 O Gênio cospe e algo molhado e se contorcendo cai em cima de {catname}!","[i]“你的灵魂是吧！我知道什么东西会让你感兴趣！字面意思的！”[/i]
@@ -5927,7 +5927,7 @@ EVENT_AVATOFTOXICWASTE_REW6,{catname} carefully approaches the vat and sniffs th
 EVENT_AVATOFTOXICWASTE_REW6_M,,,,,,,,
 EVENT_AVATOFTOXICWASTE_REW6_F,,,,,,,,
 EVENT_AVATOFTOXICWASTE_REW6_N,,,,,,,,
-EVENT_AVATOFTOXICWASTE_REW7,"{catname} approaches the vat and before {he} can react, it explodes! 
+EVENT_AVATOFTOXICWASTE_REW7,"{catname} approaches the vat and before {he} can react, it explodes!
 
 Green ooze sprays all over {catname}, poisoning {him}!
 ",,"{catname} se acerca a la tina y, antes de poder reaccionar, ¡esta explota!
@@ -6986,7 +6986,7 @@ Sul collo ci sono dei buchi e la pelle è bianca come il gesso, come se tutto il
 Che modo orribile di andarsene... {catname} rabbrividisce al pensiero!","{catname} observa atentamente o corpo envolto.
 
 Há furos em seu pescoço e a pele é branca como giz, como se todo o sangue houvesse sido drenado de seu corpo.
-        
+
 Que maneira horrível de partir... {catname} estremece ao pensar nisso!","{catname} 近距离查看尸体……
 
 脖子上有洞，皮肤白得像粉笔，仿佛所有血液都被抽干了。
@@ -7824,7 +7824,7 @@ EVENT_OMINOUSSIGN_REW11,"{catname} tries to pull it down, but it keeps slipping 
 EVENT_OMINOUSSIGN_REW11_M,,,,,,,,
 EVENT_OMINOUSSIGN_REW11_F,,,,,,,,
 EVENT_OMINOUSSIGN_REW11_N,,,,,,,,
-EVENT_OMINOUSSIGN_REW12,"A terrifying screech echoes in {catname}'s mind as {he} touches the ominous sign... 
+EVENT_OMINOUSSIGN_REW12,"A terrifying screech echoes in {catname}'s mind as {he} touches the ominous sign...
 
 {He} recoils in pain, trying to pull {himself} away, but the wooden figure latches onto {him}!
 ",loot bad rare,"Un chillido aterrador resuena en la mente de {catname} cuando toca el siniestro presagio...
@@ -8280,7 +8280,7 @@ EVENT_SMELLYBAG_REW9,"{catname} pries open the bag and reaches in, looking for s
 EVENT_SMELLYBAG_REW9_M,,,,,,,,
 EVENT_SMELLYBAG_REW9_F,,,,,,,,
 EVENT_SMELLYBAG_REW9_N,,,,,,,,
-EVENT_SMELLYBAG_REW10,"{catname} pulls the stinky bag open and a bunch of items tumble out! 
+EVENT_SMELLYBAG_REW10,"{catname} pulls the stinky bag open and a bunch of items tumble out!
 ",loot good rare,"{catname} abre la apestosa bolsa ¡y de ella caen varios objetos!
 ",{catname} ouvre le sac puant en tirant dessus. Un paquet d'objets en tombe&nbsp;!,"{catname} öffnet die Stinketasche. Mehrere Gegenstände fallen heraus!
 ",{catname} apre la borsa puzzolente: ne fuoriesce un gruppo di oggetti!,{catname} abre a sacola fedorenta e vários itens caem de seu interior!,{catname} 拉开臭袋子，许多物品滚了出来！
@@ -8432,7 +8432,7 @@ Les autres chats regardent {catname} avec scepticisme, mais personne n'a à cœu
 
 Die anderen Katzen mustern einander skeptisch, doch niemand mag {catname} sagen, dass das nur ein Stein wie jeder andere ist.
 ","[i]""Wow! Che roccia carina!""[/i] esclama {catname}, e raccoglie una delle pietre più grosse.
- 
+
 Gli altri gatti osservano con scetticismo, ma nessuno ha il cuore di dire a {catname} che è solo una roccia.","[i]""Uau! Que pedra fofinha!""[/i], exclama {catname}, pegando uma das pedras maiores.
 
 Os outros gatos olham com desconfiança, mas ninguém tem coragem de dizer a {catname} que é só uma pedra comum.","[i]“哇！多么可爱的石头！”[/i] {catname} 惊呼，捡起一块较大的石头。
@@ -9887,7 +9887,7 @@ EVENT_APUZZLEBOX_REW5_M,,,,,,,,
 EVENT_APUZZLEBOX_REW5_F,,,,,,,,
 EVENT_APUZZLEBOX_REW5_N,,,,,,,,
 EVENT_TIMECAPSULE_NAME,Time Capsule,,Cápsula del tiempo,Capsule temporelle,Zeitkapsel,Capsula del Tempo,Cápsula do Tempo,时间胶囊
-EVENT_TIMECAPSULE_QUES,"{catname} finds an old can. It looks like it was buried long ago. 
+EVENT_TIMECAPSULE_QUES,"{catname} finds an old can. It looks like it was buried long ago.
 
 [i]""I wonder what could be inside?""[/i]",,"{catname} encuentra una vieja lata. Parece que alguien la enterró hace mucho.
 
@@ -11123,7 +11123,7 @@ EVENT_BROKENTV_REW7,Ominous music begins playing and a spooky ghost jumps out at
 EVENT_BROKENTV_REW7_M,,,,,,,,
 EVENT_BROKENTV_REW7_F,,,,,,,,
 EVENT_BROKENTV_REW7_N,,,,,,,,
-EVENT_BROKENTV_REW8,"{catname} flips on the television and leans close to see what's on the flickering display... 
+EVENT_BROKENTV_REW8,"{catname} flips on the television and leans close to see what's on the flickering display...
 
 A hideous monster bursts through the screen and grabs {catname}, ripping out {his} soul!
 ",turn on bad rare,"{catname} enciende el televisor y se acerca para ver qué aparece en la pantalla parpadeante...
@@ -12251,7 +12251,7 @@ EVENT_MEATGOLEM_REW1,"[i]""GOLEM KNOW WAY AROUND! GOLEM HELP YOU SMASH NEXT BATT
 {catname} laisse le golem ouvrir la marche.","[i]„GOLEM KENNT WEG! GOLEM HILFT DIR IN NÄCHSTEM KAMPF!“[/i]
 
 {catname} folgt dem Golem dankbar.","[i]""GOLEM CONOSCE ALTRA STRADA! GOLEM AIUTA TE A FRACASSARE PROSSIMA BATTAGLIA!""[/i]
- 
+
 {catname} lascia che il golem faccia strada.","[i]""GOLEM SABE O CAMINHO! GOLEM TE AJUDARÁ A VENCER A PRÓXIMA BATALHA!""[/i]
 
 {catname} deixa o golem lhe guiar adiante.","[i]“傀儡熟悉这里的路！傀儡帮你猛击下场战斗！”[/i]
@@ -12270,7 +12270,7 @@ EVENT_MEATGOLEM_REW2,"[i]""AAARRRRRRRRRGGGGGGGGGGHHHHHHHHHH!!!!""[/i]
 {catname} ne sait pas trop en quoi c'est utile, mais au moins, les bestioles aux alentours ont fui de terreur.","[i]""AAARRRRRRRRRGGGGGGGGGGHHHHHHHHHH!!!!""[/i]
 
 {catname} ist sich nicht ganz sicher, was das gebracht hat, aber alle kleinen Monster in der Nähe sind jetzt garantiert vor Angst geflohen.","[i]""AAARRRRRRRRRGGGGGGGGGGHHHHHHHHHH!!!!""[/i]
- 
+
 {catname} non capisce cos'abbia fatto esattamente, ma di certo ha fatto fuggire le creature vicine per il terrore.","[i]""AAARRRRRRRRRGGGGGGGGGGHHHHHHHHHH!!!!""[/i]
 
 {catname} não tem muita certeza de como isso ajudou, mas com certeza fez os bichos por perto fugirem apavorados.","[i]“啊啊啊啊啊啊啊啊啊！！！！”[/i]
@@ -12289,7 +12289,7 @@ EVENT_MEATGOLEM_REW3,"[i]""GOLEM FIND TREASURE! YOU HAVE NOW!""[/i]
 {catname} accepte le cadeau.","[i]„GOLEM FINDET SCHATZ! HIER FÜR DICH!“[/i]
 
 {catname} akzeptiert das Geschenk.","[i]""GOLEM TROVA TESORO! ORA TU HAI!""[/i]
- 
+
 {catname} accetta il regalo.","[i]""GOLEM ENCONTROU O TESOURO! AGORA É SEU!""[/i]
 
 {catname} aceita o presente.","[i]“傀儡找到宝藏！你现在拥有它！”[/i]
@@ -12308,7 +12308,7 @@ El gólem le da un lametón baboso a {catname}, ¡que se siente mucho mejor!","[
 Le golem donne un coup de langue baveux à {catname}. {He} se sent tout à coup bien mieux&nbsp;!","[i]„HIER KÄTZCHEN, KÄTZCHEN! GOLEM HILFT KÄTZCHEN!“[/i]
 
 Der Golem schleckt {catname} wahnsinnig feucht ab. {He} fühlt sich gleich viel besser!","[i]""QUI MICIO MICIO! GOLEM FA MEGLIO SENTIRE MICIO!""[/i]
- 
+
 Il golem dà una leccata bavosa a {catname}, che si sente molto meglio!","[i]""AQUI, GATINHO! GOLEM FAZ GATINHO SE SENTIR MELHOR!""[/i]
 
 O golem dá uma lambida babada em {catname}, que se sente muito melhor!","[i]“快来，喵喵！傀儡让小猫感觉好些！”[/i]
@@ -12605,7 +12605,7 @@ L'étrange bête, imposante, pose les yeux sur {catname} et ricane.","[i]„Ausg
 
 Das merkwürdige Wesen blickt auf {catname} herab und lacht.
 ","[i]""Ben fatto. Prendi questo piccolo ciondolo...""[/i]
- 
+
 La strana bestia osserva {catname} e ride.","[i]""Muito bem. Tome esta pequena lembrança...""[/i]
 
 A estranha criatura olha para {catname} e ri.","[i]“做得好。拿着这个小饰品吧……”[/i]
@@ -12644,7 +12644,7 @@ Why did we do that exactly?",hp bad (nothing),"[b]«Ja, ja, ja».[/b]
 Pourquoi a-t-on fait ça au juste&nbsp;?","[b]„HA, HA, HA.“[/b]
 
 Was genau hat das jetzt gebracht?","[b]""AH AH AH.""[/b]
- 
+
 Perchè mai abbiamo fatto una cosa simile?","[b]""HA HA HA.""[/b]
 
 Por que exatamente fizemos isso?","[b]“哈哈哈。”[/b]
@@ -12692,9 +12692,9 @@ EVENT_BAPHOMET_REW6,"[i]""HA HA HA.""[/i]
 [b][a:shake]„DU NARR!“[/a][/b]
 
 {catname} stirbt.","[i]""AH AH AH.""[/i]
- 
+
 [b][a:shake]""FOLLE!""[/a][/b]
- 
+
 {catname} muore.","[i]""HA HA HA.""[/i]
 
 [b][a:shake]""TOLICE!""[/a][/b]
@@ -12733,7 +12733,7 @@ Von jetzt an wirst du nichts als Tragödien erleiden!“[/i]
 
 Ein kalter Schauer läuft {catname} den Rücken herunter, als {he} weitergeht.","[i]""Avresti fatto meglio ad accettare il patto!
 Adesso la sciagura ti tormenterà!""[/i]
- 
+
 Un brivido attraversa la spina dorsale di {catname} mentre sgattaiola via.","[i]""Teria sido melhor se você tivesse feito um acordo!
 Agora a tragédia lhe atormentará!""[/i]
 
@@ -12767,7 +12767,7 @@ EVENT_ABEGGAR_QUES,"A beggar with sad eyes holds up a small cardboard sign to {c
 [i]«&nbsp;Une pièce, s'il te plaît&nbsp;?&nbsp;»[/i]","Ein Bettler blickt {catname} traurig an und hält ein Schild in die Höhe.
 
 [i]„Hast du vielleicht ein paar Münzen übrig?“[/i]","Un mendicante dagli occhi tristi mostra un piccolo cartello di cartone a {catname}.
- 
+
 [i]""Hai delle monete da darmi, per favore?""[/i]","Um mendigo com olhos tristes segura uma pequena placa de papelão para {catname}.
 
 [i]""Você poderia me dar algumas moedas, por favor?""[/i]","一个满眼悲伤的乞丐举起一块小纸板牌子递给{catname}。
@@ -12793,7 +12793,7 @@ EVENT_ABEGGAR_REW2_N,,,,,,,,
 EVENT_BEGGAR_5_ANSW,Donate,,Donar,Faire un don,Spenden,Dona,Doar,捐赠
 EVENT_BEGGAR_10_ANSW,Donate,,Donar,Faire un don,Spenden,Dona,Doar,捐赠
 EVENT_BEGGAR_15_ANSW,Donate,,Donar,Faire un don,Spenden,Dona,Doar,捐赠
-EVENT_BEGGAR_NOTENOUGHMONEY,"{catname} reaches into {his} pocket to hand over the money, and realizes {he} does not have enough! 
+EVENT_BEGGAR_NOTENOUGHMONEY,"{catname} reaches into {his} pocket to hand over the money, and realizes {he} does not have enough!
 
 The beggar scowls at you for getting their hopes up.",,"{catname} se mete la pata en el bolsillo para darle el dinero, pero se da cuenta de que no tiene suficiente.
 
@@ -12810,7 +12810,7 @@ O mendigo olha de volta com uma cara feia por você ter criado falsas esperança
 乞丐怒视着你，觉得你是在给他们希望。"
 EVENT_BEGGAR_NOTENOUGHMONEY_M,,,,,,,,
 EVENT_BEGGAR_NOTENOUGHMONEY_F,,,,,,,,
-EVENT_BEGGAR_NOTENOUGHMONEY_N,"{catname} reaches into their pocket to hand over the money, and realizes they do not have enough! 
+EVENT_BEGGAR_NOTENOUGHMONEY_N,"{catname} reaches into their pocket to hand over the money, and realizes they do not have enough!
 
 The beggar scowls at you for getting their hopes up.",,"{catname} se mete la pata en el bolsillo para darle el dinero, pero se da cuenta de que no tiene suficiente.
 
@@ -13491,7 +13491,7 @@ EVENT_MIRAGE_REW6_M,,,,,,,,
 EVENT_MIRAGE_REW6_F,,,,,,,,
 EVENT_MIRAGE_REW6_N,,,,,,,,
 EVENT_OASIS_NAME,Oasis,,Oasis,Oasis,Oase,Oasi,Oásis,绿洲
-EVENT_OASIS_QUES,"{catname} finds an oasis with a small shaded pool of water. 
+EVENT_OASIS_QUES,"{catname} finds an oasis with a small shaded pool of water.
 
 {catname}'s dry throat longs for a wet reprieve from the endless dry heat of the desert...",,"{catname} encuentra un oasis con una pequeña charca a la sombra.
 
@@ -14022,7 +14022,7 @@ Le cadavre sans vie appartenant à {catname} est rejeté au sol et la momie reto
 Die Mumie beißt {catname} in den Schädel und verteilt {his}e Gehirnmasse im gesamten Raum.
 
 Die Mumie wirft den leblosen Körper von {catname} beiseite und legt sich zurück in ihren Sarg&nbsp;…","[b][i]Come osi disturbare il mio sonno?[/i][/b]
- 
+
 La mummia si apre la via per il cranio di {catname} coi denti, sputando materia cerebrale per tutta la stanza.
 
 Il corpo privo di vita di {catname} viene lanciato a terra e la mummia torna al suo sonno eterno...","[b][i]Como ousa perturbar meu sono![/i][/b]
@@ -14608,7 +14608,7 @@ EVENT_ELEPHANTSFOOTEVENCLOSER_REW2,"Time seems to drag on, and {catname} is lost
 EVENT_ELEPHANTSFOOTEVENCLOSER_REW2_M,,,,,,,,
 EVENT_ELEPHANTSFOOTEVENCLOSER_REW2_F,,,,,,,,
 EVENT_ELEPHANTSFOOTEVENCLOSER_REW2_N,,,,,,,,
-EVENT_ELEPHANTSFOOTEVENCLOSER_REW3,"{catname} can no longer feel the heat. {He} IS heat. 
+EVENT_ELEPHANTSFOOTEVENCLOSER_REW3,"{catname} can no longer feel the heat. {He} IS heat.
 
 {catname} finally manages to turn away from the glowing heap, a small cloud of steam following in {his} wake.
 ",,"{catname} ya no nota el calor, porque ahora su propio cuerpo está hecho de calor.
@@ -14630,7 +14630,7 @@ EVENT_ELEPHANTSFOOTEVENCLOSER_REW3_M,,,,,,"{catname} non può più avvertire il 
 EVENT_ELEPHANTSFOOTEVENCLOSER_REW3_F,,,,,,"{catname} non può più avvertire il calore. Adesso è LEI il calore.
 
 {catname} riesce finalmente a voltare le spalle all'ammasso luminoso, con una piccola nuvola di vapore che segue il suo passaggio.",,
-EVENT_ELEPHANTSFOOTEVENCLOSER_REW3_N,"{catname} can no longer feel the heat. They ARE heat. 
+EVENT_ELEPHANTSFOOTEVENCLOSER_REW3_N,"{catname} can no longer feel the heat. They ARE heat.
 
 {catname} finally manages to turn away from the glowing heap, a small cloud of steam following in their wake.
 ",,"{catname} ya no nota el calor, porque ahora su propio cuerpo está hecho de calor.
@@ -14644,7 +14644,7 @@ Al fin logra alejarse de la masa resplandeciente, dejando una nubecilla de vapor
 {catname} riesce finalmente a voltare le spalle all'ammasso luminoso, con una piccola nuvola di vapore che segue il suo passaggio.",,"{catname}已感受不到炽热。他们就是热量。
 
 {catname}终于设法转身远离发光的堆积物，一团小蒸汽尾随其后。"
-EVENT_ELEPHANTSFOOTEVENCLOSER_REW4,"Sweat and blood are steaming out of {catname}'s fur like water off a hot iron. {catname} slumps to the floor unconscious, {his} body ravaged by the radiation. 
+EVENT_ELEPHANTSFOOTEVENCLOSER_REW4,"Sweat and blood are steaming out of {catname}'s fur like water off a hot iron. {catname} slumps to the floor unconscious, {his} body ravaged by the radiation.
 
 The other cats hastily drag {him} away to safety.
 ",,"Del pelaje de {catname} emana un vapor de sudor y sangre como si se tratara del agua de una plancha. {catname} se derrumba y pierde el conocimiento debido a los estragos de la radiación.
@@ -14874,7 +14874,7 @@ EVENT_MYSTERIOUSSTRANGER_QUES,"[i]Would you like to play a game? Just place your
 {catname} jette un œil sous la cape en patchwork de l'inconnu, mais sans réussir à discerner ce qui s'y cache. Les chats sont quand même très rapides... {catname} pourrait l'emporter&nbsp;!","[i]„Wie wäre es mit einem Spiel? Leg einfach deine Tatze hierhin&nbsp;…“[/i]
 
 {catname} versucht zu erkennen, was sich unter dem Mantel des Fremden verbirgt, kann aber nichts erkennen. {catname} ist sich {his}er Schnelligkeit sicher&nbsp;… Bestimmt kann {he} gewinnen!","[i]Ti va di giocare? Posiziona qui la tua zampa e iniziamo...[/i]
- 
+
 {catname} sbircia sotto la cappa rappezzata dello straniero ma non riesce a scorgere cosa si cela all'interno. I gatti sono piuttosto veloci, però... potrebbe vincere!","[i]Gostaria de jogar um jogo? Basta colocar sua pata aqui e começaremos...[/i]
 
 {catname} espreita por baixo da capa remendada do estranho, mas não consegue ver o que está escondido ali. Gatos são bem rápidos... Talvez seja possível ganhar!","[i]想玩个游戏吗？只需把爪子放在这里，我们就开始……[/i]
@@ -14946,10 +14946,10 @@ EVENT_MYSTERIOUSSTRANGER_REW3,"{catname} concentrates on the stranger's movement
 
 [i]速度不够快，小猫咪！[/i]"
 EVENT_MYSTERIOUSSTRANGER_REW3_M,,,,,,"{catname} si concentra sui movimenti dello straniero, ma viene colto di sorpresa e il coltello esegue un taglio netto, staccandogli le dita!
- 
+
 [i]Non sei stato veloce a sufficienza, piccolo felino![/i]",,
 EVENT_MYSTERIOUSSTRANGER_REW3_F,,,,,,"{catname} si concentra sui movimenti dello straniero, ma viene colta di sorpresa e il coltello esegue un taglio netto, staccandole le dita!
- 
+
 [i]Non sei stato veloce a sufficienza, piccola felina![/i]",,
 EVENT_MYSTERIOUSSTRANGER_REW3_N,,,,,,"{catname} si concentra sui movimenti dello straniero, ma si lascia cogliere di sorpresa e il coltello esegue un taglio netto, staccando le sue dita!
   [i]La tua zampa non è stata veloce a sufficienza![/i]",,
@@ -14973,9 +14973,9 @@ L'inconnu tend la main et attrape {catname} par la patte. {He} n'a pas d'autre c
 
 Der Fremde packt den Arm von {catname} und zwingt {him} dazu, noch einmal zu spielen!
 ","Il coltello si abbatte su {catname}, tagliando via un suo dito!
- 
+
 [i]Ci stai provando, almeno? Stavolta presta attenzione![/i]
- 
+
 Lo straniero afferra con decisione la zampa di {catname}, che dovrà giocare di nuovo!","A faca desce com força e corta o dedo de {catname}!
 
 [i]Você está mesmo tentando?! Preste atenção desta vez![/i]
@@ -15140,7 +15140,7 @@ Das Blut von {catname} fließt auf den Boden und die Schüssel ist beinahe bis z
 
 [i]„Mehr hast du nicht zu geben? Was für eine Beleidigung! Ich weiß, dass du noch viel, viel mehr hast!“[/i]
 ","Il sangue di {catname} macchia il pavimento e la ciotola è piena quasi fino all'orlo...
- 
+
 [i]Tutto qui quel che hai da offrire? È un insulto! Lo so che ne hai molto, molto di più!""[/i]","
 O sangue de {catname} mancha o chão e a tigela está praticamente cheia...
 
@@ -15162,7 +15162,7 @@ EVENT_DEMONICIDOL_REW7,"{catname} nearly passes out as {he} drains {his} blood i
 
 [i]„Ja, gib mir alles! Perfekt!“[/i] Das dämonische Idol grinst zufrieden beim Anblick der Schüssel voller Blut.
 ","{catname} quasi sviene mentre il suo sangue cola nella ciotola...
- 
+
 [i]""Sì, lo voglio tutto! Perfetto!""[/i] L'idolo demoniaco sghignazza di piacere alla vista della ciotola piena del sangue di {catname}.","{catname} quase desmaia enquanto despeja seu sangue na tigela...
 
 [i]""Sim, dê tudo! Perfeito!""[/i] O ídolo demoníaco sorri com prazer ao ver a tigela cheia do sangue de {catname}.","{catname} 几乎晕倒，因为 {he} 将 {his} 血液抽入碗中...
@@ -15197,7 +15197,7 @@ Le bol dans lequel {catname} a versé son sang coagule et prend une forme étran
 
 Die Schüssel mit dem Blut von {catname} gerinnt und verzerrt sich in eine unheimliche Form. Die Statue übergießt {catname} mit der merkwürdigen neuen Flüssigkeit.
 ","[i]""La tua dedizione mi compiace! Questo è un sacrificio glorioso!""[/i]
- 
+
 La ciotola col sangue di {catname} si coagula e assume una strana forma. La statua riversa il contenuto della ciotola sulla testa di {catname}.","[i]""Seu comprometimento me satisfaz! Um sacrifício glorioso!""[/i]
 
 A tigela com o sangue de {catname} coagula e assume uma forma estranha. A estátua derrama o conteúdo da tigela sobre a cabeça de {catname}.","[i]""我对你的承诺感到满意！一个辉煌的牺牲！""[/i]
@@ -16355,7 +16355,7 @@ EVENT_MYSTERIOUSCREATURE_REW1_F,,,,,,,,
 EVENT_MYSTERIOUSCREATURE_REW1_N,,,,,,,,
 EVENT_MYSTERIOUSCREATURE_REW2,"The creature howls at {catname} in silent agony.
 
-{catname} looks down as {his} body rapidly mutates... 
+{catname} looks down as {his} body rapidly mutates...
 
 Was this some kind of blessing?",inspect good rare,"Durante su agonía silenciosa, la criatura le dirige un aullido a {catname}.
 
@@ -18977,7 +18977,7 @@ Percossi e sanguinanti, i gatti riescono a malapena a sfuggire alla loro furia."
 Espancados e ensanguentados, os gatos mal conseguem escapar de sua fúria.","当它们进入巢穴时，猫咪们突然遭到迅猛龙的伏击！
 
 被打得满身是血，猫咪们勉强逃脱了它们的怒火。"
-EVENT_NESTOFEGGS_REW9,"{catname} kisses an egg and it begins to hatch! 
+EVENT_NESTOFEGGS_REW9,"{catname} kisses an egg and it begins to hatch!
 
 The baby raptor mistakes {catname} for its mother and follows {him}!",kiss good,"{catname} le da un beso a uno de los huevos ¡y empieza a eclosionar!
 
@@ -19384,7 +19384,7 @@ EVENT_COMPUTERCONSOLE_QUES,{catname} finds a computer console with an array of b
 EVENT_COMPUTERCONSOLE_QUES_M,,,,,,,,
 EVENT_COMPUTERCONSOLE_QUES_F,,,,,,,,
 EVENT_COMPUTERCONSOLE_QUES_N,,,,,,,,
-EVENT_COMPUTERCONSOLE_REW1,"{catname} presses buttons until the display reads: 
+EVENT_COMPUTERCONSOLE_REW1,"{catname} presses buttons until the display reads:
 
 [b]Turn off robots?[/b]
 
@@ -19396,7 +19396,7 @@ EVENT_COMPUTERCONSOLE_REW1,"{catname} presses buttons until the display reads:
 
 [b]Désactiver les robots&nbsp;?[/b]
 
-{catname} confirme la commande&nbsp;!","{catname} drückt auf den Knöpfen herum, bis Folgendes auf dem Display steht: 
+{catname} confirme la commande&nbsp;!","{catname} drückt auf den Knöpfen herum, bis Folgendes auf dem Display steht:
 
 [b]Roboter ausschalten?[/b]
 
@@ -20630,7 +20630,7 @@ EVENT_MYSTERIOUSOBELISK_REW3,"{catname} touches the obelisk and a powerful wave 
 EVENT_MYSTERIOUSOBELISK_REW3_M,,,,,,,,
 EVENT_MYSTERIOUSOBELISK_REW3_F,,,,,,,,
 EVENT_MYSTERIOUSOBELISK_REW3_N,,,,,,,,
-EVENT_MYSTERIOUSOBELISK_REW4,"{catname} reaches out and touches the obelisk and it begins to glow and shake... 
+EVENT_MYSTERIOUSOBELISK_REW4,"{catname} reaches out and touches the obelisk and it begins to glow and shake...
 
 {He} tries to pull {his} paw away but {catname}'s body is overwhelmed by the powerful energy emanating from the obelisk.
 
@@ -20661,7 +20661,7 @@ Todas as habilidades de {catname} foram redefinidas!","{catname}伸手触摸方�
 {catname}的所有能力都已重新分配！"
 EVENT_MYSTERIOUSOBELISK_REW4_M,,,,,,,,
 EVENT_MYSTERIOUSOBELISK_REW4_F,,,,,,,,
-EVENT_MYSTERIOUSOBELISK_REW4_N,"{catname} reaches out and touches the obelisk and it begins to glow and shake... 
+EVENT_MYSTERIOUSOBELISK_REW4_N,"{catname} reaches out and touches the obelisk and it begins to glow and shake...
 
 They try to pull their paw away but {catname}'s body is overwhelmed by the powerful energy emanating from the obelisk.
 
@@ -21327,7 +21327,7 @@ Aufgrund der Geräusche glaubt {catname}, dass {he} jetzt im nächsten Ereignis 
 
 A giudicare dalla reazione della capsula, {catname} immagina di aver ottenuto un qualche tipo di potenziamento per la prossima battaglia...","A câmara emite um sinal sonoro triunfante e, em seguida, com um clarão de luz, teletransporta {catname}!
 
-Com base na reação da câmara, {catname} deduz que, de alguma forma, isso lhe fortaleceu para o próximo evento...","这个密室发出胜利的鸣响，然后在一阵耀眼的光芒中传送了 {catname}！  
+Com base na reação da câmara, {catname} deduz que, de alguma forma, isso lhe fortaleceu para o próximo evento...","这个密室发出胜利的鸣响，然后在一阵耀眼的光芒中传送了 {catname}！
 
 根据密室的反应，{catname} 猜测 {he} 在某种程度上获得了下一个事件的力量……"
 EVENT_MYSTERIOUSCHAMBER_REW10_M,,,,,,,,
@@ -21338,7 +21338,7 @@ Based on how the chamber reacted, {catname} guesses that they have been empowere
 
 A juzgar por la reacción de la cámara, {catname} sospecha que se ha fortalecido de alguna forma para el siguiente evento.",,"Die Kammer piepst triumphierend auf und ein grelles Licht teleportiert sie {catname}!
 
-Aufgrund der Geräusche glaubt {catname}, dass das nächste Ereignis auf jeden Fall positiv ausgehen wird&nbsp;…",,,"这个房间发出胜利的鸣响，随后在一阵明亮的光芒中将 {catname} 传送走了！  
+Aufgrund der Geräusche glaubt {catname}, dass das nächste Ereignis auf jeden Fall positiv ausgehen wird&nbsp;…",,,"这个房间发出胜利的鸣响，随后在一阵明亮的光芒中将 {catname} 传送走了！
 
 根据房间的反应，{catname} 猜测他们在某种程度上已经为下一个事件获得了力量……"
 EVENT_MYSTERIOUSCHAMBER_REW11,"The doors slam shut and {catname} is whisked away to a new place...
@@ -21420,7 +21420,7 @@ Die Maschine fängt an laut zu Piepsen und zu Surren&nbsp;…","{catname} trova 
 
 L'apparecchio emette una serie di bip rumorosi e di suoni meccanici...","{catname} encontra um interruptor na parte de trás e o liga.
 
-A máquina emite uma série de bipes altos e sons mecânicos...","{catname} 在后面找到一个开关并打开它。  
+A máquina emite uma série de bipes altos e sons mecânicos...","{catname} 在后面找到一个开关并打开它。
 
 它发出一系列响亮的哔哔声和机械声……"
 EVENT_MYSTERIOUSMACHINE_REW2_M,,,,,,,,
@@ -21978,7 +21978,7 @@ EVENT_DEATH_REW4,"[i]""Arrggh you tricked me! Fine! You get to live this time.""
 {catname} affiche un sourire en coin rusé suite à un tel haut fait, alors que la Mort, elle, part furieuse.","[i]„Argh, du hast mich hereingelegt! Na gut! Dieses Mal lasse ich dich leben.“[/i]
 
 {catname} grinst selbstzufrieden, als der Tod wütend davonstürmt.","[i]""Arrggh, mi hai ingannato! E va bene! Per stavolta potrai vivere.""[/i]
- 
+
 {catname} sogghigna con compiacimento per il suo successo, mentre la Morte se ne va infuriato.","[i]""Argh, você me enganou! Muito bem! Desta vez, viverá.""[/i]
 
 {catname} sorri presunçosamente por sua conquista enquanto a Morte se afasta furiosa.","[i]“啊啊，你骗了我！好吧！这次你可以活着离开。”[/i]
@@ -22232,7 +22232,7 @@ QEVENT_WALLOFFLESH_QUES1,"A giant wall of flesh and pulsating veins blocks the w
 {catname} remarque qu'il y a une étrange fente en forme de cube dans le mur.","Eine riesige Mauer aus Fleisch und pulsierenden Adern blockiert den Weg von {catname}.
 
 {He} bemerkt eine merkwürdig quaderförmige Aussparung in der Wand.","Un gigantesco muro di carne e vene pulsanti sbarra la strada a {catname}.
- 
+
 {catname} nota uno strano alloggiamento a forma di cubo nella parete.","Uma gigantesca parede de carne e veias pulsantes bloqueia o caminho à frente de {catname}.
 
 Parece haver uma estranha reentrância em forma de cubo na parede.",{catname} 面前是一堵巨大的血肉和跳动的血管墙。{He} 注意到墙上有一个奇怪的立方体状凹槽。
@@ -22259,7 +22259,7 @@ QEVENT_WALLOFFLESH_QUES2_F,,,,,,,,
 QEVENT_WALLOFFLESH_QUES2_N,,,,,,,,
 QEVENT_WALLOFFLESH_BITE_ANSW,Bite Flesh,,Morder la carne,Mordre la chair,Ins Fleisch beißen,Mordi la carne,Morder carne,咬血肉
 QEVENT_WALLOFFLESH_BITE2_ANSW,Bite Veins,,Morder las venas,Mordre les veines,In die Adern beißen,Mordi le vene,Morder veias,咬血管
-QEVENT_WALLOFFLESH_REW1,"{catname} tears off a hunk of soft flesh... 
+QEVENT_WALLOFFLESH_REW1,"{catname} tears off a hunk of soft flesh...
 
 It tastes great!
 
@@ -22386,7 +22386,7 @@ QEVENT_MEATALTAR_SACRIFICE_ANSW_M,,,,,,,,
 QEVENT_MEATALTAR_SACRIFICE_ANSW_F,,,,,,,,
 QEVENT_MEATALTAR_SACRIFICE_ANSW_N,,,,,,,,
 QEVENT_MEATALTAR_REW1,"{Catname} lies upon the sacrificial slab, and the room starts to rumble...
-Suddenly, the altar inverts, sucking {Catname} deep down into a pit of throbbing veins and sinew. 
+Suddenly, the altar inverts, sucking {Catname} deep down into a pit of throbbing veins and sinew.
 The walls around the remaining cats undulate and unfurl, beckoning them deeper into the [a:shake]THROBBING DOMAIN[/a]! ",you have GuillotinasHead item,"{Catname} se tiende sobre la piedra de sacrificios y la sala empieza a vibrar...
 De pronto, el altar se invierte y absorbe a {Catname} a un foso de venas y nervios palpitantes.
 Los muros que rodean al resto de los gatos se ondulan y se despliegan, atrayéndolos hacia las profundidades del [a:shake]Dominio Palpitante[/a]. ","{catname} se couche sur la dalle sacrificielle et toute la pièce se met à gronder...
@@ -22403,7 +22403,7 @@ As paredes ao redor dos gatos ondulam e se desenrolam, convidando-os para as pro
 QEVENT_MEATALTAR_REW1_M,,,,,,,,
 QEVENT_MEATALTAR_REW1_F,,,,,,,,
 QEVENT_MEATALTAR_REW1_N,,,,,,,,
-QEVENT_MEATALTAR_REW2,"{Catname} lies sacrificed on top of the altar. The altar is pleased, but not satisfied. It desires something specific... 
+QEVENT_MEATALTAR_REW2,"{Catname} lies sacrificed on top of the altar. The altar is pleased, but not satisfied. It desires something specific...
 
 The remaining cats feel strengthened, and one of them begrudgingly pulls on {catname}'s corpse, salvaging it for useful parts.
 ",sacrifice good,"El cuerpo sacrificado de {Catname} yace sobre el altar, que está conforme, aunque no satisfecho del todo. Desea algo concreto...
@@ -22416,7 +22416,7 @@ Les autres membres du groupe se sentent renforcés. L'un d'entre eux s'approprie
 Die übrigen Katzen fühlen sich stärker und eine von ihnen durchsucht widerwillig die Überreste von {catname} nach nützlichen Gegenständen.
 ","{Catname} giace in cima all'altare dopo il sacrificio. L'altare è compiaciuto, ma non soddisfatto. Esso brama qualcosa di specifico...
 
-I gatti rimasti si sentono rinvigoriti, e uno di loro tira via il cadavere di {catname} a malincuore, recuperando le parti ancora utili.","{Catname} jaz sobre o altar após seu sacrifício. O altar foi agraciado, porém não está satisfeito. Ele deseja algo específico... 
+I gatti rimasti si sentono rinvigoriti, e uno di loro tira via il cadavere di {catname} a malincuore, recuperando le parti ancora utili.","{Catname} jaz sobre o altar após seu sacrifício. O altar foi agraciado, porém não está satisfeito. Ele deseja algo específico...
 
 Os gatos restantes se sentem fortalecidos, e um deles relutantemente puxa o corpo de {catname}, recuperando-o para salvar suas partes úteis.","{Catname} 躺在祭坛上被献祭。祭坛满意，但不满足。它渴望某个特定东西...
 
@@ -22424,7 +22424,7 @@ Os gatos restantes se sentem fortalecidos, e um deles relutantemente puxa o corp
 QEVENT_MEATALTAR_REW2_M,,,,,,,,
 QEVENT_MEATALTAR_REW2_F,,,,,,,,
 QEVENT_MEATALTAR_REW2_N,,,,,,,,
-QEVENT_MEATALTAR_REW3,"{Catname} lies sacrificed on top of the altar. The altar is pleased, but not satisfied. It desires something specific... 
+QEVENT_MEATALTAR_REW3,"{Catname} lies sacrificed on top of the altar. The altar is pleased, but not satisfied. It desires something specific...
 
 The remaining cats feel great though!
 ",sacrifice good rare,"El cuerpo sacrificado de {Catname} yace sobre el altar, que está conforme, aunque no satisfecho del todo. Desea algo concreto...
@@ -22505,9 +22505,9 @@ Le reste du groupe s'enfuit, la queue entre les jambes et couvert de honte.","{c
 
 Die übrigen Katzen fliehen beschämt mit eingezogenen Schwänzen.
 ","Non appena {catname} esala l'ultimo respiro, il suo cadavere si risolleva contro di loro con un ululato gutturale.
- 
+
 [i]""Perché mi avete fatto questo? Eravamo amici!""[/i]
- 
+
 I gatti rimanenti fuggono in preda alla vergogna con la coda tra le zampe.","O último suspiro de {catname} mal escapa de sua boca antes que seu cadáver salte sobre os outros com um uivo gutural.
 
 [i]""Por que vocês fizeram isso comigo? Nós éramos amigos!""[/i]
@@ -22919,7 +22919,7 @@ QEVENT_THEHEAD_REW6_M,,,,,,,,
 QEVENT_THEHEAD_REW6_F,,,,,,,,
 QEVENT_THEHEAD_REW6_N,,,,,,,,
 QEVENT_BROKENTIMEMACHINE_NAME,Time Machine,,Máquina del tiempo,Machine temporelle,Die Zeitmaschine,Macchina del Tempo,Máquina do Tempo,时间机器
-QEVENT_BROKENTIMEMACHINE_QUES,"A strange machine stands before {catname}. 
+QEVENT_BROKENTIMEMACHINE_QUES,"A strange machine stands before {catname}.
 
 {catname} recalls Dr. Beanies mentioning something about this.",,"{catname} encuentra una extraña máquina.
 
@@ -22937,7 +22937,7 @@ Recuerda que el Dr. Beanies mencionó algo acerca de esto.","{catname} se trouve
 QEVENT_BROKENTIMEMACHINE_QUES_M,,,,,,,,
 QEVENT_BROKENTIMEMACHINE_QUES_F,,,,,,,,
 QEVENT_BROKENTIMEMACHINE_QUES_N,,,,,,,,
-QEVENT_BROKENTIMEMACHINE_REW1,"{catname} extracts an empty Cryogenic Time Chamber from the time machine. 
+QEVENT_BROKENTIMEMACHINE_REW1,"{catname} extracts an empty Cryogenic Time Chamber from the time machine.
 
 {catname} believes Dr. Beanies should know what to do with it.",,"{catname} extrae una cámara temporal criogénica vacía de la máquina del tiempo.
 
@@ -22955,7 +22955,7 @@ Cree que el Dr. Beanies sabrá qué hacer con ella.","{catname} extrait une Cryo
 QEVENT_BROKENTIMEMACHINE_REW1_M,,,,,,,,
 QEVENT_BROKENTIMEMACHINE_REW1_F,,,,,,,,
 QEVENT_BROKENTIMEMACHINE_REW1_N,,,,,,,,
-QEVENT_BROKENTIMEMACHINE_REW2,"{catname} examines the machine. It does not appear to be working. 
+QEVENT_BROKENTIMEMACHINE_REW2,"{catname} examines the machine. It does not appear to be working.
 
 {catname} thinks Dr. Beanies may know how to fix it.",,"{catname} examina la máquina, pero no parece que funcione.
 
