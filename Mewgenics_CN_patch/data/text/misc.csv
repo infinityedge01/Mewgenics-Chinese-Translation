@@ -176,7 +176,7 @@ WORLDEVENT_SUFFER_INJURY,{Catname} suffered {injury}!,,{Catname} se ha lesionado
 WORLDEVENT_SUFFER_INJURY_M,,,,,,,,
 WORLDEVENT_SUFFER_INJURY_F,,,,,,,,
 WORLDEVENT_SUFFER_INJURY_N,,,,,,,,
-WORLDEVENT_CURE_INJURY,{Catname's} {injury} was cured!,,{Catname} se ha recuperado de esto: ¡{injury}!,{Catname} a perdu {injury}&nbsp;!,{injury} von {Catname} wurde geheilt!,La ferita '{injury}' di {Catname} è stata curata!,O ferimento {injury} de {Catname's} foi curado!,{Catname} 的 {injury} 已被治愈！
+WORLDEVENT_CURE_INJURY,{Catname's} {injury} was cured!,,{Catname} se ha recuperado de esto: ¡{injury}!,{Catname} a perdu {injury}&nbsp;!,{injury} von {Catname} wurde geheilt!,La ferita '{injury}' di {Catname} è stata curata!,O ferimento {injury} de {Catname's} foi curado!,{Catname's} 的 {injury} 已被治愈！
 WORLDEVENT_CURE_INJURY_M,,,,,,,,
 WORLDEVENT_CURE_INJURY_F,,,,,,,,
 WORLDEVENT_CURE_INJURY_N,,,,,,,,
@@ -246,7 +246,7 @@ HOUSE_INTERSTITIAL_CURE_DISORDER,{Catname} lost {disorder}!,,{Catname} ya no tie
 HOUSE_INTERSTITIAL_CURE_DISORDER_M,,,,,,,,
 HOUSE_INTERSTITIAL_CURE_DISORDER_F,,,,,,,,
 HOUSE_INTERSTITIAL_CURE_DISORDER_N,,,,,,,,
-HOUSE_INTERSTITIAL_CURE_INJURY,{Catname's} {injury} was miraculously cured!,,{Catname} se ha recuperado milagrosamente de esto: ¡{injury}!,{Catname} a perdu {injury}&nbsp;!,{injury} von {Catname} wurde wie durch ein Wunder geheilt!,La ferita '{injury}' di {Catname} è miracolosamente guarita!,O ferimento {injury} de {Catname's} foi curado milagrosamente!,{Catname} 的 {injury} 奇迹般地痊愈了！
+HOUSE_INTERSTITIAL_CURE_INJURY,{Catname's} {injury} was miraculously cured!,,{Catname} se ha recuperado milagrosamente de esto: ¡{injury}!,{Catname} a perdu {injury}&nbsp;!,{injury} von {Catname} wurde wie durch ein Wunder geheilt!,La ferita '{injury}' di {Catname} è miracolosamente guarita!,O ferimento {injury} de {Catname's} foi curado milagrosamente!,{Catname's} 的 {injury} 奇迹般地痊愈了！
 HOUSE_INTERSTITIAL_CURE_INJURY_M,,,,,,,,
 HOUSE_INTERSTITIAL_CURE_INJURY_F,,,,,,,,
 HOUSE_INTERSTITIAL_CURE_INJURY_N,,,,,,,,

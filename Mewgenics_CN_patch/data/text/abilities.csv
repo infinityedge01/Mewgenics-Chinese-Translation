@@ -183,10 +183,10 @@ ABILITY_PLAYDEAD2_DESC,Down yourself. You don't get injured. Revive at the end o
 在下一回合结束时以满生命值复活。
 "
 ABILITY_REFLECT_NAME,Reflect,,Devolución,Renvoi,Reflektor,Riflessione,Reflexão,反射
-ABILITY_REFLECT_DESC,Reflect the next projectile that hits you back at the attacker.,,Devuelve el siguiente proyectil que golpee a esta unidad.,Renvoyez le prochain projectile qui vous vise à l'envoyeur.,"Reflektiere das nächste Geschoss, das dich treffen würde, zurück zum Angreifer.",Rispedisci il prossimo proiettile che ti colpisce verso chi ti ha attaccato.,Reflita o próximo projétil que acertar você de volta para o agressor.,"将下一次击中你的投射物反弹回攻击者。
+ABILITY_REFLECT_DESC,Reflect the next projectile that hits you back at the attacker.,,Devuelve el siguiente proyectil que golpee a esta unidad.,Renvoyez le prochain projectile qui vous vise à l'envoyeur.,"Reflektiere das nächste Geschoss, das dich treffen würde, zurück zum Angreifer.",Rispedisci il prossimo proiettile che ti colpisce verso chi ti ha attaccato.,Reflita o próximo projétil que acertar você de volta para o agressor.,"将下一次击中你的投射物反射回攻击者。
 "
 ABILITY_REFLECT2_DESC,You or another unit reflects the next projectile that hits them back at the attacker.,,Devuelve el siguiente proyectil que golpee a esta unidad o a otra.,Vous ou une autre unité renvoyez le prochain projectile qui vous vise à l'envoyeur.,"Du oder eine andere Einheit reflektiert das nächste Geschoss, das treffen würde, zurück zum Angreifer.",Tu o un'altra unità rispedite il prossimo proiettile che vi colpisce verso chi vi ha attaccato.,Você ou outra unidade reflete o próximo projétil que acertar vocês de volta para o agressor.,"你或另一个单位将下一次击中他
-们的投射物反弹回攻击者。"
+们的投射物反射回攻击者。"
 ABILITY_HEALINGBOLT_NAME,Healing Bolt,,Rayo curativo,Éclair guérisseur,Heilender Blitz,Fulmine Curativo,Raio Curativo,治疗闪电
 ABILITY_HEALINGBOLT_DESC,A lightning bolt that heals and has a chance to Stun.,,Un rayo que cura y tiene una probabilidad de aturdir.,Un éclair qui soigne et a une chance d'étourdir.,"Ein Blitz, der Leben wiederherstellt und manchmal Betäubung verursacht.",Un fulmine che cura e ha la possibilità di infliggere Stordimento.,Um raio que cura e possui uma chance de atordoar.,"一道能治疗并有几率使目标眩晕的闪电。
 "
@@ -877,8 +877,8 @@ ABILITY_BLOW_DESC,Blow units in a cone back 1 tile.,,Hace retroceder 1 casilla a
 ABILITY_BLOW2_DESC,Blow units in a larger cone back 1 tile.,,Hace retroceder 1 casilla a las unidades en un área cónica más grande.,"Souffle en large cône, repousse les unités d'une case.",Stoße Einheiten in einem größeren kegelförmigen Bereich vor dir 1&nbsp;Feld zurück.,Fai arretrare di 1 casella le unità disposte in un cono più ampio.,Sopre unidades 1 espaço para trás em um cone maior.,"将更大锥形范围内的单位向后推1格。
 "
 ABILITY_TOAST_NAME,Toast,,Tostada,Grillade,Toast,Ustione,Torrada,烤焦
-ABILITY_TOAST_DESC,Inflict Burn 1 on an adjacent unit.,,Inflige +1 de quemadura a una unidad adyacente.,Inflige Brûlure&nbsp;+1&nbsp;sur une unité adjacente.,Verursache bei einer benachbarten Einheit Verbrennung&nbsp;1.,Infliggi Bruciatura 1 a un'unità adiacente.,Aplique queimadura 1 em uma unidade adjacente.,对相邻单位施加1层燃烧效果。
-ABILITY_TOAST2_DESC,Inflict Burn 1 on a unit in range 5.,,Inflige +1 de quemadura a una unidad en un alcance de 5 casillas.,Infligez Confusion&nbsp;+1&nbsp;sur une unité à 5&nbsp;de portée.,"Verursache bei einer Einheit, die höchstens 5&nbsp;Felder entfernt ist, Verbrennung&nbsp;1.",Infliggi Bruciatura 1 a un'unità entro un raggio d'azione di 5 caselle.,Aplique queimadura 1 em uma unidade em alcance 5.,"对5格范围内的单位施加1层燃烧效果。
+ABILITY_TOAST_DESC,Inflict Burn 1 on an adjacent unit.,,Inflige +1 de quemadura a una unidad adyacente.,Inflige Brûlure&nbsp;+1&nbsp;sur une unité adjacente.,Verursache bei einer benachbarten Einheit Verbrennung&nbsp;1.,Infliggi Bruciatura 1 a un'unità adiacente.,Aplique queimadura 1 em uma unidade adjacente.,对相邻单位施加1层灼烧效果。
+ABILITY_TOAST2_DESC,Inflict Burn 1 on a unit in range 5.,,Inflige +1 de quemadura a una unidad en un alcance de 5 casillas.,Infligez Confusion&nbsp;+1&nbsp;sur une unité à 5&nbsp;de portée.,"Verursache bei einer Einheit, die höchstens 5&nbsp;Felder entfernt ist, Verbrennung&nbsp;1.",Infliggi Bruciatura 1 a un'unità entro un raggio d'azione di 5 caselle.,Aplique queimadura 1 em uma unidade em alcance 5.,"对5格范围内的单位施加1层灼烧效果。
 "
 ABILITY_LANDSCAPE_NAME,Landscape,,Paisaje,Paysagiste,Landschaftsgärtnerei,Paesaggio,Paisagem,景观
 ABILITY_LANDSCAPE_DESC,Turn an adjacent tile into a small grass tile.,,Convierte una casilla adyacente en una casilla de hierba pequeña.,Transforme une case adjacente en petite case d'herbe.,Verwandle ein benachbartes Feld in ein kleines Grasfeld.,Trasformi una casella adiacente in una piccola casella d'erba.,Transforme um espaço adjacente em um espaço de grama baixa.,将相邻格子变成小草地。
@@ -890,9 +890,9 @@ ABILITY_ZAP2_DESC,Deal 1 electric damage with a 25% chance to Stun at infinite r
 
 并有25%几率眩晕。"
 ABILITY_SUNBURN_NAME,Sunburn,,Quemadura solar,Coup de soleil,Sonnenbrand,Scottatura,Insolação,晒伤
-ABILITY_SUNBURN_DESC,Inflicts Burn 1 and Blind 1 at infinite range.,,Inflige 1 de quemadura y 1 de ceguera con alcance ilimitado.,Inflige Brûlure&nbsp;+1&nbsp;et Cécité&nbsp;+1. Portée infinie.,Verursache Verbrennung&nbsp;1 und Blindheit&nbsp;1 mit unendlicher Reichweite.,Infliggi Bruciatura 1 e Accecamento 1 a raggio d'azione infinito.,Aplique queimadura 1 e cegueira 1 com alcance infinito.,"在无限射程内施加1层燃烧和1层致盲。
+ABILITY_SUNBURN_DESC,Inflicts Burn 1 and Blind 1 at infinite range.,,Inflige 1 de quemadura y 1 de ceguera con alcance ilimitado.,Inflige Brûlure&nbsp;+1&nbsp;et Cécité&nbsp;+1. Portée infinie.,Verursache Verbrennung&nbsp;1 und Blindheit&nbsp;1 mit unendlicher Reichweite.,Infliggi Bruciatura 1 e Accecamento 1 a raggio d'azione infinito.,Aplique queimadura 1 e cegueira 1 com alcance infinito.,"在无限射程内施加1层灼烧和1层致盲。
 "
-ABILITY_SUNBURN2_DESC,Inflict Burn 1 and Blind 1 in an area at infinite range.,,Inflige 1 de quemadura y 1 de ceguera en un área con alcance ilimitado.,Inflige Brûlure&nbsp;+1&nbsp;et Cécité&nbsp;+1&nbsp;en zone. Portée infinie.,Verursache Verbrennung&nbsp;1 und Blindheit&nbsp;1 in einem bestimmten Bereich mit unendlicher Reichweite.,Infliggi Bruciatura 1 e Accecamento in un'area a raggio d'azione infinito.,Aplique queimadura 1 e cegueira 1 em uma área com alcance infinito.,"在无限射程的区域内施加1层燃烧和1层致盲。
+ABILITY_SUNBURN2_DESC,Inflict Burn 1 and Blind 1 in an area at infinite range.,,Inflige 1 de quemadura y 1 de ceguera en un área con alcance ilimitado.,Inflige Brûlure&nbsp;+1&nbsp;et Cécité&nbsp;+1&nbsp;en zone. Portée infinie.,Verursache Verbrennung&nbsp;1 und Blindheit&nbsp;1 in einem bestimmten Bereich mit unendlicher Reichweite.,Infliggi Bruciatura 1 e Accecamento in un'area a raggio d'azione infinito.,Aplique queimadura 1 e cegueira 1 em uma área com alcance infinito.,"在无限射程的区域内施加1层灼烧和1层致盲。
 "
 ABILITY_COLDSHOULDER_NAME,Cold Shoulder,,Ley del hielo,Froideur,Kalte Schulter,Freddezza,Dar Gelo,冷漠
 ABILITY_COLDSHOULDER_DESC,Deal 1 ice damage and inflict Slow 1 at infinite range.,,Inflige 1 de daño de hielo e inflige 1 de ralentización con alcance ilimitado.,Inflige 1&nbsp;point de dégâts de glace et Lenteur&nbsp;+1. Portée infinie.,Verursache 1&nbsp;Eisschaden und Verlangsamung&nbsp;1 mit unendlicher Reichweite.,Infliggi 1 di danno da ghiaccio e Rallentamento 1 a raggio d'azione infinito.,Cause 1 de dano de gelo e aplique lentidão 1 com alcance infinito.,"在无限射程内造成1点冰霜伤害并施加1层减速。
@@ -1072,7 +1072,7 @@ ABILITY_WISH2_DESC,"Target an area. At the beginning of your next turn, heal all
 此法术会追踪目标。
 [s:.7](每回合可施法一次。)[/s]"
 ABILITY_WITCHHUNT_NAME,Witch Hunt,,Caza de brujas,Chasse aux sorcières,Hexenjagd,Caccia alle Streghe,Caça às bruxas,猎巫行动
-ABILITY_WITCHHUNT_DESC,"Put a bounty on a unit. When that unit dies, its killer gains All Stats Up.",,"Coloca una recompensa sobre la cabeza de una unidad. Cuando esa unidad muere, su asesino obtiene aumento total.","Ouvre une prime sur une unité. Quand elle meurt, l'unité qui l'a tuée obtient Hausse de stats.","Setze ein Kopfgeld auf eine Einheit aus. Wenn diese Einheit stirbt, erhält die Einheit, die sie getötet hat, einen Bonus auf alle Attribute.","Metti una taglia su un'unità. Quando quell'unità muore, chi l'ha uccisa riceve Aumento delle Statistiche.","Coloque uma recompensa em uma unidade. Quando ela morrer, quem a matar obtém todos os atributos aumentados.","对一个单位下悬赏。
+ABILITY_WITCHHUNT_DESC,"Put a bounty on a unit. When that unit dies, its killer gains All Stats Up.",,"Coloca una recompensa sobre la cabeza de una unidad. Cuando esa unidad muere, su asesino obtiene aumento total.","Ouvre une prime sur une unité. Quand elle meurt, l'unité qui l'a tuée obtient Hausse de stats.","Setze ein Kopfgeld auf eine Einheit aus. Wenn diese Einheit stirbt, erhält die Einheit, die sie getötet hat, einen Bonus auf alle Attribute.","Metti una taglia su un'unità. Quando quell'unità muore, chi l'ha uccisa riceve Aumento delle Statistiche.","Coloque uma recompensa em uma unidade. Quando ela morrer, quem a matar obtém todos os atributos aumentados.","对一个单位设下赏金。
 该单位死亡时，
 击杀者获得全属性提升。"
 ABILITY_WITCHHUNT2_DESC,"Put a bounty on a unit. When that unit dies, it becomes meat and its killer gains All Stats Up.
@@ -1080,7 +1080,7 @@ ABILITY_WITCHHUNT2_DESC,"Put a bounty on a unit. When that unit dies, it becomes
 [s:.7](Este hechizo cuesta menos).[/s]","Ouvre une prime sur une unité. Quand elle meurt, elle devient de la viande et l'unité qui l'a tuée obtient Hausse de stats. [s:.7](Coût réduit.)[/s]","Setze ein Kopfgeld auf eine Einheit aus. Wenn diese Einheit stirbt, wird sie zu Fleisch und die Einheit, die sie getötet hat, erhält einen Bonus auf alle Attribute.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Metti una taglia su un'unità. Quando quell'unità muore, diventa carne e chi l'ha uccisa riceve Aumento delle Statistiche.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Coloque uma recompensa em uma unidade. Quando essa unidade morrer, ela se torna carne e quem a matar obtém todos os atributos aumentados.
-[s:.7](Este encantamento custa menos.)[/s]","对一个单位下悬赏。
+[s:.7](Este encantamento custa menos.)[/s]","对一个单位设下赏金。
 该单位死亡时，会变成肉，
 且击杀者获得全属性提升。
 [s:.7](此法术消耗更低。)[/s]"
@@ -1094,7 +1094,7 @@ ABILITY_REVIVE_DESC,Revive a body to 50% HP and cure one of its injuries.,,Resuc
 治愈一处伤势。"
 ABILITY_REVIVE2_DESC,"Revive a body to 100% HP and cure one of its injuries. If it was an enemy, it gets charmed.",,"Resucita un cadáver con el 100 % de PS y cura una de sus lesiones. Si era un enemigo, sufre embrujo.","Réanime un cadavre avec 100&nbsp;% de ses PV et soigne une de ses blessures. Si c'était un ennemi, il subit Envoûtement.","Belebe eine Einheit mit 100&nbsp;% LP wieder und heile eine ihrer Verletzungen. Wenn es sich um einen Gegner handelt, verursache Charme.","Riporti un corpo al 100% di PS e curi una delle sue ferite. Se era un nemico, subisce Fascino.","Reviva um corpo com 100% de saúde e cure um de seus ferimentos. Caso seja um inimigo, ele é enfeitiçado.","复活一个尸体至100%生命值
 并治愈一处伤势。
-如果是敌人，则被魅惑。"
+如果是敌人，则其被魅惑。"
 ABILITY_HOLYLIGHT_NAME,Holy Light,,Luz sagrada,Lumière sainte,Heiliges Licht,Luce Sacra,Luz Divina,圣光
 ABILITY_HOLYLIGHT_DESC,Heal allies and damage enemies in an area. This spell has half effect outside its center.,,Cura a los aliados y daña a los enemigos en un área. Este hechizo tiene la mitad de efecto fuera de su centro.,Soigne les alliés et inflige des dégâts aux ennemis dans une zone. L'effet de ce sort est réduit de moitié en dehors de son centre.,Heile Verbündete und verursache Schaden bei Gegnern in einem bestimmten Bereich. Außerhalb seiner Mitte ist der Effekt dieses Zaubers halbiert.,Curi gli alleati e infliggi danno ai nemici in un'area. Quest'incantesimo ha efficacia dimezzata fuori dal suo centro.,Cure aliados e cause dano a inimigos em uma área. Este encantamento possui efeito pela metade fora de seu centro.,"治疗友军并伤害区域内的敌人。
 此法术在中心以外效果减半。"
@@ -1594,7 +1594,7 @@ ABILITY_PORCUPINE_DESC,Gain +2 temporary Brace and +2 temporary Thorns until you
 ABILITY_PORCUPINE2_DESC,Gain +2 temporary Brace and +2 temporary Thorns until your next turn. Also reflect the next projectile you're hit by.,,Obtiene +2 de refuerzo temporal y +2 de espinas temporal hasta el próximo turno. También devuelve el siguiente proyectil que golpee.,Garde temporaire&nbsp;+2&nbsp;et Épines temporaires&nbsp;+2&nbsp;jusqu'à votre prochain tour. Renvoie le prochain projectile qui vous vise.,"Erhalte bis zu deinem nächsten Zug +2 vorübergehendes Wappnen and +2 vorübergehende Dornen. Reflektiere außerdem das nächste Geschoss, das dich treffen würde.","Ottieni +2 Guardia temporanea e +2 Spine temporanee fino al tuo prossimo turno. Inoltre, riflette il prossimo proiettile che ti colpisce.",Obtenha +2 de preparação temporária e +2 de espinhos temporários até o seu próximo turno. Reflita projéteis que acertem você.,"直到下回合，
 获得+2临时坚毅和+2临时荆棘。
 
-还可反弹下一次被击中的投射物。"
+还可反射下一次被击中的投射物。"
 ABILITY_ANNEAL_NAME,Anneal,,Recocimiento,Recuit,Glühen,Tempra,Temperar,退火
 ABILITY_ANNEAL_DESC,Gain +1 [img:shield]. This spell costs 0 mana the first time you cast it each turn.,,Obtiene +1 [img:shield]. Este hechizo cuesta 0 de maná la primera vez que se lanza cada turno.,[img:shield]&nbsp;+1. Coûte 0&nbsp;mana au premier lancer de chaque tour.,Erhalte +1&nbsp;[img:shield]. Dieser Zauber kostet das erste Mal pro Zug 0&nbsp;Mana.,Ottieni +1 allo [img:shield]. Quest'incantesimo costa 0 mana la prima volta che lo lanci in ogni turno.,Obtenha +1 de [img:shield]. Este encantamento custa 0 de mana na primeira vez em que é lançado a cada turno.,"获得+1 [img:shield]。该法术每回合首
 次施放时消耗0法力值。"
@@ -2285,23 +2285,23 @@ ABILITY_JOLT2_DESC,Shoot a lightning bolt that deals 2 damage and knocks the uni
 害并将击中单位向其面朝方向击退6格。
 "
 ABILITY_SMOLDER_NAME,Smolder,,Llameante,Combustion,Schwelen,Braci,Fumegante,闷烧
-ABILITY_SMOLDER_DESC,Inflict Burn 1 and +1 [img:spd] to a unit in range.,,Inflige +1 de quemadura y +1 [img:spd] a una unidad dentro de su radio de alcance.,Inflige Brûlure&nbsp;+1&nbsp;et [img:spd]&nbsp;+1&nbsp;à une unité à portée.,Verursache Verbrennung&nbsp;1 und +1&nbsp;[img:spd] bei einer Einheit in Reichweite.,Infliggi Bruciatura 1 e +1 alla [img:spd] a un'unità nel raggio d'azione.,Aplique queimadura 1 e +1 de [img:spd] em uma unidade dentro do alcance.,"对范围内的单位造成燃烧1和+1 [img:spd]。
+ABILITY_SMOLDER_DESC,Inflict Burn 1 and +1 [img:spd] to a unit in range.,,Inflige +1 de quemadura y +1 [img:spd] a una unidad dentro de su radio de alcance.,Inflige Brûlure&nbsp;+1&nbsp;et [img:spd]&nbsp;+1&nbsp;à une unité à portée.,Verursache Verbrennung&nbsp;1 und +1&nbsp;[img:spd] bei einer Einheit in Reichweite.,Infliggi Bruciatura 1 e +1 alla [img:spd] a un'unità nel raggio d'azione.,Aplique queimadura 1 e +1 de [img:spd] em uma unidade dentro do alcance.,"对范围内的单位施加1层灼烧和+1 [img:spd]。
 "
 ABILITY_SMOLDER2_DESC,"Inflict Burn 1 and +1 [img:spd] to any unit.
 [s:.7](This spell costs less.)[/s]",,"Inflige +1 de quemadura y +1 [img:spd] a cualquier unidad.
 [s:.7](Este hechizo cuesta menos).[/s]",Inflige Brûlure&nbsp;+1&nbsp;et [img:spd]&nbsp;+1&nbsp;à n'importe quelle unité [s:.7](Coût réduit.)[/s],"Verursache Verbrennung&nbsp;1 und +1&nbsp;[img:spd] bei einer beliebigen Einheit.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Infliggi Bruciatura 1 e +1 alla [img:spd] a qualsiasi unità.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Aplique queimadura 1 e +1 de [img:spd] em qualquer unidade.
-[s:.7](Este encantamento custa menos.)[/s]","对任意单位造成燃烧1和+1 [img:spd]。
+[s:.7](Este encantamento custa menos.)[/s]","对任意单位造成施加1层灼烧和+1 [img:spd]。
 
 [s:.7](该法术消耗更少。)[/s]"
 ABILITY_FIRESURGE_NAME,Fire Surge,,Aumento de fuego,Amplification ardente,Feuerschwall,Ondata di Fuoco,Surto de Fogo,火焰激增
 ABILITY_FIRESURGE_DESC,"A fire spell that increases its range, area, damage, and Burn by 1 every turn.",,"Un hechizo de fuego que aumenta +1 su alcance, su área, su daño y su quemadura en cada turno.","Un sort de feu qui augmente sa portée, sa zone d'effet, ses dégâts et son effet Brûlure de&nbsp;1&nbsp;à chaque tour.","Ein Feuerzauber, der seine Reichweite, Fläche, seinen Schaden und Verbrennung jeden Zug um 1 erhöht.","Un incantesimo di fuoco che aumenta di 1 ogni turno il suo raggio, area, danno e Bruciatura.","Um encantamento de fogo que aumenta seu alcance, área, dano e queima 1 a cada turno.","一种火系法术，
 每回合增加1的射程、
-范围、伤害和燃烧。"
+范围、伤害和灼烧。"
 ABILITY_FIRESURGE2_DESC,"A fire spell that increases its range, area, damage, and Burn by 1 every turn. Starts stronger.",,"Un hechizo de fuego que aumenta +1 su alcance, su área, su daño y su quemadura en cada turno. Empieza más fuerte.","Un sort de feu qui augmente sa portée, sa zone d'effet, ses dégâts et son effet Brûlure de&nbsp;1&nbsp;à chaque tour. Commence plus fort.","Ein Feuerzauber, der seine Reichweite, Fläche, seinen Schaden und Verbrennung jeden Zug um 1 erhöht. Beginnt mit höheren Werten.","Un incantesimo di fuoco che aumenta di 1 ogni turno il suo raggio, area, danno e Bruciatura. Parte potenziata.","Um encantamento de fogo que aumenta seu alcance, área, dano e queima 1 a cada turno. Inicie mais forte.","一种火系法术，
 每回合增加1的射程、
-范围、伤害和燃烧。起始威力更强。
+范围、伤害和灼烧。起始威力更强。
 "
 ABILITY_ICESURGE_NAME,Ice Surge,,Aumento de hielo,Amplification glaciale,Eisschwall,Ondata di Ghiaccio,Surto de Gelo,冰霜激增
 ABILITY_ICESURGE_DESC,"An ice spell that increases its range and Slow every turn. At 2 turns, it gains Immobilize 1. At 3 turns, it gains Freeze 1.
@@ -2582,7 +2582,7 @@ ABILITY_PROTECTION_NAME,Protection,,Protección,Protection,Schutz,Protezione,Pro
 ABILITY_PROTECTION_DESC,Give a familiar +1 [img:divineshield].,,Otorga a un familiar +1 [img:divineshield].,Confère [img:divineshield]&nbsp;+1&nbsp;à un familier.,Verleihe einem Begleiter +1&nbsp;[img:divineshield].,Fornisci a un famiglio +1 allo [img:divineshield].,Conceda a um familiar +1 de [img:divineshield].,给一个宠物 +1 [img:divineshield]。
 ABILITY_PROTECTION2_DESC,Give familiars in a large area +1 [img:divineshield].,,Otorga a un familiar en un área amplia +1 [img:divineshield].,Confère [img:divineshield]&nbsp;+1&nbsp;à des familiers en zone.,Verleihe Begleitern in einem großen Bereich +1&nbsp;[img:divineshield].,Fornisci ai famigli in un'area più ampia +1 allo [img:divineshield].,Conceda a familiares em uma área grande +1 de [img:divineshield].,在大范围内给予宠物 +1 [img:divineshield]。
 ABILITY_PROMOTE_NAME,Promote,,Ascenso,Promotion,Beförderung,Promozione,Promover,提升
-ABILITY_PROMOTE_DESC,The next familiar you spawn becomes a [img:champion] champion.,,El siguiente familiar que se genera se convierte en adalid [img:champion].,Votre prochain familier devient un [img:champion] champion.,"Der nächste Begleiter, den du rufst, wird zum [img:champion]&nbsp;Champion.",Il prossimo famiglio che generi diventerà un campione [img:champion].,O próximo familiar gerado por você se torna um campeão [img:champion].,"你召唤的下一个宠物变成 [img:champion] 冠军。
+ABILITY_PROMOTE_DESC,The next familiar you spawn becomes a [img:champion] champion.,,El siguiente familiar que se genera se convierte en adalid [img:champion].,Votre prochain familier devient un [img:champion] champion.,"Der nächste Begleiter, den du rufst, wird zum [img:champion]&nbsp;Champion.",Il prossimo famiglio che generi diventerà un campione [img:champion].,O próximo familiar gerado por você se torna um campeão [img:champion].,"你召唤的下一个宠物变成 [img:champion] 勇者。
 "
 ABILITY_PROMOTE2_DESC,The next familiar you spawn becomes an [img:elite] elite.,,El siguiente familiar que se genera se convierte en élite [img:elite].,Votre prochain familier devient une [img:elite] élite.,"Der nächste Begleiter, den du rufst, wird zum [img:elite]&nbsp;Elite.",Il prossimo famiglio che generi diventerà un'unità di élite [img:elite].,O próximo familiar gerado por você se torna um elite [img:elite].,"你召唤的下一个宠物变成 [img:elite] 精英。
 "
@@ -3021,7 +3021,7 @@ ABILITY_FROMTHETREES2_DESC,"Summon a random animal that falls from the sky onto 
 ABILITY_HOGRUSH_NAME,Hog Rush,,Embestida de cerdo,Charge de sanglier,Schweinischer Ansturm,Carica del Cinghiale,Corrida de Porcos,猪突
 ABILITY_HOGRUSH_DESC,Trample over to a tile with meat on it.,,Pisotea hasta una casilla con carne.,Piétinement jusqu'à une case contenant de la viande.,"Trampel bis zu einem Feld, auf dem Fleisch liegt.",Effettui Calpestamento fino a una casella su cui è presente della carne.,Atropele até um espaço que possui carne.,践踏到有肉的格子上。
 ABILITY_HOGRUSH2_DESC,Trample over to a tile with meat on it and Cleave all units in your way.,,Pisotea hasta una casilla con carne e inflige Incisión a todas las unidades que encuentre por el camino.,Piétinement jusqu'à une case contenant de la viande en infligeant Fendoir aux unités sur votre passage.,"Trampel bis zu einem Feld, auf dem Fleisch liegt. Schlachte alle Einheiten in deinem Weg.",Effettui Calpestamento fino a una casella su cui è presente della carne infliggendo Fendente a tutte le unità che incontri.,Atropele até um espaço que possui carne e aplique cisão em unidades durante o caminho.,"践踏到有肉的格子上，
-并斩击路上的所有单位。"
+并横扫路上的所有单位。"
 ABILITY_BURP_NAME,Burp,,Eructo,Rot,Aufstoßen,Rutto,Arroto,打嗝
 ABILITY_BURP_DESC,Inflict Rot on a unit and it moves away from you.,,"Inflige putrefacción a una unidad, que se aleja de esta.",Inflige Décomposition&nbsp;+1&nbsp;sur une unité et l'éloigne de vous.,Verursache Fäulnis bei einer Einheit. Die Einheit bewegt sich von dir weg.,Infliggi Putrefazione a un'unità e la costringi ad allontanarsi da te.,"Aplique apodrecimento em uma unidade, que então se afasta de você.","对一个单位施加腐烂，
 它会远离你移动。"
@@ -3029,9 +3029,9 @@ ABILITY_BURP2_DESC,Inflict Rot 2 and Poison 2 on a unit and it moves away from y
 
 它会远离你移动。"
 ABILITY_SELFHARM_NAME,Self Harm,,Autolesión,Automutilation,Selbstverletzung,Autolesionismo,Automutilação,自残
-ABILITY_SELFHARM_DESC,Attack yourself with Cleave to gain +2 [img:str].,,Se autoataca con Incisión para obtener +2 [img:str].,Attaquez-vous avec Fendoir pour gagner [img:str]&nbsp;+2.,Greif dich selbst mit Schlachten an und erhalte +2&nbsp;[img:str].,Attaccati con Fendente per ottenere +2 alla [img:str].,Realize um ataque contra si com cisão para obter +2 de [img:str].,"使用斩击攻击自己以获得 +2 [img:str]。
+ABILITY_SELFHARM_DESC,Attack yourself with Cleave to gain +2 [img:str].,,Se autoataca con Incisión para obtener +2 [img:str].,Attaquez-vous avec Fendoir pour gagner [img:str]&nbsp;+2.,Greif dich selbst mit Schlachten an und erhalte +2&nbsp;[img:str].,Attaccati con Fendente per ottenere +2 alla [img:str].,Realize um ataque contra si com cisão para obter +2 de [img:str].,"使用横扫攻击自己以获得 +2 [img:str]。
 "
-ABILITY_SELFHARM2_DESC,Attack yourself at half damage with Cleave to gain +2 [img:str].,,Se autoataca con la mitad del daño de Incisión para obtener +2 [img:str].,Attaquez-vous avec Fendoir (dégâts divisés par deux) pour gagner [img:str]&nbsp;+2.,Greif dich selbst mit Schlachten an und erhalte +2&nbsp;[img:str]. Dieser Angriff verursacht halben Schaden.,Attaccati infliggendo metà danno con Fendente per ottenere +2 alla [img:str].,Realize um ataque contra si com metade do dano cisão para obter +2 de [img:str].,"使用斩击以半伤害攻击自己以获得 +2 [img:str]。
+ABILITY_SELFHARM2_DESC,Attack yourself at half damage with Cleave to gain +2 [img:str].,,Se autoataca con la mitad del daño de Incisión para obtener +2 [img:str].,Attaquez-vous avec Fendoir (dégâts divisés par deux) pour gagner [img:str]&nbsp;+2.,Greif dich selbst mit Schlachten an und erhalte +2&nbsp;[img:str]. Dieser Angriff verursacht halben Schaden.,Attaccati infliggendo metà danno con Fendente per ottenere +2 alla [img:str].,Realize um ataque contra si com metade do dano cisão para obter +2 de [img:str].,"使用横扫以一半伤害攻击自己以获得 +2 [img:str]。
 "
 ABILITY_FORCEFEED_NAME,Force Feed,,Alimentación forzada,Gavage,Zwangsfütterung,Alimentazione Forzata,Alimentação Forçada,强制喂食
 ABILITY_FORCEFEED_DESC,Heal an adjacent unit and give that unit +1 [img:con] and -1 [img:spd].,,Cura a una unidad adyacente y le otorga +1 [img:con] y -1 [img:spd].,Soigne une unité adjacente et lui confère [img:con]&nbsp;+1&nbsp;et [img:spd]&nbsp;-1.,Heile eine benachbarte Einheit und verleihe ihr +1&nbsp;[img:con] und -1&nbsp;[img:spd].,Curi un'unità adiacente e le fornisci +1 alla [img:con] e -1 alla [img:spd].,Cure uma unidade adjacente e conceda a ela +1 de [img:con] e -1 de [img:spd].,"治疗邻近单位，
@@ -3187,10 +3187,10 @@ ABILITY_LIGHTENTHELOAD2_DESC,"Take 15 damage. You take an extra turn after this 
 [s:.7](此法术无法在额外回合中施放。)[/s]"
 ABILITY_CRUSHINATOR_NAME,Crushinator,,Demoléitor,Concassinator,Quetschinator,Distruttore,Esmagador do Futuro,粉碎者
 ABILITY_CRUSHINATOR_DESC,This spell only damages Shield. Cleave and inflict Stun on units with Shield. Deals 3 Knockback to units without Shield.,,Este hechizo solo inflige daño a escudo. Inflige Incisión y aturde a unidades con escudo. Inflige 3 de retroceso a las unidades sin escudo.,Ce sort n'affecte que la défense. Fendoir et inflige Étourdissement sur les unités dotées de défense. Inflige Recul&nbsp;+3&nbsp;aux unités sans défense.,Dieser Zauber kann nur Schilde beschädigen. Schlachte und betäube Einheiten mit Schild. Verursacht 3&nbsp;Rückstoß bei Einheiten ohne Schild.,Quest'incantesimo danneggia solo lo Scudo. Infligge Fendente e Stordimento alle unità con Scudo. Infligge 3 Contraccolpo alle unità senza Scudo.,Este encantamento causa dano apenas contra escudos. Aplique cisão e atordoamento em unidades com atordoamento. Cause 3 de empurrão a unidades com escudo.,"此法术只伤害护盾。
-劈砍并使有护盾的单位眩晕。
+横扫并使有护盾的单位眩晕。
 对无护盾单位造成3点击退。"
 ABILITY_CRUSHINATOR2_DESC,This spell only damages Shield. Cleave and inflict Stun on units with Shield. Deals 10 Knockback to units without Shield.,,Este hechizo solo inflige daño a escudo. Inflige Incisión y aturde a unidades con escudo. Inflige 10 de retroceso a las unidades sin escudo.,Ce sort n'affecte que la défense. Fendoir et inflige Étourdissement sur les unités dotées de défense. Inflige Recul&nbsp;+10&nbsp;aux unités sans défense.,Dieser Zauber kann nur Schilde beschädigen. Schlachte und betäube Einheiten mit Schild. Verursacht 10&nbsp;Rückstoß bei Einheiten ohne Schild.,Quest'incantesimo danneggia solo lo Scudo. Infligge Fendente e Stordimento alle unità con Scudo. Infligge10 Contraccolpo alle unità senza Scudo.,Este encantamento causa dano apenas contra escudos. Aplique cisão e atordoamento em unidades com atordoamento. Cause 10 de empurrão a unidades com escudo.,"此法术只伤害护盾。
-劈砍并使有护盾的单位眩晕。
+横扫并使有护盾的单位眩晕。
 对无护盾单位造成10点击退。"
 ABILITY_CANNONBALL_NAME,Cannon Ball!,,Bala de cañón,Boule de canon,Kanonenkugel!,Palla di Cannone!,Bola de Canhão!,炮弹！
 ABILITY_CANNONBALL_DESC,"Target any tile. At the beginning of your next turn, jump to that tile. If you land on a unit, stun it.
@@ -4399,12 +4399,12 @@ ABILITY_SUPPER2_DESC,"Heal 15 HP, gain -2 [img:spd] and +5 Health Regeneration.
 
 [s:.7](每场战斗可施放一次。)[/s]"
 ABILITY_FULLFORCE_NAME,Full Force,,Fuerza máxima,Force totale,Volle Power,Piena Forza,Força Total,全力以赴
-ABILITY_FULLFORCE_DESC,Deal damage equal to your [img:con] and inflict Stun. Also stuns yourself.,,Inflige una cantidad de daño igual a su [img:con] y aturde. También se aturde a sí misma.,Vous infligez des dégâts à hauteur de votre [img:con] ainsi qu'Étourdissement. Vous êtes aussi victime d'Étourdissement.,Verursache Schaden in Höhe deiner [img:con] und verursache Betäubung. Betäubt dich außerdem selbst.,Infliggi un danno pari alla tua [img:con] e causi Stordimento. Anche tu subisci Stordimento.,Cause dano equivalente à sua [img:con] e aplique atordoamento. Aplique atordoamento também em si.,"造成等同于你 [img:con] 的伤害并使目标昏迷。
+ABILITY_FULLFORCE_DESC,Deal damage equal to your [img:con] and inflict Stun. Also stuns yourself.,,Inflige una cantidad de daño igual a su [img:con] y aturde. También se aturde a sí misma.,Vous infligez des dégâts à hauteur de votre [img:con] ainsi qu'Étourdissement. Vous êtes aussi victime d'Étourdissement.,Verursache Schaden in Höhe deiner [img:con] und verursache Betäubung. Betäubt dich außerdem selbst.,Infliggi un danno pari alla tua [img:con] e causi Stordimento. Anche tu subisci Stordimento.,Cause dano equivalente à sua [img:con] e aplique atordoamento. Aplique atordoamento também em si.,"造成等同于你 [img:con] 的伤害并对目标施加眩晕。
 
-同时你自己也会昏迷。"
-ABILITY_FULLFORCE2_DESC,Deal damage equal to your [img:con] and inflict Stun and Bruise 4. Also stuns yourself.,,"Inflige una cantidad de daño igual a su [img:con], aturde e inflige 4 de moratón. También se aturde a sí misma.",Vous infligez des dégâts à hauteur de votre [img:con] ainsi qu'Étourdissement et Contusion. Vous êtes aussi victime d'Étourdissement.,Verursache Schaden in Höhe deiner [img:con] und verursache Betäubung und Beulen&nbsp;4. Betäubt dich außerdem selbst.,Infliggi un danno pari alla tua [img:con] e causi Stordimento e Livido 4. Anche tu subisci Stordimento.,Cause dano equivalente à sua [img:con] e aplique atordoamento e contusão 4. Aplique atordoamento também em si.,"造成等同于你 [img:con] 的伤害并附加昏迷和4层挫伤。
+同时你自己也会眩晕。"
+ABILITY_FULLFORCE2_DESC,Deal damage equal to your [img:con] and inflict Stun and Bruise 4. Also stuns yourself.,,"Inflige una cantidad de daño igual a su [img:con], aturde e inflige 4 de moratón. También se aturde a sí misma.",Vous infligez des dégâts à hauteur de votre [img:con] ainsi qu'Étourdissement et Contusion. Vous êtes aussi victime d'Étourdissement.,Verursache Schaden in Höhe deiner [img:con] und verursache Betäubung und Beulen&nbsp;4. Betäubt dich außerdem selbst.,Infliggi un danno pari alla tua [img:con] e causi Stordimento e Livido 4. Anche tu subisci Stordimento.,Cause dano equivalente à sua [img:con] e aplique atordoamento e contusão 4. Aplique atordoamento também em si.,"造成等同于你 [img:con] 的伤害并附加眩晕和4层挫伤。
 
-同时你自己也会昏迷。"
+同时你自己也会眩晕。"
 ABILITY_SANDSTORM_NAME,Sandstorm,,Tormenta de arena,Tempête de sable,Sandsturm,Tempesta di Sabbia,Tempestade de Areia,沙尘暴
 ABILITY_SANDSTORM_DESC,"Start a sandstorm.
 (Sandstorm deals 1 damage to all units at the end of round.)
@@ -4517,7 +4517,7 @@ ABILITY_NIP2_DESC,Deal 1 damage and inflict Bruise on a unit.,,Inflige 1 de dañ
 ABILITY_PUSH_NAME,Push,,Empellón,Poussée,Schubser,Spinta,Empurrão,推开
 ABILITY_PUSH_DESC,Knockback a unit 2 tiles.,,Hace retroceder una unidad 2 casillas.,Recul à une unité sur 2&nbsp;cases.,Stoße eine Einheit 2&nbsp;Felder zurück.,Respingi indietro un'unità di 2 caselle.,Empurre uma unidade 2 espaços para trás.,将单位击退2格。
 ABILITY_PUSH2_DESC,Turn an adjacent unit around and knock it back 2 tiles.,,Le da la vuelta a una unidad adyacente y la hace retroceder 2 casillas.,Vous faites faire demi-tour à une unité adjacente et lui infligez Recul sur 2&nbsp;cases.,Dreh eine benachbarte Einheit um und stoße sie 2&nbsp;Felder zurück.,Fai girare un'unità adiacente e la fai arretrare di 2 caselle.,Vire uma unidade adjacente e a empurre por 2 espaços para trás.,将相邻单位转向并击退2格。
-ABILITY_FALCONPUNCH_NAME,Falcon Punch,,Puñetazo del halcón,Poing du faucon,Megahieb,Pugno di Falco,Soco do Falcão,鹰拳
+ABILITY_FALCONPUNCH_NAME,Falcon Punch,,Puñetazo del halcón,Poing du faucon,Megahieb,Pugno di Falco,Soco do Falcão,隼拳
 ABILITY_FALCONPUNCH_DESC,"Charge up a mega punch.
 [s:.7](This punch will be unleashed on your next turn.)[/s]
 [s:.7](Castable once per turn.)[/s]",,"Carga un megaataque.
@@ -4528,7 +4528,7 @@ ABILITY_FALCONPUNCH_DESC,"Charge up a mega punch.
 [s:.7](Questo pugno verrà sferrato al tuo prossimo turno.)[/s]
 [s:.7](Lanciabile una volta per turno.)[/s]","Carregue um mega soco.
 [s:.7](Este soco será lançado no seu próximo turno.)[/s]
-[s:.7](Um lançamento por turno.)[/s]","蓄力巨拳。
+[s:.7](Um lançamento por turno.)[/s]","蓄力大力一拳。
 [s:.7](该拳将在你的下回合释放。)[/s]
 [s:.7](每回合可施放一次。)[/s]"
 ABILITY_FALCONPUNCH2_DESC,"Charge up a mega dash attack.
@@ -4541,7 +4541,7 @@ ABILITY_FALCONPUNCH2_DESC,"Charge up a mega dash attack.
 [s:.7](Questo pugno verrà sferrato al tuo prossimo turno.)[/s]
 [s:.7](Lanciabile una volta per turno.)[/s]","Carregue um mega ataque de impulso.
 [s:.7](Este ataque será lançado no seu próximo turno.)[/s]
-[s:.7](Um lançamento por turno.)[/s]","蓄力巨冲攻击。
+[s:.7](Um lançamento por turno.)[/s]","蓄力大力冲刺攻击。
 [s:.7](该拳将在你的下回合释放。)[/s]
 [s:.7](每回合可施放一次。)[/s]"
 ABILITY_EXERT_NAME,Exert,,Esfuerzo,Épuisement,Überanstrengung,Sforzo,Exaurir,发挥
@@ -4816,7 +4816,7 @@ ABILITY_CHAOSRAMPAGE_DESC,"Take an extra turn. You have Madness 1 and Confusion 
 [s:.7](Kann nicht in einem zusätzlichen Zug verwendet werden.)[/s]","Usi un turno aggiuntivo. Hai Follia 1 e Confusione 1 in quel turno.
 [s:.7](Quest'incantesimo non può essere lanciato nei turni aggiuntivi.)[/s]","Obtenha um turno adicional. Você possui insanidade 1 e confusão 1 nesse turno.
 [s:.7](Este encantamento não pode ser lançado em turnos extras.)[/s]","获得额外回合。
-该回合你具有1层疯狂和1层迷惑。
+该回合你具有1层疯狂和1层困惑。
 
 [s:.7](该法术不能在额外回合施放。)[/s]"
 ABILITY_CHAOSRAMPAGE2_DESC,"Take an extra turn. You have Madness 1 on that turn.
@@ -5190,7 +5190,7 @@ ABILITY_DISTRACT2_DESC,"Make any unit look away from you. This has a 33% chance 
 ",Fai voltare qualsiasi unità dall'altra parte rispetto a te. Ha un 33% di probabilità di infliggere Confusione.,Faça uma unidade se virar de costas para você. Isto possui 33% de chance de aplicar confusão.,"让任何单位背对你。
 这有33%的几率造成困惑效果。
 "
-ABILITY_REBOUND_NAME,Rebound,,Rebote,Rebond,Abprall,Rimbalzo,Rebote,反弹
+ABILITY_REBOUND_NAME,Rebound,,Rebote,Rebond,Abprall,Rimbalzo,Rebote,反作用
 ABILITY_REBOUND_DESC,A melee attack that rebounds you backwards 10 tiles.,,Un ataque cuerpo a cuerpo que hace retroceder a esta unidad 10 casillas.,Attaque au corps-à-corps qui vous fait rebondir vers l'arrière sur 10&nbsp;cases.,"Ein Nahkampfangriff, der dich 10&nbsp;Felder nach hinten schleudert.",Un attacco corpo a corpo che ti fa rimbalzare indietro di 10 caselle.,Um ataque corpo-a-corpo que faz você ricochetear 10 espaços para trás.,"一次近战攻击，
 将你向后弹开10格。"
 ABILITY_REBOUND2_DESC,A melee attack that rebounds you backwards 10 tiles. Deal damage to any unit you collide with.,,Un ataque cuerpo a cuerpo que hace retroceder a esta unidad 10 casillas. Inflige daño a la unidad contra la que choque.,Attaque au corps-à-corps qui vous fait rebondir vers l'arrière sur 10&nbsp;cases. Vous infligez des dégâts aux unités que vous percutez.,"Ein Nahkampfangriff, der dich 10&nbsp;Felder nach hinten schleudert. Verursache Schaden bei jeder Einheit, mit der du zusammenprallst.",Un attacco corpo a corpo che ti fa rimbalzare indietro di 10 caselle. Infliggi danno a qualsiasi unità con cui entri in collisione.,Um ataque corpo-a-corpo que faz você ricochetear 10 espaços para trás. Cause dano a qualquer unidade com a qual você colidir.,"一次近战攻击，
@@ -5199,10 +5199,10 @@ ABILITY_REBOUND2_DESC,A melee attack that rebounds you backwards 10 tiles. Deal 
 ABILITY_CUTPURSE_NAME,Cut Purse,,Carterismo,Coupeur de bourse,Halsabschneider,Borsaiolo,Rasgo de Bolsa,扒窃
 ABILITY_CUTPURSE_DESC,Throw a nail that knocks coins out of units it hits and ignores shield.,,Lanza 1 clavo que hace que las unidades golpeadas suelten monedas e ignora el escudo.,Vous lancez 1&nbsp;clou qui fait tomber les pièces des unités et ignore la défense.,"Wirf einen Nagel, der Schilde ignoriert. Einheiten, die getroffen werden, lassen Münzen fallen.",Lanci un chiodo che fa cadere delle monete dalle unità colpite e ignora lo scudo.,Lance um prego que derruba moedas de unidades que golpeia e ignora escudos.,"投掷一个钉子，
 将命中的单位的钱币击落，
-并无视盾牌。"
+并无视护盾。"
 ABILITY_CUTPURSE2_DESC,Throw 2 nails that knock coins out of units they hit and ignore shield.,,Lanza 2 clavos que hacen que las unidades golpeadas suelten monedas e ignora el escudo.,Vous lancez 2&nbsp;clous qui fait tomber les pièces des unités et ignore la défense.,"Wirf zwei Nägel, die Schilde ignorieren. Einheiten, die getroffen werden, lassen Münzen fallen.",Lanci due chiodi che fanno cadere delle monete dalle unità colpite e ignorano lo scudo.,Lance 2 pregos que derrubam moedas de unidades que golpeiam e ignoram escudos.,"投掷2个钉子，
 将命中的单位的钱币击落，
-并无视盾牌。"
+并无视护盾。"
 ABILITY_EAGLEEYE_NAME,Eagle Eye,,Ojo de águila,Œil de faucon,Adlerauge,Occhio d'Aquila,Olho de Águia,鹰眼
 ABILITY_EAGLEEYE_DESC,Spawn 2-3 coins on random tiles.,,Genera 2-3 monedas en casillas al azar.,Vous faites apparaître entre 2&nbsp;et 3&nbsp;pièces sur des cases au hasard.,Lasse 2&nbsp;– 3 Münzen auf zufälligen Feldern erscheinen.,Generi 2-3 monete su caselle casuali.,Gere 2-3 moedas em espaços aleatórios.,"在随机格子上生成2-3个金币。
 "
@@ -5643,10 +5643,10 @@ ABILITY_SUMMONBRAMBLES_NAME,Summon Brambles,,Invocación de zarzas,Invocation de
 ABILITY_SUMMONBRAMBLES_DESC,Spawn brambles on any tile.,,Genera zarzas en cualquier casilla.,Vous faites apparaître des ronces sur une case.,Lass auf einem beliebigen Feld Dornengestrüpp erscheinen.,Generi rovi su qualsiasi casella.,Gere espinheiros em qualquer espaço.,在任意格子上生成荆棘。
 ABILITY_SUMMONBRAMBLES2_DESC,Spawn brambles in an area.,,Genera zarzas en un área.,Vous faites apparaître des ronces dans une zone.,Lass in einem bestimmten Bereich Dornengestrüpp erscheinen.,Generi rovi in un'area.,Gere espinheiros em uma área.,在一个区域内生成荆棘。
 ABILITY_FIRESHOT_NAME,Fire Shot,,Tiro de fuego,Tir de feu,Feuerschuss,Tiro Infuocato,Tiro de Fogo,火焰射击
-ABILITY_FIRESHOT_DESC,Shoot a projectile that inflicts Burn 2 and lights fires.,,Dispara un proyectil que inflige 2 de quemadura y enciende fuegos.,Vous tirez un projectile qui inflige Brûlure&nbsp;+2&nbsp;et enflamme les cases.,"Feuere ein Geschoss, das Verbrennung&nbsp;2 verursacht und Feuer entzündet.",Spari un proiettile che infligge Bruciatura 2 e genera incendi.,Dispare um projétil que aplica queimadura 2 e acende fogos.,"发射一枚造成烧伤2并点燃火焰的投射物。
+ABILITY_FIRESHOT_DESC,Shoot a projectile that inflicts Burn 2 and lights fires.,,Dispara un proyectil que inflige 2 de quemadura y enciende fuegos.,Vous tirez un projectile qui inflige Brûlure&nbsp;+2&nbsp;et enflamme les cases.,"Feuere ein Geschoss, das Verbrennung&nbsp;2 verursacht und Feuer entzündet.",Spari un proiettile che infligge Bruciatura 2 e genera incendi.,Dispare um projétil que aplica queimadura 2 e acende fogos.,"发射一枚施加2层灼烧并点燃火焰的投射物。
 "
 ABILITY_FIRESHOT2_DESC,Shoot a projectile with infinite range that inflicts Burn 4 and lights fires.,,Dispara un proyectil con alcance infinito que inflige 4 de quemadura y enciende fuegos.,Vous tirez un projectile sans limite de portée qui inflige Brûlure&nbsp;+4&nbsp;et enflamme les cases.,"Feuere ein Geschoss mit unendlicher Reichweite, das Verbrennung&nbsp;4 verursacht und Feuer entzündet.",Spari un proiettile con raggio d'azione infinito che infligge Bruciatura 4 e genera incendi.,Dispare um projétil com alcance infinito que aplica queimadura 4 e acende fogos.,"发射一枚具有无限射程、
-造成烧伤4并点燃火焰的投射物。
+施加4层灼烧并点燃火焰的投射物。
 "
 ABILITY_TRAILBLAZER_NAME,Trail Blazer,,Vanguardista,Pionnier,Wegbereiter,Pioniere,Pioneirismo,开路先锋
 ABILITY_TRAILBLAZER_DESC,Increase your movement. You're unaffected by tile effects until the end of the turn.,,Aumenta el movimiento. No le afectan los efectos de casilla hasta el final del turno.,Votre déplacement augmente. Vous résistez aux effets de case jusqu'à la fin du tour.,Erhöhe deine Bewegung. Bis zum Ende deines Zuges bist du immun gegen Feldeffekte.,Aumenti il tuo movimento. Non subisci alcuna influenza dagli effetti delle caselle fino alla fine del turno.,Aumente seu movimento. Você não sofre efeitos de espaços até o final do turno.,"增加你的移动力。
@@ -6146,7 +6146,7 @@ ABILITY_SPRINGSHOES_NAME,Spring Shoes,,Zapatos con muelles,Chaussures à ressort
 ABILITY_SPRINGSHOES_DESC,Jump up to 2 tiles away.,,Salta hasta a 2 casillas de distancia.,Vous sautez dans un rayon de 2&nbsp;cases.,Spring bis zu 2&nbsp;Felder weit.,Salti fino a 2 caselle di distanza.,Pule para até 2 espaços de distância.,跳跃至最多2格之外。
 ABILITY_SPRINGSHOES2_DESC,Jump up to 5 tiles away.,,Salta hasta a 5 casillas de distancia.,Vous sautez dans un rayon de 5&nbsp;cases.,Spring bis zu 5&nbsp;Felder weit.,Salti fino a 5 caselle di distanza.,Pule para até 5 espaços de distância.,跳跃至最多5格之外。
 ABILITY_FLAMETHROWER_NAME,Flamethrower,,Lanzallamas,Lance-flammes,Flammenwerfer,Lanciafiamme,Lança-Chamas,火焰喷射器
-ABILITY_FLAMETHROWER_DESC,Shoot a flame that inflicts Burn.,,Dispara una llama que inflige quemadura.,Vous tirez une flamme qui inflige Brûlure.,"Feuere eine Flamme, die Verbrennung verursacht.",Spari una fiamma che infligge Bruciatura.,Lance uma chama que aplica queimadura.,射出燃烧的火焰。
+ABILITY_FLAMETHROWER_DESC,Shoot a flame that inflicts Burn.,,Dispara una llama que inflige quemadura.,Vous tirez une flamme qui inflige Brûlure.,"Feuere eine Flamme, die Verbrennung verursacht.",Spari una fiamma che infligge Bruciatura.,Lance uma chama que aplica queimadura.,射出燃烧的火焰并使其附加灼烧。
 ABILITY_AUTOPILOT_NAME,Autopilot,,Piloto automático,Pilote automatique,Autopilot,Pilota Automatico,Piloto Automático,自动驾驶
 ABILITY_AUTOPILOT_DESC,Take an extra turn after this one. You are AI controlled on that turn.,,"Juega un turno extra después de este. Ese turno, esta unidad está controlada por la IA.",Vous jouez un tour supplémentaire après celui-ci au cours duquel l'IA prend le contrôle.,Erhalte nach diesem Zug einen zusätzlichen Zug. Während dieses Zuges bist du computergesteuert.,Ottieni un turno aggiuntivo dopo questo. In quel turno le tue azioni saranno controllate dall'IA.,Obtenha um turno adicional após este. Você fica sob controle do computador nesse turno.,"在此回合后获得额外回合。
 该回合由AI控制。"
@@ -6382,7 +6382,7 @@ ABILITY_MECHSUIT2_DESC,"Summon a mech suit that can be piloted.
 [s:.7](Este encantamento custa 0 de mana. Um lançamento por batalha.)[/s]","召唤可以驾驶的机甲套装。
 [s:.7](消耗0法力值。
 每场战斗可施放一次。)[/s]"
-ABILITY_UNRELIABLESHIELD_NAME,Unreliable Shield Generator,,Generador de escudo poco fiable,Générateur de bouclier capricieux,Unzuverlässiger Schildgenerator,Generatore di Scudi Inaffidabile,Gerador de Escudo Pouco Confiável,不可靠的盾牌发电机
+ABILITY_UNRELIABLESHIELD_NAME,Unreliable Shield Generator,,Generador de escudo poco fiable,Générateur de bouclier capricieux,Unzuverlässiger Schildgenerator,Generatore di Scudi Inaffidabile,Gerador de Escudo Pouco Confiável,不可靠的护盾发生器
 ABILITY_UNRELIABLESHIELD_DESC,Gain +6 [img:shield] and +1 temporary Brace. This spell has a 75% chance to be disabled on each turn.,,Obtiene +6 [img:shield] y +1 de refuerzo temporal. Este hechizo tiene un 75 % de probabilidad de deshabilitarse en cada turno.,[img:shield]&nbsp;+6&nbsp;et Garde temporaire&nbsp;+1. Ce sort a 75&nbsp;% de chances d'être désactivé à chaque tour.,"Erhalte +6&nbsp;[img:shield] und +1&nbsp;vorübergehendes Wappnen. Dieser Zauber hat eine 75%ige Wahrscheinlichkeit pro Zug, deaktiviert zu werden.",Ottieni +6 allo [img:shield] e +1 alla Guardia temporanea. Quest'incantesimo ha un 75% di probabilità di essere disattivato a ogni turno.,Obtenha +6 de [img:shield] e +1 de preparação temporária. Este encantamento possui 75% de chance de ser desabilitado em cada turno.,"获得+6 [img:shield] 和+1临时坚毅。
 此技能每回合有75%的几率被禁用。"
 ABILITY_UNRELIABLESHIELD2_DESC,"Get +6 [img:shield] and +1 temporary Brace. This spell has a 66% chance to be disabled on each turn.
@@ -6422,8 +6422,8 @@ ABILITY_SPLITTHEATOM_DESC,"Deal 50 damage to and inflict Burn 10 on all enemies.
 [s:.7](El coste de maná de este hechizo no se puede modificar).[/s]",Dégâts&nbsp;+50&nbsp;et Brûlure&nbsp;+10&nbsp;à tous les ennemis. Vous pouvez étaler le coût du sort sur plusieurs tours. [s:.7](Impossible de modifier son coût en mana.)[/s],"Verursache 50&nbsp;Schaden und Verbrennung&nbsp;10 bei allen Gegnern. Du kannst die Kosten dieses Zaubers über mehrere Züge ansammeln.
 [s:.7](Die Manakosten dieses Zaubers können nicht verändert werden.)[/s]","Infliggi 50 di danno e Bruciatura 10 a tutti i nemici. Puoi pagare quest'incantesimo in più turni.
 [s:.7](Il costo in mana di questo incantesimo non può essere modificato.)[/s]","Cause 50 de dano e aplique queimadura 10 em todos os inimigos. É possível pagar o custo deste encantamento durante diversas rodadas.
-[s:.7](O custo de mana deste encantamento não pode sofrer modificações.)[/s]","对所有敌人造成50点伤害并附加10层燃烧。
-
+[s:.7](O custo de mana deste encantamento não pode sofrer modificações.)[/s]","对所有敌人造成50点伤害并附加10层灼烧。
+你可以在多个回合内支付这个法术的费用。
 [s:.7](该法术的法力消耗无法被修改。)
 [/s]"
 ABILITY_SPLITTHEATOM2_DESC,"Deal 50 damage to and inflict Burn 10 on all enemies. You can pay for this spell over multiple turns.
@@ -6435,8 +6435,8 @@ Dieser Zauber absorbiert das Mana, das du für andere Zauber ausgibst.
 [s:.7](Die Manakosten dieses Zaubers können nicht verändert werden.)[/s]","Infliggi 50 di danno e Bruciatura 10 a tutti i nemici. Puoi pagare quest'incantesimo in più turni. Quest'incantesimo assorbe il mana che spendi per lanciare altri incantesimi.
 [s:.7](Il costo in mana di questo incantesimo non può essere modificato.)[/s]","Cause 50 de dano e aplique queimadura 10 em todos os inimigos. É possível pagar o custo deste encantamento durante diversas rodadas.
 Este encantamento absorve a mana que você gasta ao lançar outros encantamentos.
-[s:.7](O custo de mana deste encantamento não pode sofrer modificações.)[/s]","对所有敌人造成50点伤害并附加10层燃烧。
-
+[s:.7](O custo de mana deste encantamento não pode sofrer modificações.)[/s]","对所有敌人造成50点伤害并附加10层灼烧。
+你可以在多个回合内支付这个法术的费用。
 该法术吸收你施放其他法术时消耗的法力值。
 
 [s:.7](该法术的法力消耗无法被修改。)[/s]"
