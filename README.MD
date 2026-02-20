@@ -13,6 +13,14 @@
 本补丁采用 **AI 辅助翻译 + 游戏内测试校对** 的方式制作，后续版本将持续优化翻译质量与术语统一。  
 欢迎提交反馈和修正建议。
 
+### v0.5 更新内容
+- 针对《以撒的结合》等联动物品，手工调整对应术语与原游戏一致（如 `Guppy` 统一译为“嗝屁猫”；以撒联动道具优先沿用以撒社区常见译法，如神性套装三个部件译为“肉体”“思想”“灵魂”）  
+- 对 `events` 与 `npc_dialog` 进行了大幅文本更新与本地化优化，显著提升语句自然度与上下文连贯性  
+- 针对跨文件术语一致性问题进行了集中优化，提升翻译质量与上下文连贯性  
+- 结合模型推理与人工校对，修复并优化了多处关键词在不同语境下的译法  
+- 新增包含中文猫名的文档：`catnames_male_en.txt`、`catnames_female_en.txt`、`catnames_neutral_en.txt`  
+- 如需在游戏中启用中文猫名，请将以上 3 个 `txt` 文件放入 `data` 文件夹（与 `text` 文件夹同级）
+
 ### v0.4 更新内容
 - 对 `events` 与 `npc_dialog` 进行了整体验证与本地化润色，提升语句自然度与上下文一致性  
 - 统一游戏内关键词翻译，并修复一小部分错翻与漏翻  
@@ -34,6 +42,8 @@
 - 名字风格不限，可严肃、可搞怪、可古风、可现代  
 - 已新增空白模板：`Mewgenics_CN_patch/catnames_community_template.csv`  
 - 填写方式：第一列“男猫名字”、第二列“女猫”、第三列“中性”；每个单元格填写一个名字，可留空，不要改表头与列顺序  
+- 当前已提供中文猫名文档：`catnames_male_en.txt`、`catnames_female_en.txt`、`catnames_neutral_en.txt`  
+- 若要在游戏中生效，请将上述 3 个 `txt` 文件放入 `data` 文件夹（与 `text` 文件夹同级）  
 - 为避免争议与审核风险，以下类型不纳入：  
    - 现实人物姓名（公众人物、创作者、主播等）  
    - 违法违规、仇恨歧视、政治敏感、成人低俗内容  
@@ -41,11 +51,8 @@
    - 恶意引战、攻击性、侮辱性词汇
 
 ### 致谢
-- 感谢 [DR9K69AI79](https://github.com/DR9K69AI79) 提供字体更改支持  
-- 感谢 [Supuritto](https://github.com/Supuritto) 在补丁开发期间提供贡献与支持
-- 感谢 [TeddyHuang-00](https://github.com/TeddyHuang-00) 在补丁开发期间提供贡献与支持  
-- 感谢 [Xsakura1314](https://github.com/Xsakura1314) 在补丁开发期间提供贡献与支持  
-- 感谢 [Claude-yuliu](https://github.com/Claude-yuliu) 在补丁开发期间提供贡献与支持
+- 感谢 [infinityedge01](https://github.com/infinityedge01)、[elmagnificogi](https://github.com/elmagnificogi)、[Supuritto](https://github.com/Supuritto)、[TeddyHuang-00](https://github.com/TeddyHuang-00)、[Xsakura1314](https://github.com/Xsakura1314)、[Claude-yuliu](https://github.com/Claude-yuliu) 在补丁开发期间提供贡献与支持  
+- 感谢 [DR9K69AI79](https://github.com/DR9K69AI79) 提供字体更改支持
 
 ### 安装方法
 1. 在 **Releases** 页面下载最新补丁  
@@ -100,6 +107,14 @@ This project provides a **Chinese translation patch for Mewgenics**, covering mo
 The translation is created using **AI-assisted translation and in-game testing**, and future updates will continue to improve translation quality and terminology consistency.  
 Feedback and correction suggestions are welcome.
 
+### v0.5 Changes
+- Manually aligned crossover item terminology (especially for *The Binding of Isaac* references) with established in-game naming conventions (e.g., `Guppy` -> “嗝屁猫”; Isaac crossover terms follow Isaac-localization conventions, including “肉体 / 思想 / 灵魂” for the Godhead set components)  
+- Performed major text updates and localization optimization for `events` and `npc_dialog`, significantly improving fluency and contextual coherence  
+- Improved cross-file terminology consistency to enhance translation quality and context coherence  
+- Combined model-assisted refinement with manual review to fix and polish term usage across different contexts  
+- Added documents containing Chinese cat names: `catnames_male_en.txt`, `catnames_female_en.txt`, `catnames_neutral_en.txt`  
+- To use Chinese cat names in-game, place the 3 `txt` files into the `data` folder (same level as the `text` folder)
+
 ### v0.4 Changes
 - Performed full localization polish for `events` and `npc_dialog`, improving fluency and contextual consistency  
 - Unified in-game keyword translations and fixed a small subset of mistranslations/missing lines  
@@ -121,6 +136,8 @@ Feedback and correction suggestions are welcome.
 - Any naming style is welcome (serious, playful, classical, modern, etc.)  
 - Added blank template: `Mewgenics_CN_patch/catnames_community_template.csv`  
 - How to fill: column 1 = male names, column 2 = female names, column 3 = neutral names; one name per cell, empty cells are allowed, and please keep the header and column order unchanged  
+- Current Chinese cat-name docs: `catnames_male_en.txt`, `catnames_female_en.txt`, `catnames_neutral_en.txt`  
+- To make them work in-game, place the 3 `txt` files into the `data` folder (same level as the `text` folder)  
 - To avoid moderation and legal issues, the following categories are excluded:  
    - Real-person names (public figures, creators, streamers, etc.)  
    - Illegal, hateful, discriminatory, political-sensitive, explicit/sexual content  
@@ -128,11 +145,8 @@ Feedback and correction suggestions are welcome.
    - Provocative, abusive, or harassment-oriented naming
 
 ### Acknowledgements
-- Thanks to [DR9K69AI79](https://github.com/DR9K69AI79) for font modification support  
-- Thanks to [Supuritto](https://github.com/Supuritto) for contributions and support during patch development
-- Thanks to [TeddyHuang-00](https://github.com/TeddyHuang-00) for contributions and support during patch development  
-- Thanks to [Xsakura1314](https://github.com/Xsakura1314) for contributions and support during patch development  
-- Thanks to [Claude-yuliu](https://github.com/Claude-yuliu) for contributions and support during patch development
+- Thanks to [infinityedge01](https://github.com/infinityedge01), [elmagnificogi](https://github.com/elmagnificogi), [Supuritto](https://github.com/Supuritto), [TeddyHuang-00](https://github.com/TeddyHuang-00), [Xsakura1314](https://github.com/Xsakura1314), and [Claude-yuliu](https://github.com/Claude-yuliu) for contributions and support during patch development  
+- Thanks to [DR9K69AI79](https://github.com/DR9K69AI79) for font modification support
 
 ### Installation
 1. Download the latest patch from **Releases**  
