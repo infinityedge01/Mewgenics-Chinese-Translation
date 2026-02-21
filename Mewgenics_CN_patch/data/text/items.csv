@@ -3065,7 +3065,7 @@ Du kannst nur Einheiten angreifen, die sich in einer geraden Linie vor dir befin
 Non puoi colpire unità che non siano direttamente davanti a te in linea retta.","Suas habilidades possuem 100% de precisão e +50% de chance de crítico.
 Você não pode golpear nenhuma unidade que não esteja diretamente em uma linha reta na sua frente.",,,,"你的
 技能拥有 100% 命中率和
- +50% [img:crit] 暴击率。
+ +50% 暴击率。
 你无法命中任何不处于你正前方直线上的单位。"
 ARMOR_INFAMOUSMASK_NAME,Infamous Mask,,Máscara infame,Masque horrible,Berüchtigte Maske,Maschera Malfamata,Máscara Infame,,,,恶名昭彰面具
 ARMOR_INFAMOUSMASK_DESC,Block attacks from the front.,,Bloquea los ataques de frente.,Bloque les attaques frontales.,Blockiert Angriffe von vorn.,Blocchi gli attacchi frontali.,Bloqueia ataques pela frente.,,,,[b]格挡[/b]来自正面的攻击。
